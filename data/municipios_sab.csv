@@ -1,0 +1,1136 @@
+"","ID","GEOCODIGO","GEOCODIGO1","MUNICIPIO","UF_COD","UF","REGIAO","MESO_COD","MESOREGIAO","MICRO_COD","MICROREGIA","AREA_KM2","SEMIARIDO","POPULACAO_TOTAL","POPULACAO_URBANA","populacao_abastecida","rede_agua","Vol_agua_ano","agua_trat_ETA","vol_agua_cons","vol_agua_faturado","vol_agua_expo","vol_agua_impo","vol_agua_trat_expo","pop_urb_abast"
+"1",1,2200053,220005,"Acauã",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1279.6,"Sim",6933,926,1563,4.07,78.59,78.59,45.91,63.85,0,0,0,903
+"2",4,2200251,220025,"Alagoinha do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",533,"Sim",7501,2727,3316,5.07,198.73,0,105.86,142.57,0,0,0,2659
+"3",5,2200277,220027,"Alegrete do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",282.7,"Sim",4832,2660,4832,45,56.5,0,56.5,0,56.5,0,0,2660
+"4",8,2200459,220045,"Alvorada do Gurguéia",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",2132,"Sim",5278,1932,3954,32.3,450,19,432,380,0,0,0,1922
+"5",11,2200707,220070,"Anísio de Abreu",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",337.9,"Sim",9597,4750,6086,14.82,346.51,0,196.67,250.41,0,0,0,4631
+"6",13,2200905,220090,"Aroazes",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",821.7,"Sim",5763,3421,4192,22.17,282.41,0,149.99,179.95,0,0,0,3335
+"7",14,2200954,220095,"Aroeiras do Itaim",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",257.1,"Sim",2460,240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8",16,2201051,220105,"Assunção do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",1690.7,"Sim",7686,3460,3378,18,398.7,0,398.7,398.72,0,0,0,3378
+"9",17,2201101,220110,"Avelino Lopes",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22012,"Chapadas do Extremo Sul Piauiense",1305.5,"Sim",11433,6936,7873,17.93,578.37,578.37,286.85,322.07,0,0,0,6763
+"10",24,2201556,220155,"Bela Vista do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",499.4,"Sim",3919,1289,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11",25,2201572,220157,"Belém do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",243.3,"Sim",3464,1691,2148,14.49,111.58,111.58,64.91,93.28,0,0,0,1649
+"12",27,2201705,220170,"Bertolínia",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",1225.3,"Sim",5402,3955,4804,24.76,361.5,0,201.01,230.05,0,0,0,3856
+"13",28,2201739,220173,"Betânia do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",564.7,"Sim",6097,1701,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14",30,2201804,220180,"Bocaina",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",268.6,"Sim",4436,1773,2355,9.04,169.43,0,90.94,111.14,0,0,0,1729
+"15",31,2201903,220190,"Bom Jesus",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",5469.2,"Sim",24327,18945,23447,26.48,1993.79,0,1088.37,1209.68,0,0,0,18471
+"16",33,2201929,220192,"Bonfim do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",289.2,"Sim",5549,1682,1436,6,89.43,89.43,46.94,60.41,0,0,0,1436
+"17",36,2201988,220198,"Brejo do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",2183.3,"Sim",3871,1434,2033,6.71,136.04,0,72.45,91.45,0,0,0,1398
+"18",38,2202026,220202,"Buriti dos Montes",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",2652.1,"Sim",8188,2486,5598,58.43,1314,0,1128,0,0,0,0,2486
+"19",40,2202075,220207,"Cajazeiras do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",514.4,"Sim",3471,1155,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20",42,2202091,220209,"Caldeirão Grande do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",494.9,"Sim",5674,1663,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21",43,2202109,220210,"Campinas do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",831.2,"Sim",5507,1840,2259,8.17,165.12,0,85.33,106.62,0,0,0,1794
+"22",44,2202117,220211,"Campo Alegre do Fidalgo",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",657.8,"Sim",4911,1281,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23",45,2202133,220213,"Campo Grande do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",311.8,"Sim",5801,1628,2810,20.26,169.26,0,91.79,101.34,0,0,0,1587
+"24",48,2202251,220225,"Canavieira",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",2162.9,"Sim",3904,1730,2064,8.31,137.1,0,85.47,93.23,0,0,0,1687
+"25",49,2202307,220230,"Canto do Buriti",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",4325.6,"Sim",20700,11508,13866,36.15,1147.07,0,600.45,709.83,0,0,0,11220
+"26",51,2202455,220245,"Capitão Gervásio Oliveira",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1134.1,"Sim",4008,1201,1201,15,135.9,0,120.9,0,0,0,0,1201
+"27",52,2202505,220250,"Caracol",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1611,"Sim",10641,4197,3109,15.41,193.18,0,99.16,121.09,0,0,0,3109
+"28",54,2202554,220255,"Caridade do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",501.3,"Sim",4994,1634,2127,7.85,105.55,0,60.52,78.28,0,0,0,1593
+"29",55,2202604,220260,"Castelo do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",2035.2,"Sim",18160,11369,13278,29.17,902.82,0,463.4,573.94,0,0,0,11085
+"30",61,2202752,220275,"Colônia do Gurguéia",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",430.6,"Sim",6314,5073,2357,18.26,171.71,0,90.45,103.54,0,0,0,2357
+"31",62,2202778,220277,"Colônia do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",947.9,"Sim",7527,2677,3348,14.04,235.89,0,125.52,151.12,0,0,0,2610
+"32",63,2202802,220280,"Conceição do Canindé",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",831.4,"Sim",4536,2395,3245,15.57,248.26,0,127.7,148.49,0,0,0,2335
+"33",64,2202851,220285,"Coronel José Dias",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1914.8,"Sim",4602,1511,2460,6,163.01,163.01,84.98,110.25,0,0,0,1473
+"34",67,2203107,220310,"Cristino Castro",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",1846.3,"Sim",10214,7432,7883,16.41,523.94,0,285.86,330.3,0,0,0,7246
+"35",68,2203206,220320,"Curimatá",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22012,"Chapadas do Extremo Sul Piauiense",2337.5,"Sim",11121,7321,9547,31.91,696,561.78,347.33,401.76,0,0,0,7138
+"36",69,2203230,220323,"Currais",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",3156.6,"Sim",4845,952,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37",71,2203271,220327,"Curral Novo do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",752.3,"Sim",5086,1440,1585,6.19,81.02,0,43.88,59.33,0,0,0,1404
+"38",73,2203354,220335,"Dirceu Arcoverde",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1017.1,"Sim",6862,2435,2516,5.67,143.4,143.4,74.21,102.67,0,0,0,2374
+"39",74,2203404,220340,"Dom Expedito Lopes",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",219.1,"Sim",6756,3674,4437,8.04,238.64,0,176.02,207.25,0,0,0,3582
+"40",75,2203420,220342,"Domingos Mourão",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",846.8,"Sim",4290,964,1297,5.94,92.3,0,47.5,62.67,0,0,0,940
+"41",76,2203453,220345,"Dom Inocêncio",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",3870.2,"Sim",9387,2049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42",78,2203602,220360,"Eliseu Martins",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",1090.4,"Sim",4807,3937,4638,22.98,371.73,0,191.64,213.86,0,0,0,3839
+"43",80,2203750,220375,"Fartura do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",712.9,"Sim",5199,1369,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44",81,2203800,220380,"Flores do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",946.7,"Sim",4394,2000,2504,15.27,153.08,0,100.9,120.18,0,0,0,1950
+"45",82,2203859,220385,"Floresta do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",194.7,"Sim",2515,872,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46",86,2204154,220415,"Francisco Macedo",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",155.3,"Sim",3097,1247,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47",87,2204204,220420,"Francisco Santos",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",491.9,"Sim",9054,4193,4088,9.17,241.53,0,123.75,176.69,0,0,0,4088
+"48",88,2204303,220430,"Fronteiras",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",775.7,"Sim",11372,7455,9126,17.01,514.78,514.78,323.54,385.79,0,0,0,7269
+"49",89,2204352,220435,"Geminiano",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",462.5,"Sim",5319,1181,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50",92,2204550,220455,"Guaribas",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",3118.2,"Sim",4478,1297,2340,10.74,136.2,0,70.95,88.85,0,0,0,1265
+"51",95,2204709,220470,"Inhuma",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",978.2,"Sim",15044,7377,9923,39.45,614.95,0,351.85,429.47,0,0,0,7193
+"52",96,2204808,220480,"Ipiranga do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",527.7,"Sim",9599,5914,6228,37.85,417.14,0,216.76,252.05,0,0,0,5766
+"53",97,2204907,220490,"Isaías Coelho",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",776.1,"Sim",8408,1907,2749,10.76,206.19,0,106.09,121.08,0,0,0,1859
+"54",98,2205003,220500,"Itainópolis",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",828.1,"Sim",11354,2586,3834,9.3,285.66,0,149.66,186.77,0,0,0,2521
+"55",99,2205102,220510,"Itaueira",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",2554.2,"Sim",10828,6033,8119,19.74,537.98,0,288.44,360.6,0,0,0,5882
+"56",100,2205151,220515,"Jacobina do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1370.7,"Sim",5682,1017,2608,5.44,166.92,0,88.28,113.31,0,0,0,992
+"57",101,2205201,220520,"Jaicós",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",865.1,"Sim",18660,8803,8856,42.12,366.42,366.42,198.81,247.74,0,0,0,8583
+"58",105,2205359,220535,"João Costa",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1800.2,"Sim",2965,702,2300,20,1500,0,900,0,0,0,600,702
+"59",109,2205516,220551,"Juazeiro do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",827.2,"Sim",5380,1673,1851,5.12,122.68,0,64.37,78.86,0,0,0,1631
+"60",110,2205524,220552,"Júlio Borges",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22012,"Chapadas do Extremo Sul Piauiense",1297.1,"Sim",5510,1659,2133,7.2,129.98,0,79.12,84.9,0,0,0,1618
+"61",111,2205532,220553,"Jurema",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1271.9,"Sim",4657,893,2525,8.21,155.01,0,78.94,103.81,0,0,0,871
+"62",114,2205565,220556,"Lagoa do Barro do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1261.9,"Sim",4579,1006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63",115,2205573,220557,"Lagoa de São Francisco",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",155.6,"Sim",6611,2154,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64",117,2205599,220559,"Lagoa do Sítio",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",804.7,"Sim",5047,1793,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65",122,2205904,220590,"Manoel Emídio",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",1619,"Sim",5263,3347,3971,16.53,286.77,0,146.93,168.74,0,0,0,3263
+"66",123,2205953,220595,"Marcolândia",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",143.9,"Sim",8249,7082,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67",125,2206050,220605,"Massapê do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",521.1,"Sim",6323,951,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68",129,2206357,220635,"Milton Brandão",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",1371.7,"Sim",6517,1638,4758,43,140,0,140,0,0,0,0,1500
+"69",131,2206506,220650,"Monsenhor Hipólito",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",401.4,"Sim",7586,3577,4084,8.78,177.59,0,130.92,174.34,0,0,0,3488
+"70",133,2206654,220665,"Morro Cabeça no Tempo",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22012,"Chapadas do Extremo Sul Piauiense",2116.9,"Sim",4073,1406,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71",136,2206704,220670,"Nazaré do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",1315.8,"Sim",7261,3474,3394,10.87,177.11,0,142.34,166.98,0,0,0,3394
+"72",140,2206902,220690,"Novo Oriente do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",525.3,"Sim",6483,3272,4179,10.31,270.17,0,168.7,204.9,0,0,0,3190
+"73",142,2207009,220700,"Oeiras",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",2702.5,"Sim",36329,22422,22065,69.8,1777.13,1777.13,899.81,1083.37,0,0,0,22065
+"74",144,2207207,220720,"Padre Marcos",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",272,"Sim",6748,2384,4467,10.37,283.78,283.78,141.52,207.87,0,0,0,2324
+"75",145,2207306,220730,"Paes Landim",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",401.4,"Sim",4071,2383,3065,10.97,225.07,0,117.13,133.03,0,0,0,2323
+"76",146,2207355,220735,"Pajeú do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1079.2,"Sim",3308,1403,1650,5,100,13,40,40,0,0,0,1403
+"77",147,2207405,220740,"Palmeira do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",2023.5,"Sim",4980,1759,1701,4.93,98.5,0,53.7,68.07,0,0,0,1701
+"78",149,2207553,220755,"Paquetá",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",448.5,"Sim",3900,524,759,2.61,53.7,0,32.12,36.32,0,0,0,511
+"79",153,2207777,220777,"Patos do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",751.6,"Sim",6257,1731,2346,8.71,150.18,150.18,77.07,101.38,0,0,0,1688
+"80",155,2207801,220780,"Paulistana",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1969.9,"Sim",20168,10862,14048,31.46,944.63,944.63,494.26,634.91,0,0,0,10590
+"81",156,2207850,220785,"Pavussu",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",1090.7,"Sim",3637,1780,2601,6.51,169.04,0,86.32,110.71,0,0,0,1736
+"82",157,2207900,220790,"Pedro II",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",1518.2,"Sim",38055,23004,27978,44.96,1633.91,365.16,863.92,1102.3,0,0,0,22429
+"83",158,2207934,220793,"Pedro Laurentino",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",870.3,"Sim",2481,844,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84",159,2207959,220795,"Nova Santa Rita",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",909.7,"Sim",4286,721,962,5.08,66.67,0,37.19,44.84,0,0,0,703
+"85",160,2208007,220800,"Picos",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",534.7,"Sim",76544,60793,75076,118.64,4891.17,0,3079.92,3626.94,0,0,0,59273
+"86",161,2208106,220810,"Pimenteiras",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",4563.1,"Sim",11913,4869,6002,25.4,430.75,0,221.51,263.76,0,0,0,4747
+"87",162,2208205,220820,"Pio IX",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",1947.1,"Sim",18061,5408,7432,19.33,435.63,435.63,250.56,314.59,0,0,0,5273
+"88",163,2208304,220830,"Piracuruca",22,"PI","Nordeste",2201,"Norte Piauiense",22002,"Litoral Piauiense",2380.4,"Sim",28160,19671,24795,103.96,1124.89,1124.89,876.27,1078.21,0,0,0,19179
+"89",168,2208650,220865,"Queimada Nova",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1352.4,"Sim",8796,1189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90",169,2208700,220870,"Redenção do Gurguéia",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",2468,"Sim",8600,5462,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91",172,2208874,220887,"Ribeira do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1004.2,"Sim",4381,1059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92",174,2209005,220900,"Rio Grande do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",635.9,"Sim",6329,4131,4771,13.81,255.35,0,198.53,227.24,0,0,0,4028
+"93",175,2209104,220910,"Santa Cruz do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",611.6,"Sim",6127,4134,4866,9.51,344.6,0,177.45,209.84,0,0,0,4031
+"94",176,2209153,220915,"Santa Cruz dos Milagres",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",979.7,"Sim",3926,2201,3926,20,181.77,0,150.8,150.8,0,0,0,2201
+"95",178,2209302,220930,"Santa Luz",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22010,"Alto Médio Gurguéia",1186.8,"Sim",5719,3225,3588,9.61,220.66,0,122.17,147.77,0,0,0,3144
+"96",179,2209351,220935,"Santana do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",141.1,"Sim",4544,1792,2099,7.22,160.02,0,87.13,101.09,0,0,0,1747
+"97",180,2209377,220937,"Santa Rosa do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",340.2,"Sim",5178,3676,4658,16.84,260.67,0,175.96,208.38,0,0,0,3584
+"98",181,2209401,220940,"Santo Antônio de Lisboa",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",387.4,"Sim",6244,4075,4316,11.69,317.68,0,160.94,194.48,0,0,0,3973
+"99",183,2209500,220950,"Santo Inácio do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",852.9,"Sim",3720,2342,3037,7.79,181.37,0,117.6,144.61,0,0,0,2283
+"100",184,2209559,220955,"São Braz do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",656.4,"Sim",4371,1035,355,2.9,19.82,19.82,9.69,14.18,0,0,0,355
+"101",186,2209658,220965,"São Francisco de Assis do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1100.4,"Sim",5786,1485,2062,6.38,113.36,0,73.5,96.72,0,0,0,1448
+"102",187,2209708,220970,"São Francisco do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",1340.7,"Sim",6329,1993,2492,17.07,100.73,0,80.96,107.37,0,0,0,1943
+"103",190,2209856,220985,"São João da Canabrava",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",480.3,"Sim",4523,1255,2270,6.76,151.22,0,90,111.54,0,0,0,1224
+"104",191,2209872,220987,"São João da Fronteira",22,"PI","Nordeste",2201,"Norte Piauiense",22002,"Litoral Piauiense",764.9,"Sim",5898,2389,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105",192,2209906,220990,"São João da Serra",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",1006.5,"Sim",6081,3404,4605,17.52,305.65,0,157.88,199.59,0,0,0,3319
+"106",193,2209955,220995,"São João da Varjota",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",395.3,"Sim",4747,1418,4738,130,150,0,150,0,0,150,0,1389
+"107",195,2210003,221000,"São João do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1527.8,"Sim",20146,13882,17420,64.22,1247.26,1247.26,676.36,807.09,0,0,0,13535
+"108",196,2210052,221005,"São José do Divino",22,"PI","Nordeste",2201,"Norte Piauiense",22002,"Litoral Piauiense",319.1,"Sim",5246,2762,3005,11.46,187.66,0,95.46,122.23,0,0,0,2693
+"109",197,2210102,221010,"São José do Peixe",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",1287.2,"Sim",3697,1887,2577,12.62,165.35,0,110.23,131.5,0,0,0,1840
+"110",198,2210201,221020,"São José do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",364.9,"Sim",6610,1935,2584,16.62,179.03,0,94.11,115.04,0,0,0,1887
+"111",199,2210300,221030,"São Julião",22,"PI","Nordeste",2204,"Sudeste Piauiense",22014,"Pio IX",257.2,"Sim",6244,2561,5602,23.13,326.56,274.52,196.72,266.85,0,0,0,2497
+"112",200,2210359,221035,"São Lourenço do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",672.7,"Sim",4493,1130,1771,11.93,106.17,106.17,57.5,76.04,0,0,0,1102
+"113",201,2210375,221037,"São Luis do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",220.4,"Sim",2595,825,943,3.64,68.01,0,38.72,45.91,0,0,0,804
+"114",203,2210391,221039,"São Miguel do Fidalgo",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22009,"Floriano",813.4,"Sim",2993,1091,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115",204,2210409,221040,"São Miguel do Tapuio",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22004,"Campo Maior",5207,"Sim",18105,6664,6854,9.69,334.01,0,258.5,302.66,0,0,0,6497
+"116",206,2210607,221060,"São Raimundo Nonato",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",2415.6,"Sim",33802,22236,26960,93.6,2060.22,1945.2,1032.98,1274.66,0,0,0,21680
+"117",208,2210631,221063,"Sebastião Leal",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22008,"Bertolínia",3151.6,"Sim",4209,1965,1916,4.75,119.52,0,65.93,75.95,0,0,0,1916
+"118",210,2210706,221070,"Simões",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1071.5,"Sim",14411,5782,7870,24.75,489.77,489.77,243.65,311.6,0,0,0,5637
+"119",211,2210805,221080,"Simplício Mendes",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",1345.8,"Sim",12424,7369,8638,27.57,595.12,0,332.38,405.11,0,0,0,7185
+"120",212,2210904,221090,"Socorro do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",761.9,"Sim",4512,1626,2051,13.65,118.38,0,72.13,88.36,0,0,0,1585
+"121",213,2210938,221093,"Sussuapara",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",209.7,"Sim",6545,1662,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122",214,2210953,221095,"Tamboril do Piauí",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",1587.3,"Sim",2851,1566,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123",215,2210979,221097,"Tanque do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",398.7,"Sim",2703,1278,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124",219,2211308,221130,"Valença do Piauí",22,"PI","Nordeste",2202,"Centro-Norte Piauiense",22006,"Valença do Piauí",1334.6,"Sim",20568,15986,18279,29.73,1102.95,0,730.52,882.04,0,0,0,15586
+"125",220,2211357,221135,"Várzea Branca",22,"PI","Nordeste",2203,"Sudoeste Piauiense",22011,"São Raimundo Nonato",450.8,"Sim",4889,1141,1460,5.46,81.3,81.3,44.09,60.59,0,0,0,1112
+"126",222,2211506,221150,"Vera Mendes",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",342,"Sim",3025,979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127",223,2211605,221160,"Vila Nova do Piauí",22,"PI","Nordeste",2204,"Sudeste Piauiense",22015,"Alto Médio Canindé",218.3,"Sim",2965,732,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128",224,2211704,221170,"Wall Ferraz",22,"PI","Nordeste",2204,"Sudeste Piauiense",22013,"Picos",270,"Sim",4375,1192,1800,4.85,102.02,0,61.05,76.57,0,0,0,1162
+"129",218,2300101,230010,"Abaiara",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",178.8,"Sim",11357,4925,3829,11.14,173.35,0,126.1,176.19,0,0,0,3829
+"130",219,2300150,230015,"Acarape",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",160.3,"Sim",16288,8476,6154,34.37,874.06,874.06,377.83,509.34,0,0,0,6154
+"131",221,2300309,230030,"Acopiara",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",2253.8,"Sim",53135,26202,18845,44.42,1316.12,1316.12,817.37,1198.68,0,0,0,18845
+"132",222,2300408,230040,"Aiuaba",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",2434.4,"Sim",16997,4145,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133",223,2300507,230050,"Alcântaras",23,"CE","Nordeste",2301,"Noroeste Cearense",23004,"Meruoca",138.6,"Sim",11321,3624,2638,15.26,99.68,99.68,77.65,131.27,0,0,0,2638
+"134",224,2300606,230060,"Altaneira",23,"CE","Nordeste",2307,"Sul Cearense",23030,"Caririaçu",73.3,"Sim",7344,5310,4329,33.28,216.5,216.5,160.34,280.49,0,0,0,4329
+"135",225,2300705,230070,"Alto Santo",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",1338.2,"Sim",16876,8295,5764,12.17,194.37,194.37,167.62,211.96,0,0,0,5764
+"136",227,2300804,230080,"Antonina do Norte",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",260.1,"Sim",7227,5173,4532,24.94,358.46,358.46,210.56,314.05,0,0,0,4532
+"137",228,2300903,230090,"Apuiarés",23,"CE","Nordeste",2302,"Norte Cearense",23011,"Médio Curu",552.3,"Sim",14565,6037,4654,21.63,259.5,259.5,184.79,305.15,0,0,0,4654
+"138",230,2301109,230110,"Aracati",23,"CE","Nordeste",2305,"Jaguaribe",23022,"Litoral de Aracati",1247.3,"Sim",72727,46307,36102,162.49,3250.88,3250.88,1877.57,2524.16,0,0,0,36102
+"139",231,2301208,230120,"Aracoiaba",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",656.6,"Sim",26134,14139,10063,58.16,1635.07,1635.07,737.43,959.55,0,0,0,10063
+"140",232,2301257,230125,"Ararendá",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",344.1,"Sim",10775,5039,3439,18.18,215.4,0,141.46,140.54,0,0,0,3439
+"141",233,2301307,230130,"Araripe",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",1099.9,"Sim",21289,13105,8760,47.66,405.08,405.08,283.78,477.18,0,0,0,8760
+"142",234,2301406,230140,"Aratuba",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",114.8,"Sim",11358,3713,3248,12.66,120.83,0,102.13,158.6,0,0,0,3248
+"143",235,2301505,230150,"Arneiroz",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",1066.4,"Sim",7771,3940,3154,21.86,167.89,167.89,105.18,175.49,0,0,0,3154
+"144",236,2301604,230160,"Assaré",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",1116.3,"Sim",23126,12315,10143,36.25,733.21,733.21,384.21,617.77,0,0,0,10143
+"145",237,2301703,230170,"Aurora",23,"CE","Nordeste",2307,"Sul Cearense",23031,"Barro",889.9,"Sim",24602,11842,10359,35.83,825.23,825.23,479.92,694.67,0,0,0,10359
+"146",238,2301802,230180,"Baixio",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23028,"Lavras da Mangabeira",146.4,"Sim",6198,3398,3307,28.13,146.4,0,109.82,164.58,0,0,0,3307
+"147",239,2301851,230185,"Banabuiú",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",1080,"Sim",17906,9052,9052,23,438.56,438.56,354.5,437.56,0,0,0,9052
+"148",240,2301901,230190,"Barbalha",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",599.3,"Sim",58855,40449,34498,98.54,2890.91,0,1448.9,1888.74,0,0,0,34498
+"149",241,2301950,230195,"Barreira",23,"CE","Nordeste",2302,"Norte Cearense",23014,"Chorozinho",240.9,"Sim",20687,8590,7404,113.32,483.52,483.52,463.97,465.51,0,0,0,7404
+"150",242,2302008,230200,"Barro",23,"CE","Nordeste",2307,"Sul Cearense",23031,"Barro",711.9,"Sim",22279,13628,11332,59.18,703.03,0,453.13,651.58,0,0,0,11332
+"151",244,2302107,230210,"Baturité",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",308.6,"Sim",34949,25631,21592,54.85,1413.73,1413.73,986.41,1229.17,0,0,0,21592
+"152",247,2302404,230240,"Boa Viagem",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",2836.8,"Sim",53838,27283,38987,236,1455,1359.1,1010,1514.94,0,0,0,27226
+"153",248,2302503,230250,"Brejo Santo",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",663.4,"Sim",48056,29832,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154",250,2302701,230270,"Campos Sales",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",1082.8,"Sim",27123,19525,12668,41.99,746.47,746.47,497.01,818.65,0,0,0,12668
+"155",251,2302800,230280,"Canindé",23,"CE","Nordeste",2302,"Norte Cearense",23012,"Canindé",3218.5,"Sim",76998,48464,52425,109.3,1667.57,1636.45,1667.57,1848.65,0,0,0,45044
+"156",252,2302909,230290,"Capistrano",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",222.5,"Sim",17573,6398,4855,26.39,254.44,254.44,199.69,262.01,0,0,0,4855
+"157",253,2303006,230300,"Caridade",23,"CE","Nordeste",2302,"Norte Cearense",23012,"Canindé",846.5,"Sim",21800,12548,4849,32.49,226.39,226.39,137.56,125.13,0,0,0,4849
+"158",254,2303105,230310,"Cariré",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",756.9,"Sim",18645,8436,5917,32.12,402.59,402.59,254.08,361.68,0,0,0,5917
+"159",255,2303204,230320,"Caririaçu",23,"CE","Nordeste",2307,"Sul Cearense",23030,"Caririaçu",637.4,"Sim",26858,14278,15373,40,1556.22,778.11,840,840,0,0,0,14259
+"160",256,2303303,230330,"Cariús",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",1061.8,"Sim",18810,8419,4403,14.72,252.86,252.86,227.7,318.36,0,0,0,4403
+"161",257,2303402,230340,"Carnaubal",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",364.8,"Sim",17463,8301,6871,41.09,568.57,534.36,410.8,612.98,0,0,0,6871
+"162",259,2303600,230360,"Catarina",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",486.9,"Sim",20079,9349,8509,20.51,362.59,362.59,216.67,348.16,0,0,0,8509
+"163",260,2303659,230365,"Catunda",23,"CE","Nordeste",2301,"Noroeste Cearense",23007,"Santa Quitéria",783.2,"Sim",10294,5580,4939,23.39,142.64,142.64,139.3,131.41,0,0,0,4939
+"164",261,2303709,230370,"Caucaia",23,"CE","Nordeste",2303,"Metropolitana de Fortaleza",23016,"Fortaleza",1223.8,"Sim",353932,315628,240953,600.29,21273.91,21273.91,9829.76,12821.13,0,0,0,240953
+"165",262,2303808,230380,"Cedro",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",725.8,"Sim",25013,15459,12298,50.56,1075.19,1075.19,553.11,799.96,0,0,0,12298
+"166",264,2303931,230393,"Choró",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",815.8,"Sim",13294,3924,2892,11.78,187.9,187.9,128.7,160.4,0,0,0,2892
+"167",265,2303956,230395,"Chorozinho",23,"CE","Nordeste",2302,"Norte Cearense",23014,"Chorozinho",278.4,"Sim",19192,11593,6346,72.51,307.47,254.78,307.47,354.97,0,0,0,6346
+"168",266,2304004,230400,"Coreaú",23,"CE","Nordeste",2301,"Noroeste Cearense",23003,"Coreaú",775.8,"Sim",22889,14829,10001,44.03,611.01,611.01,360.21,570.66,0,0,0,10001
+"169",267,2304103,230410,"Crateús",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",2988.3,"Sim",74271,53699,41225,151.55,2298.3,2298.3,1529.76,2142.68,0,0,0,41225
+"170",268,2304202,230420,"Crato",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",1157.9,"Sim",128680,106943,127432,269.5,9097.72,0,7007.76,7007.76,0,0,0,106110
+"171",269,2304236,230423,"Croatá",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",697,"Sim",17728,9387,4965,17.11,249.06,0,178.44,264.2,0,0,0,4965
+"172",271,2304269,230426,"Deputado Irapuan Pinheiro",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",470.4,"Sim",9444,4292,4325,16,194.92,190.25,174.14,174.14,0,0,0,2134
+"173",272,2304277,230427,"Ererê",23,"CE","Nordeste",2305,"Jaguaribe",23025,"Serra do Pereiro",396,"Sim",7104,3591,2823,16.28,170.6,0,130.6,182.06,0,0,0,2823
+"174",274,2304301,230430,"Farias Brito",23,"CE","Nordeste",2307,"Sul Cearense",23030,"Caririaçu",503.6,"Sim",18861,8803,5673,23.01,342.97,270.02,250.72,397.57,0,0,0,5673
+"175",275,2304350,230435,"Forquilha",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",517,"Sim",23544,16722,14656,33.52,662.13,662.13,428.37,686.3,0,0,0,14656
+"176",278,2304509,230450,"Frecheirinha",23,"CE","Nordeste",2301,"Noroeste Cearense",23003,"Coreaú",181.2,"Sim",13541,7959,6987,55.89,598.72,598.72,368.48,536.16,0,0,0,6987
+"177",279,2304608,230460,"General Sampaio",23,"CE","Nordeste",2302,"Norte Cearense",23011,"Médio Curu",187.1,"Sim",6763,3968,3907,10.74,199.51,199.51,139.93,196.81,0,0,0,3907
+"178",280,2304657,230465,"Graça",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",281.9,"Sim",15294,5910,5328,19.83,202.2,161.33,191.31,308.71,0,0,0,5328
+"179",282,2304806,230480,"Granjeiro",23,"CE","Nordeste",2307,"Sul Cearense",23030,"Caririaçu",100.1,"Sim",4494,1330,1193,9.68,97.41,97.41,72.52,101.12,0,0,0,1193
+"180",283,2304905,230490,"Groaíras",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",155.9,"Sim",10847,7504,7125,35.22,394.3,394.3,260.41,412.42,0,0,0,7125
+"181",285,2305001,230500,"Guaraciaba do Norte",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",611.5,"Sim",39151,18037,11576,54.52,610.23,610.23,473.93,502.95,0,0,0,11576
+"182",286,2305100,230510,"Guaramiranga",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",100.9,"Sim",3720,2229,1359,6.09,80.53,0,67.2,101.55,0,0,0,1359
+"183",287,2305209,230520,"Hidrolândia",23,"CE","Nordeste",2301,"Noroeste Cearense",23007,"Santa Quitéria",927.4,"Sim",20055,11472,10269,52.9,359.39,359.39,327.61,333.21,0,0,0,10269
+"184",288,2305233,230523,"Horizonte",23,"CE","Nordeste",2303,"Metropolitana de Fortaleza",23017,"Pacajus",160,"Sim",63365,58614,43745,148.16,3930.93,3930.93,1935.24,2611.28,0,0,0,43745
+"185",289,2305266,230526,"Ibaretama",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",877.3,"Sim",13188,4539,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186",290,2305308,230530,"Ibiapina",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",414.9,"Sim",24649,11122,9358,50.72,642.89,642.89,358.93,540.01,0,0,0,9358
+"187",291,2305332,230533,"Ibicuitinga",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",424.2,"Sim",12130,6145,5346,99.87,436.23,436.23,330.85,522.72,0,0,0,5346
+"188",292,2305357,230535,"Icapuí",23,"CE","Nordeste",2305,"Jaguaribe",23022,"Litoral de Aracati",423.4,"Sim",19418,6110,19418,152.08,3138,0,3096,1942,0,0,0,6060
+"189",293,2305407,230540,"Icó",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",1872,"Sim",67198,31274,49536,138,5383,3478,3369,2109,0,0,0,30950
+"190",294,2305506,230550,"Iguatu",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",1017.1,"Sim",101386,78410,85377,378.95,7008,6307.65,4204,4709.07,0,0,0,74277
+"191",295,2305605,230560,"Independência",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",3218.7,"Sim",25957,11645,9622,39.62,404.68,404.68,341.16,508.42,0,0,0,9622
+"192",296,2305654,230565,"Ipaporanga",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",702.1,"Sim",11499,4193,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193",297,2305704,230570,"Ipaumirim",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23028,"Lavras da Mangabeira",273.8,"Sim",12305,7309,6207,23.52,221.98,0,217.13,295.53,0,0,0,6207
+"194",298,2305803,230580,"Ipu",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",629.3,"Sim",41391,26276,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195",299,2305902,230590,"Ipueiras",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",1477.4,"Sim",38022,18436,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196",300,2306009,230600,"Iracema",23,"CE","Nordeste",2305,"Jaguaribe",23025,"Serra do Pereiro",824,"Sim",14071,10069,7955,53.07,539.65,539.65,370.07,550.5,0,0,0,7955
+"197",301,2306108,230610,"Irauçuba",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",1450.7,"Sim",23543,15126,9088,53.7,190.99,190.99,92.91,162.47,0,0,0,9088
+"198",302,2306207,230620,"Itaiçaba",23,"CE","Nordeste",2305,"Jaguaribe",23022,"Litoral de Aracati",209.9,"Sim",7656,4478,2434,14.99,178.14,178.14,124.28,184.56,0,0,0,2434
+"199",304,2306306,230630,"Itapagé",23,"CE","Nordeste",2302,"Norte Cearense",23010,"Uruburetama",430.4,"Sim",51113,35932,42500,41,1555.2,1555.2,1404.49,1404.49,0,0,0,34000
+"200",305,2306405,230640,"Itapipoca",23,"CE","Nordeste",2302,"Norte Cearense",23008,"Itapipoca",1603.7,"Sim",124950,72031,57113,310.22,3441.25,3441.25,2599.1,3553.44,0,0,0,57113
+"201",306,2306504,230650,"Itapiúna",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",588.7,"Sim",19724,9339,7523,51.81,662.83,662.83,362.95,541.25,0,0,0,7523
+"202",308,2306603,230660,"Itatira",23,"CE","Nordeste",2302,"Norte Cearense",23012,"Canindé",783.4,"Sim",20285,10223,1843,25.92,42.11,0,29.22,31.85,0,0,0,1843
+"203",309,2306702,230670,"Jaguaretama",23,"CE","Nordeste",2305,"Jaguaribe",23024,"Médio Jaguaribe",1759.7,"Sim",17997,8533,7442,41.54,259.83,259.83,233.72,240.87,0,0,0,7442
+"204",310,2306801,230680,"Jaguaribara",23,"CE","Nordeste",2305,"Jaguaribe",23024,"Médio Jaguaribe",668.7,"Sim",11102,7700,7700,54.63,618.5,618.5,295.2,391.54,0,0,0,7700
+"205",311,2306900,230690,"Jaguaribe",23,"CE","Nordeste",2305,"Jaguaribe",23024,"Médio Jaguaribe",1876.8,"Sim",34561,23371,32672,113.55,2374.75,2301.74,1347.43,1669.8,0,0,0,23371
+"206",312,2307007,230700,"Jaguaruana",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",847.3,"Sim",33469,19867,13642,63.23,1180.98,1180.98,818.29,923.14,0,0,0,13642
+"207",313,2307106,230710,"Jardim",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",519.1,"Sim",27072,9123,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208",314,2307205,230720,"Jati",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",361.1,"Sim",7807,4575,3296,17.29,225.93,0,136.4,209.28,0,0,0,3296
+"209",316,2307304,230730,"Juazeiro do Norte",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",248.2,"Sim",266022,255580,222131,673.73,19786.14,0,9646.43,13577.59,0,0,0,222131
+"210",317,2307403,230740,"Jucás",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",937.2,"Sim",24479,14549,18566,58,1514,1114,914,872,0,0,0,14300
+"211",318,2307502,230750,"Lavras da Mangabeira",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23028,"Lavras da Mangabeira",948,"Sim",31383,18303,14855,81.01,1086.53,1045.66,679.93,999.57,0,0,0,14855
+"212",319,2307601,230760,"Limoeiro do Norte",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",751.8,"Sim",58175,33586,57593,144.6,5280.04,5036.5,4593.96,4593.96,0,0,0,33250
+"213",320,2307635,230763,"Madalena",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",1026.3,"Sim",19425,9574,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214",322,2307700,230770,"Maranguape",23,"CE","Nordeste",2303,"Metropolitana de Fortaleza",23016,"Fortaleza",590.9,"Sim",123570,93916,71863,268.97,4629.36,4629.36,3124.8,3793.98,0,0,0,71863
+"215",325,2308005,230800,"Massapê",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",566.6,"Sim",37560,25597,19333,81.86,1372,1372,944.72,1094.38,0,0,0,19333
+"216",326,2308104,230810,"Mauriti",23,"CE","Nordeste",2307,"Sul Cearense",23031,"Barro",1079,"Sim",46113,24271,15001,58.83,1286.24,0,645.94,892.99,0,0,0,15001
+"217",327,2308203,230820,"Meruoca",23,"CE","Nordeste",2301,"Noroeste Cearense",23004,"Meruoca",149.8,"Sim",14674,7952,3440,19.55,175.13,175.13,123.99,193.28,0,0,0,3440
+"218",328,2308302,230830,"Milagres",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",577,"Sim",28354,13574,9145,26.74,453.5,0,309.68,444.22,0,0,0,9145
+"219",329,2308351,230835,"Milhã",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",502.3,"Sim",13170,6007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220",330,2308377,230837,"Miraíma",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",700,"Sim",13428,7183,5754,32.42,298.89,298.89,204.68,296.49,0,0,0,5754
+"221",331,2308401,230840,"Missão Velha",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",650.5,"Sim",35240,15854,11897,46.09,1049.05,0,576.93,797.83,0,0,0,11897
+"222",332,2308500,230850,"Mombaça",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",2119.5,"Sim",43619,19225,14586,40.06,934.08,934.08,550.4,917.4,0,0,0,14586
+"223",333,2308609,230860,"Monsenhor Tabosa",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",893.6,"Sim",17012,9534,8472,42.72,335.21,335.21,278.34,469.85,0,0,0,8472
+"224",334,2308708,230870,"Morada Nova",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",2779.2,"Sim",61903,35309,58000,500,2960,2900,2487,2487,0,80,0,35000
+"225",337,2309003,230900,"Mucambo",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",190.6,"Sim",14357,9230,8510,21.96,413.74,413.74,248.48,291.43,0,0,0,8510
+"226",338,2309102,230910,"Mulungu",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",95.6,"Sim",12526,4579,3464,14.83,103.53,103.53,95.03,126.71,0,0,0,3464
+"227",339,2309201,230920,"Nova Olinda",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",284.4,"Sim",15181,10325,8965,37.91,648.22,0,396.98,567.01,0,0,0,8965
+"228",340,2309300,230930,"Nova Russas",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",742.8,"Sim",31870,23923,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229",341,2309409,230940,"Novo Oriente",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",946.2,"Sim",28220,14628,10520,85.58,680.77,680.77,442.04,641.1,0,0,0,10520
+"230",342,2309458,230945,"Ocara",23,"CE","Nordeste",2302,"Norte Cearense",23014,"Chorozinho",765.4,"Sim",25123,7959,4874,36.7,273.4,273.4,258.53,391.55,0,0,0,4874
+"231",343,2309508,230950,"Orós",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",576.3,"Sim",21394,16027,12541,41.13,831.53,831.53,654.69,854.26,0,0,0,12541
+"232",344,2309607,230960,"Pacajus",23,"CE","Nordeste",2303,"Metropolitana de Fortaleza",23017,"Pacajus",254.5,"Sim",68800,56380,40004,152.03,1631.1,1631.1,1627.9,2342.79,0,0,0,40004
+"233",346,2309805,230980,"Pacoti",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",109.6,"Sim",11910,4869,3671,8.49,82.21,57.72,72.21,85.96,0,0,0,3671
+"234",347,2309904,230990,"Pacujá",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",76.1,"Sim",6168,3836,3397,26.83,202.52,202.52,150.94,239.06,0,0,0,3397
+"235",348,2310001,231000,"Palhano",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",440.4,"Sim",9209,4690,3326,42.64,346.7,346.7,221.33,316.65,0,0,0,3326
+"236",349,2310100,231010,"Palmácia",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",117.8,"Sim",12895,5324,3953,17.17,84.23,0,81.22,96.34,0,0,0,3953
+"237",352,2310308,231030,"Parambu",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",2312.4,"Sim",31293,14099,11153,38,479.8,479.8,309.13,534.71,0,0,0,11153
+"238",353,2310407,231040,"Paramoti",23,"CE","Nordeste",2302,"Norte Cearense",23012,"Canindé",482.6,"Sim",11549,5658,5539,20.11,255.52,255.52,194.34,279.56,0,0,0,5539
+"239",354,2310506,231050,"Pedra Branca",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",1303.3,"Sim",42746,25011,18513,89,706,706,688,979,0,0,0,18513
+"240",355,2310605,231060,"Penaforte",23,"CE","Nordeste",2307,"Sul Cearense",23033,"Brejo Santo",141.9,"Sim",8817,6859,5679,46.61,462.52,0,264.33,384.97,0,0,0,5679
+"241",356,2310704,231070,"Pentecoste",23,"CE","Nordeste",2302,"Norte Cearense",23011,"Médio Curu",1378.3,"Sim",36773,22224,18670,64.99,1139.16,1139.16,852,1217.6,0,0,0,18670
+"242",357,2310803,231080,"Pereiro",23,"CE","Nordeste",2305,"Jaguaribe",23025,"Serra do Pereiro",423.1,"Sim",16115,5556,4400,32.67,226.32,226.32,201.01,306.56,0,0,0,4400
+"243",359,2310902,231090,"Piquet Carneiro",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",587.9,"Sim",16461,7918,4812,24.18,248.62,248.62,205.07,345.94,0,0,0,4812
+"244",360,2310951,231095,"Pires Ferreira",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",243.1,"Sim",10674,3504,2217,28.84,210.86,210.86,89.8,159.7,0,0,0,2217
+"245",361,2311009,231100,"Poranga",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",1309.3,"Sim",12224,7943,5413,26.76,362.74,0,263.38,368.21,0,0,0,5413
+"246",362,2311108,231110,"Porteiras",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",217.6,"Sim",15010,6168,5178,17.79,412.64,0,231.71,336.81,0,0,0,5178
+"247",363,2311207,231120,"Potengi",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",338.7,"Sim",10790,6000,5088,39.64,258.55,258.55,167.75,278.88,0,0,0,5088
+"248",364,2311231,231123,"Potiretama",23,"CE","Nordeste",2305,"Jaguaribe",23025,"Serra do Pereiro",404.6,"Sim",6318,2788,2352,9.98,126.16,126.16,86.88,138.81,0,0,0,2352
+"249",365,2311264,231126,"Quiterianópolis",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",1041,"Sim",20690,6548,4526,17.99,213.75,213.75,166.75,186.37,0,0,0,4526
+"250",366,2311306,231130,"Quixadá",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",2019.8,"Sim",85351,60870,48651,170.63,3768.43,3768.43,2158.01,2951.44,0,0,0,48651
+"251",367,2311355,231135,"Quixelô",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23026,"Iguatu",583.2,"Sim",14949,4912,6390,15,394,370,256,323,0,0,0,4910
+"252",368,2311405,231140,"Quixeramobim",23,"CE","Nordeste",2304,"Sertões Cearenses",23019,"Sertão de Quixeramobim",3330.1,"Sim",77174,46618,53915,368,2927.05,2009.09,1725.61,2543.04,0,0,0,46346
+"253",369,2311504,231150,"Quixeré",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",610.8,"Sim",21572,13257,5090,45.13,380.93,380.93,294.9,404.28,0,0,0,5090
+"254",370,2311603,231160,"Redenção",23,"CE","Nordeste",2302,"Norte Cearense",23013,"Baturité",225.6,"Sim",27272,15625,12029,84.48,939.65,939.65,690.42,824.67,0,0,0,12029
+"255",371,2311702,231170,"Reriutaba",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",383.3,"Sim",19015,10350,7131,44.84,469.83,469.83,291.92,435.32,0,0,0,7131
+"256",372,2311801,231180,"Russas",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",1591.3,"Sim",75018,48290,39333,147.87,2697.52,2697.52,1951.7,2446.82,0,0,0,39333
+"257",373,2311900,231190,"Saboeiro",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",1383.5,"Sim",15753,8456,4348,14.25,330.8,330.8,207.34,308.65,0,0,0,4348
+"258",374,2311959,231195,"Salitre",23,"CE","Nordeste",2307,"Sul Cearense",23029,"Chapada do Araripe",804.3,"Sim",16161,6550,1039,13.69,6.01,0,0,0,0,0,0,1039
+"259",375,2312007,231200,"Santana do Acaraú",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",969.3,"Sim",31596,16219,12013,30.9,565.85,565.85,431.14,604.32,0,0,0,12013
+"260",376,2312106,231210,"Santana do Cariri",23,"CE","Nordeste",2307,"Sul Cearense",23032,"Cariri",855.6,"Sim",17468,8975,4706,39.93,449.94,31.5,226.97,314.19,0,0,0,4706
+"261",377,2312205,231220,"Santa Quitéria",23,"CE","Nordeste",2301,"Noroeste Cearense",23007,"Santa Quitéria",4260.5,"Sim",43359,22570,18574,95.39,1094.87,1094.87,837.44,1202.04,0,0,0,18574
+"262",378,2312304,231230,"São Benedito",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",338.2,"Sim",46171,25662,19937,56.69,826.82,789.15,826.82,1154.91,0,0,0,19937
+"263",380,2312502,231250,"São João do Jaguaribe",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",280.5,"Sim",7721,3097,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264",382,2312700,231270,"Senador Pompeu",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",956.1,"Sim",26547,15752,10984,27.16,926.51,926.51,450.84,737.53,0,0,0,10984
+"265",384,2312908,231290,"Sobral",23,"CE","Nordeste",2301,"Noroeste Cearense",23005,"Sobral",2122.9,"Sim",201756,178258,199260,576.4,17869.51,17869.51,11176.41,11332.53,282.55,0,0,175704
+"266",385,2313005,231300,"Solonópole",23,"CE","Nordeste",2304,"Sertões Cearenses",23021,"Sertão de Senador Pompeu",1536.2,"Sim",18094,9327,18060,100,604.47,402.45,499.01,604,0,604,0,9310
+"267",386,2313104,231310,"Tabuleiro do Norte",23,"CE","Nordeste",2305,"Jaguaribe",23023,"Baixo Jaguaribe",861.8,"Sim",30263,19488,15973,80.26,1749.45,1749.45,948.42,1131.64,0,0,0,15973
+"268",387,2313203,231320,"Tamboril",23,"CE","Nordeste",2304,"Sertões Cearenses",23018,"Sertão de Cratéus",2000.8,"Sim",25597,14283,9719,66.38,467.9,467.9,363.28,518.93,0,0,0,9719
+"269",388,2313252,231325,"Tarrafas",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",454.4,"Sim",8899,2621,2621,8.48,140.17,0,96.09,145.87,0,0,0,2621
+"270",389,2313302,231330,"Tauá",23,"CE","Nordeste",2304,"Sertões Cearenses",23020,"Sertão de Inhamuns",4009.3,"Sim",57701,33408,28663,89.79,1533.51,1533.51,904.34,1532.14,0,0,0,28663
+"271",390,2313351,231335,"Tejuçuoca",23,"CE","Nordeste",2302,"Norte Cearense",23011,"Médio Curu",781.7,"Sim",18510,6969,4732,12.02,156.47,156.47,115.19,116.25,0,0,0,4732
+"272",391,2313401,231340,"Tianguá",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",908.9,"Sim",73468,48862,41019,178.28,3834.04,3834.04,1876.8,2687.31,0,0,0,41019
+"273",394,2313609,231360,"Ubajara",23,"CE","Nordeste",2301,"Noroeste Cearense",23002,"Ibiapaba",421,"Sim",33792,16318,13026,65.79,976.52,976.52,612.01,847.61,0,0,0,13026
+"274",395,2313708,231370,"Umari",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23028,"Lavras da Mangabeira",263.9,"Sim",7665,3980,2451,17.5,101.79,0,90.85,151.86,0,0,0,2451
+"275",396,2313757,231375,"Umirim",23,"CE","Nordeste",2302,"Norte Cearense",23010,"Uruburetama",316.8,"Sim",19521,11515,9374,58.65,633.64,633.64,424.13,570.72,0,0,0,9374
+"276",397,2313807,231380,"Uruburetama",23,"CE","Nordeste",2302,"Norte Cearense",23010,"Uruburetama",107.6,"Sim",21206,15760,12312,48.7,1149.51,1149.51,544.81,745,0,0,0,12312
+"277",399,2313955,231395,"Varjota",23,"CE","Nordeste",2301,"Noroeste Cearense",23006,"Ipu",179.4,"Sim",18136,14861,11492,40.65,489.48,442.18,488.92,683.27,0,0,0,11492
+"278",400,2314003,231400,"Várzea Alegre",23,"CE","Nordeste",2306,"Centro-Sul Cearense",23027,"Várzea Alegre",835.7,"Sim",40062,24908,21501,60.4,1156.47,1156.47,818.18,1266.3,0,0,0,21501
+"279",225,2400109,240010,"Acari",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",608.6,"Sim",11344,9151,9151,34.1,317.03,317.03,199.86,274.92,0,0,0,9151
+"280",226,2400208,240020,"Açu",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",1303.4,"Sim",57292,42365,42364,140.35,3734.17,3734.17,1686.66,1975.06,0,0,0,42348
+"281",227,2400307,240030,"Afonso Bezerra",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",576.2,"Sim",11202,5949,5475,31.94,344.62,0,185.13,226.62,0,0,0,5475
+"282",228,2400406,240040,"Água Nova",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",50.7,"Sim",3210,2055,2055,3.06,111.68,111.68,70.44,96.35,0,0,0,2055
+"283",229,2400505,240050,"Alexandria",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",381.2,"Sim",13852,9424,13512,45,526.04,0,526.04,557.26,0,0,0,9195
+"284",230,2400604,240060,"Almino Afonso",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",128,"Sim",4899,3499,3499,9.44,224.93,224.93,138.17,178.34,0,0,0,3499
+"285",231,2400703,240070,"Alto do Rodrigues",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",191.3,"Sim",13915,10034,9966,19.35,996.66,996.66,441.51,504.68,0,0,0,9942
+"286",232,2400802,240080,"Angicos",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",741.6,"Sim",11907,10398,10507,44.84,821.06,821.06,505.1,639.82,0,0,0,10398
+"287",233,2400901,240090,"Antônio Martins",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",244.6,"Sim",7205,3947,2879,11.05,0,0,0,0,0,0,0,2879
+"288",234,2401008,240100,"Apodi",24,"RN","Nordeste",2401,"Oeste Potiguar",24002,"Chapada do Apodi",1602.5,"Sim",36189,18250,18584,49.71,2657.13,0,968.35,1117.97,0,0,0,18250
+"289",235,2401107,240110,"Areia Branca",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",357.6,"Sim",27356,21955,21955,61.82,1476.56,0,1081.54,1258.47,0,0,0,21955
+"290",237,2401305,240130,"Augusto Severo",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",896.9,"Sim",9716,5232,5232,15.16,267.93,267.93,188.38,242.82,0,0,0,5232
+"291",239,2401453,240145,"Baraúna",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",825.7,"Sim",27238,17132,17132,35.69,1130.87,0,708.77,820.39,0,0,0,17132
+"292",240,2401503,240150,"Barcelona",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",152.6,"Sim",4066,1808,3861,13.73,390.34,390.34,127.64,159.38,0,0,0,1808
+"293",241,2401602,240160,"Bento Fernandes",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",301.1,"Sim",5458,2206,2277,9.72,530.96,0,108.95,129.14,0,0,0,2206
+"294",242,2401651,240165,"Bodó",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",253.5,"Sim",2358,1355,1367,5.01,143.81,143.81,70.25,92.31,0,0,0,1355
+"295",243,2401701,240170,"Bom Jesus",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",122,"Sim",10114,7251,7387,46.62,1445.29,0,411.99,532.09,0,0,0,7251
+"296",244,2401800,240180,"Brejinho",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",61.6,"Sim",12509,9644,8925,39.5,824.44,824.44,505.26,566.93,0,300,0,8925
+"297",245,2401859,240185,"Caiçara do Norte",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",189.5,"Sim",6587,6453,4788,9.18,420.58,0,154.2,164.23,0,0,0,4788
+"298",246,2401909,240190,"Caiçara do Rio do Vento",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",261.2,"Sim",3608,2755,2845,7.98,236.37,236.37,175.12,166.08,0,0,0,2755
+"299",247,2402006,240200,"Caicó",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",1228.6,"Sim",67259,61630,61630,135.73,3267.64,3267.64,2377.26,3053.54,0,0,0,61630
+"300",248,2402105,240210,"Campo Redondo",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",213.7,"Sim",11066,5602,5651,10.82,214.07,0,177.39,236.4,0,0,0,5602
+"301",250,2402303,240230,"Caraúbas",24,"RN","Nordeste",2401,"Oeste Potiguar",24002,"Chapada do Apodi",1095,"Sim",20564,14396,14514,72.3,1291.66,0,641.07,780.86,0,0,0,14396
+"302",251,2402402,240240,"Carnaúba dos Dantas",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",245.6,"Sim",8045,6528,5227,9.16,0,0,0,0,0,0,0,5227
+"303",252,2402501,240250,"Carnaubais",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",542.5,"Sim",10760,5243,3167,10.88,519.33,519.33,119.48,138.75,0,0,0,3167
+"304",254,2402709,240270,"Cerro Corá",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",393.6,"Sim",11318,4917,5807,17.24,358.11,358.11,265.36,313.52,0,0,0,4917
+"305",255,2402808,240280,"Coronel Ezequiel",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",185.7,"Sim",5587,2350,2350,5.8,88.22,0,74.37,90.27,0,0,0,2350
+"306",256,2402907,240290,"Coronel João Pessoa",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",117.1,"Sim",4963,1848,1700,4.65,86.48,86.48,63.82,77.25,0,0,0,1700
+"307",257,2403004,240300,"Cruzeta",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",295.8,"Sim",8164,6682,6682,17.81,549.56,549.56,248.2,319,0,0,0,6682
+"308",258,2403103,240310,"Currais Novos",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",864.3,"Sim",44887,39757,37929,78.72,1161.34,1161.34,923.09,1361.99,0,0,0,37929
+"309",259,2403202,240320,"Doutor Severiano",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",108.3,"Sim",7184,3080,3756,11.95,102.5,102.5,91.81,108.44,0,0,0,3080
+"310",261,2403301,240330,"Encanto",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",125.7,"Sim",5593,2277,2464,26.46,223.03,223.03,145.86,177.69,0,0,0,2277
+"311",262,2403400,240340,"Equador",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",265,"Sim",6087,5029,4707,14.36,192.64,192.64,148.38,184.45,0,0,0,4670
+"312",265,2403707,240370,"Felipe Guerra",24,"RN","Nordeste",2401,"Oeste Potiguar",24002,"Chapada do Apodi",268.6,"Sim",6013,4064,3470,20.33,626.91,0,119.46,147.21,0,0,0,3463
+"313",266,2403756,240375,"Fernando Pedroza",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",322.6,"Sim",3037,2593,2635,7.4,213.36,0,161.2,201.27,0,0,0,2593
+"314",267,2403806,240380,"Florânia",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",504.9,"Sim",9254,7083,7114,15.37,304.25,304.25,246.36,329.15,0,0,0,7083
+"315",268,2403905,240390,"Francisco Dantas",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",181.6,"Sim",2909,1667,1667,2.55,132.95,132.95,64.15,80.3,0,0,0,1667
+"316",269,2404002,240400,"Frutuoso Gomes",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",63.3,"Sim",4228,2809,2809,9.39,183.46,183.46,77.53,102.14,0,0,0,2809
+"317",270,2404101,240410,"Galinhos",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",342.2,"Sim",2584,1482,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318",272,2404309,240430,"Governador Dix-Sept Rosado",24,"RN","Nordeste",2401,"Oeste Potiguar",24002,"Chapada do Apodi",1129.3,"Sim",13048,7177,6092,15.13,428.12,0,223.67,258.04,0,0,0,6092
+"319",273,2404408,240440,"Grossos",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",126.5,"Sim",10197,7642,7642,59.89,670.99,0,371.63,425.52,0,0,0,7642
+"320",274,2404507,240450,"Guamaré",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",259,"Sim",14633,5199,9239,44.1,464.62,464.62,351.36,382.75,0,0,0,5199
+"321",275,2404606,240460,"Ielmo Marinho",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",312,"Sim",13400,1702,1869,3.83,263.02,0,69.08,89.41,0,0,0,1621
+"322",276,2404705,240470,"Ipanguaçu",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",374.2,"Sim",15147,5885,3842,22.24,364.68,0,133.3,164.08,0,0,0,3842
+"323",277,2404804,240480,"Ipueira",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",127.3,"Sim",2221,2020,2020,4.08,113.45,113.45,84.36,91.79,0,0,0,2020
+"324",278,2404853,240485,"Itajá",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",203.6,"Sim",7457,6133,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"325",279,2404903,240490,"Itaú",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",133,"Sim",5878,5059,5161,8.19,494.87,494.87,178.11,223.03,0,0,0,5059
+"326",280,2405009,240500,"Jaçanã",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",54.6,"Sim",8827,5940,3938,5.52,153.72,0,119.05,157.84,0,0,0,3938
+"327",281,2405108,240510,"Jandaíra",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",435.9,"Sim",6898,4010,3340,14.33,185.27,0,109.61,116.92,0,0,0,3340
+"328",282,2405207,240520,"Janduís",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",304.9,"Sim",5419,4047,4101,14.68,136.12,136.12,116.22,170.8,0,0,0,4047
+"329",283,2405306,240530,"Januário Cicco",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",187.2,"Sim",9879,3518,3518,17.66,355.27,0,211.71,258.43,0,0,0,3518
+"330",284,2405405,240540,"Japi",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",189,"Sim",5366,3991,3937,8.05,193.38,0,139.38,178.52,0,0,0,3854
+"331",285,2405504,240550,"Jardim de Angicos",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",254,"Sim",2669,443,1432,7.45,81.92,81.92,47.18,61.94,0,0,0,443
+"332",286,2405603,240560,"Jardim de Piranhas",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",330.5,"Sim",14606,11459,11276,31.06,703.4,703.4,299.01,389.98,0,0,0,11276
+"333",287,2405702,240570,"Jardim do Seridó",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",368.6,"Sim",12553,10192,10192,26.65,539.05,539.05,309.64,423.01,0,0,0,10192
+"334",288,2405801,240580,"João Câmara",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",715,"Sim",34585,24315,25385,81.42,2452.22,0,1012.1,1142.39,0,0,0,24315
+"335",289,2405900,240590,"João Dias",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",88.2,"Sim",2691,1206,972,5.02,0,0,0,0,0,0,0,972
+"336",290,2406007,240600,"José da Penha",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",117.6,"Sim",6049,3651,3651,21.9,211.55,211.55,130.06,174.62,0,0,0,3651
+"337",291,2406106,240610,"Jucurutu",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",933.7,"Sim",18450,11020,11341,21.05,614.15,614.15,448.43,612.41,0,0,0,11020
+"338",293,2406205,240620,"Lagoa d'Anta",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",105.7,"Sim",6692,4279,4307,22.22,273.81,0,153.5,196.39,0,0,0,4279
+"339",294,2406304,240630,"Lagoa de Pedras",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",117.7,"Sim",7478,2394,4203,23.8,245.79,0,138.88,173.04,0,0,0,2394
+"340",295,2406403,240640,"Lagoa de Velhos",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",112.8,"Sim",2765,1858,2765,17.46,298.04,298.04,106.84,124.33,0,0,0,1858
+"341",296,2406502,240650,"Lagoa Nova",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",176.3,"Sim",15274,7429,7586,21.82,521.52,521.52,480.24,562.8,0,0,0,7303
+"342",297,2406601,240660,"Lagoa Salgada",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",79.3,"Sim",8142,5387,5387,19.46,233.47,0,213.43,273.9,0,0,0,5387
+"343",298,2406700,240670,"Lajes",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",676.6,"Sim",11151,8666,8840,49.26,512.49,512.49,332.21,391.13,0,0,0,8666
+"344",299,2406809,240680,"Lajes Pintadas",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",130.2,"Sim",4803,2489,2489,11.71,115.69,0,81.03,98.86,0,0,0,2489
+"345",300,2406908,240690,"Lucrécia",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",30.9,"Sim",3933,2468,2416,6.6,241.01,241.01,83.38,100.75,0,0,0,2416
+"346",301,2407005,240700,"Luís Gomes",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",166.6,"Sim",10129,7047,6625,19.1,0,0,0,0,0,0,0,6625
+"347",302,2407104,240710,"Macaíba",24,"RN","Nordeste",2404,"Leste Potiguar",24017,"Macaíba",510.8,"Sim",78021,47880,41001,191.25,3908.38,0,1466.44,1678.76,0,0,0,40937
+"348",303,2407203,240720,"Macau",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",788,"Sim",31318,23759,23797,86.15,2180.83,2180.83,885.15,1127.27,0,0,0,23759
+"349",304,2407252,240725,"Major Sales",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",32,"Sim",3906,3203,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"350",305,2407302,240730,"Marcelino Vieira",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",345.7,"Sim",8499,5033,5058,7.75,295.99,295.99,223.53,275.06,0,0,0,5033
+"351",306,2407401,240740,"Martins",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",169.5,"Sim",8706,5335,5340,28.07,389.15,389.15,217.68,293.92,0,0,0,5335
+"352",308,2407609,240760,"Messias Targino",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",135.1,"Sim",4530,3935,2482,6.42,107.17,107.17,40.3,59.37,0,0,0,2482
+"353",310,2407807,240780,"Monte Alegre",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",211.3,"Sim",22155,9642,18547,76.68,1013.51,0,605.83,729.82,0,0,0,9642
+"354",311,2407906,240790,"Monte das Gameleiras",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",71.9,"Sim",2219,1259,1821,4.22,116.71,0,56.24,78.55,0,0,0,1259
+"355",312,2408003,240800,"Mossoró",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",2099.3,"Sim",288162,263125,263279,397.91,25453.2,5062.95,10985.17,12205.68,0,0,0,263125
+"356",315,2408300,240830,"Nova Cruz",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",277.7,"Sim",37395,25689,26784,91.78,1354.58,1354.58,1056.57,1313.64,0,0,0,25689
+"357",316,2408409,240840,"Olho D'Água do Borges",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",141.2,"Sim",4370,3297,3026,8.05,204.46,0,112.48,141.41,0,0,0,3026
+"358",317,2408508,240850,"Ouro Branco",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",253.3,"Sim",4871,3377,3377,9.74,124.02,0,109.44,141.59,0,0,0,3377
+"359",318,2408607,240860,"Paraná",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",81.4,"Sim",4222,877,2874,8.13,116.15,116.15,53.89,67.62,0,0,0,877
+"360",319,2408706,240870,"Paraú",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",383.2,"Sim",3891,3363,3424,12.7,158.64,158.64,108.91,148.96,0,0,0,3363
+"361",320,2408805,240880,"Parazinho",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",274.7,"Sim",5173,3349,3556,7.36,280.61,0,105.79,114.57,0,0,0,3349
+"362",321,2408904,240890,"Parelhas",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",513.1,"Sim",21483,18032,18032,33.43,1101.78,1101.78,672.46,858.84,0,0,0,18032
+"363",323,2409100,240910,"Passa e Fica",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",42.1,"Sim",12655,7701,7724,30.31,364.7,0,251.7,350.36,0,0,0,7701
+"364",324,2409209,240920,"Passagem",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",41.2,"Sim",3075,1265,1265,16.05,105.11,105.11,58.03,70.84,0,0,0,1265
+"365",325,2409308,240930,"Patu",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",319.1,"Sim",12706,10789,417,23.43,124.08,124.08,14.88,21.26,0,0,0,417
+"366",326,2409332,240933,"Santa Maria",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",219.6,"Sim",5341,3422,3444,9.95,179.88,179.88,126.28,143.95,0,0,0,3422
+"367",327,2409407,240940,"Pau dos Ferros",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",260,"Sim",29954,27585,27622,126.46,1518.65,1518.65,974.89,1319.83,0,0,0,27585
+"368",328,2409506,240950,"Pedra Grande",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",221.4,"Sim",3429,1131,1341,4.7,377.29,0,70.03,79.98,0,0,0,1131
+"369",329,2409605,240960,"Pedra Preta",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",295,"Sim",2568,982,982,9.83,62.98,62.98,62.39,71.13,0,0,0,982
+"370",330,2409704,240970,"Pedro Avelino",24,"RN","Nordeste",2402,"Central Potiguar",24009,"Angicos",952.8,"Sim",7059,4056,4056,19.11,293.13,293.13,175.08,215.28,0,0,0,4056
+"371",332,2409902,240990,"Pendências",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",419.1,"Sim",14751,11612,10168,38.17,1101.75,1056.87,460.03,461.23,0,0,0,10150
+"372",333,2410009,241000,"Pilões",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",82.7,"Sim",3761,2759,2759,5.36,76.18,76.18,23.17,31.02,0,0,0,2759
+"373",334,2410108,241010,"Poço Branco",24,"RN","Nordeste",2403,"Agreste Potiguar",24013,"Baixa Verde",230.4,"Sim",15139,8050,13013,79.97,1199.19,0,410.22,444.58,0,0,0,8050
+"374",335,2410207,241020,"Portalegre",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",110.1,"Sim",7811,4101,4101,11.5,278,278,154.04,206.22,0,0,0,4101
+"375",336,2410256,241025,"Porto do Mangue",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",319,"Sim",5884,3414,2010,5.3,116.11,0,70.52,86.02,0,0,0,2010
+"376",337,2410306,241030,"Presidente Juscelino",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",167.3,"Sim",9814,5947,9150,38.09,500.69,0,313.38,392.39,0,0,0,5947
+"377",338,2410405,241040,"Pureza",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",504.3,"Sim",9331,3319,3429,15.03,727.23,727.23,126.45,146.65,0,0,0,3319
+"378",339,2410504,241050,"Rafael Fernandes",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",78.2,"Sim",5040,2910,2841,4.7,106.1,106.1,68.73,87.05,0,0,0,2841
+"379",340,2410603,241060,"Rafael Godeiro",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",100.1,"Sim",3213,2028,2028,4.6,167.44,167.44,167.44,101.06,0,0,0,2028
+"380",341,2410702,241070,"Riacho da Cruz",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",127.2,"Sim",3485,2944,1987,4.49,140.79,140.79,62.83,77.67,0,0,0,1987
+"381",342,2410801,241080,"Riacho de Santana",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",128.1,"Sim",4278,1760,1451,12.26,33.38,0,16.86,20.29,0,0,0,1451
+"382",343,2410900,241090,"Riachuelo",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",262.9,"Sim",7863,4831,4837,26.03,437.19,437.19,214.26,196.49,0,0,0,4831
+"383",344,2411007,241100,"Rodolfo Fernandes",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",154.8,"Sim",4547,3843,3843,7.95,247.93,123.96,138.3,168.18,0,0,0,3843
+"384",345,2411056,241105,"Tibau",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",169.2,"Sim",4019,3090,3090,40.39,577.94,0,205.22,236.63,0,0,0,3090
+"385",346,2411106,241110,"Ruy Barbosa",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",125.8,"Sim",3678,1776,1776,3.44,142.86,142.86,92.32,87.5,0,0,0,1776
+"386",347,2411205,241120,"Santa Cruz",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",624.4,"Sim",38924,33163,33163,86,2050,1970,1862,1862,0,2050,0,33163
+"387",348,2411403,241140,"Santana do Matos",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",1419.4,"Sim",13605,6793,6804,13.87,379.67,379.67,271.3,353.58,0,0,0,6793
+"388",349,2411429,241142,"Santana do Seridó",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",188.4,"Sim",2675,1751,1626,2.98,76.64,76.64,48.73,66.19,0,0,0,1543
+"389",350,2411502,241150,"Santo Antônio",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",301.1,"Sim",23865,15340,14616,47.78,1105.67,0,402.66,466.49,0,0,0,14253
+"390",351,2411601,241160,"São Bento do Norte",24,"RN","Nordeste",2402,"Central Potiguar",24008,"Macau",288.7,"Sim",2905,1014,2384,8.99,242.44,0,81.88,94.92,0,0,0,1014
+"391",352,2411700,241170,"São Bento do Trairí",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",190.8,"Sim",4318,2083,2083,7.55,123.34,0,76.61,103.79,0,0,0,2083
+"392",353,2411809,241180,"São Fernando",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",404.4,"Sim",3587,2423,2423,3.78,131.89,131.89,98.87,131.66,0,0,0,2423
+"393",354,2411908,241190,"São Francisco do Oeste",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",75.6,"Sim",4173,3176,3176,17.31,106.16,0,85.59,104.97,0,0,0,3176
+"394",356,2412104,241210,"São João do Sabugi",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",277,"Sim",6218,4994,4994,9.12,458.8,458.8,219.95,251.67,0,0,0,4994
+"395",358,2412302,241230,"São José do Campestre",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",341.1,"Sim",12933,10752,11025,53.64,655.82,0,310.46,411.13,0,0,0,10752
+"396",359,2412401,241240,"São José do Seridó",24,"RN","Nordeste",2402,"Central Potiguar",24012,"Seridó Oriental",174.5,"Sim",4567,3564,2972,9.12,109.9,0,87.33,117.35,0,0,0,2972
+"397",360,2412500,241250,"São Miguel",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",171.7,"Sim",23274,15231,15231,30.13,0,0,0,0,0,0,0,15231
+"398",361,2412559,241255,"São Miguel do Gostoso",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",342,"Sim",9427,4492,1042,2.07,76.88,0,27.46,36.77,0,0,0,0
+"399",362,2412609,241260,"São Paulo do Potengi",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",240.4,"Sim",17239,12478,13124,45.8,895.62,895.62,536.95,625.37,0,0,0,12478
+"400",363,2412708,241270,"São Pedro",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",195.2,"Sim",6216,3483,3483,12.39,347.41,347.41,147.45,182.62,0,0,0,3483
+"401",364,2412807,241280,"São Rafael",24,"RN","Nordeste",2401,"Oeste Potiguar",24004,"Vale do Açu",469.1,"Sim",8347,5699,5733,34.03,616.17,616.17,194.46,249.88,0,0,0,5699
+"402",365,2412906,241290,"São Tomé",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",862.6,"Sim",11205,6148,6787,21.44,574.72,574.72,275.71,349.19,0,0,0,6148
+"403",366,2413003,241300,"São Vicente",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",197.8,"Sim",6400,3997,5185,8.31,192.15,192.15,187.12,259.98,0,0,0,3997
+"404",367,2413102,241310,"Senador Elói de Souza",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",167.6,"Sim",6087,2616,5590,10.84,385.65,0,195.31,245.88,0,0,0,2616
+"405",369,2413300,241330,"Serra de São Bento",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",96.6,"Sim",5883,3342,3342,6.18,425.45,0,117.96,153.89,0,0,0,3342
+"406",370,2413359,241335,"Serra do Mel",24,"RN","Nordeste",2401,"Oeste Potiguar",24001,"Mossoró",616.5,"Sim",11507,3018,607,28.11,356.68,0,8.63,10.52,0,0,0,603
+"407",371,2413409,241340,"Serra Negra do Norte",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",562.4,"Sim",8130,5229,6503,21.5,341.1,340.1,278.1,278.1,0,0,0,5213
+"408",372,2413508,241350,"Serrinha",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",193.4,"Sim",6518,2101,3918,4.55,43.04,0,164.6,190.63,0,0,0,2101
+"409",373,2413557,241355,"Serrinha dos Pintos",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",122.6,"Sim",4797,2540,2540,6.43,145.74,145.74,113.42,140.94,0,0,0,2540
+"410",374,2413607,241360,"Severiano Melo",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",157.9,"Sim",3893,1433,3893,12.16,718.67,57.48,186.1,215.41,0,0,0,1433
+"411",375,2413706,241370,"Sítio Novo",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",213.5,"Sim",5433,2587,2698,9.81,135.02,0,97.17,126.24,0,0,0,2587
+"412",376,2413805,241380,"Taboleiro Grande",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",124.1,"Sim",2518,2051,1804,5.95,118.06,59.03,72.23,86.21,0,0,0,1804
+"413",377,2413904,241390,"Taipu",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",352.8,"Sim",12366,4267,7956,31.59,691.21,0,283.04,331.2,0,0,0,4267
+"414",378,2414001,241400,"Tangará",24,"RN","Nordeste",2403,"Agreste Potiguar",24014,"Borborema Potiguar",356.8,"Sim",15529,10664,11951,45.14,927.37,0,523.78,645.02,0,0,0,10664
+"415",379,2414100,241410,"Tenente Ananias",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",223.7,"Sim",10646,7352,7691,10.4,42.2,42.2,22.65,27.02,0,0,0,7352
+"416",380,2414159,241415,"Tenente Laurentino Cruz",24,"RN","Nordeste",2402,"Central Potiguar",24010,"Serra de Santana",74.4,"Sim",5757,1227,4658,10.4,408.99,408.99,206.95,283.04,0,0,0,1227
+"417",382,2414308,241430,"Timbaúba dos Batistas",24,"RN","Nordeste",2402,"Central Potiguar",24011,"Seridó Ocidental",135.5,"Sim",2418,1821,1821,4.53,108.6,108.6,58.01,82.08,0,0,0,1821
+"418",383,2414407,241440,"Touros",24,"RN","Nordeste",2404,"Leste Potiguar",24016,"Litoral Nordeste",840.4,"Sim",33506,8538,2463,32.55,230.91,0,75.33,92.35,0,0,0,0
+"419",384,2414456,241445,"Triunfo Potiguar",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",268.7,"Sim",3366,2196,2894,8,230.9,230.9,93.78,120.04,0,0,0,2196
+"420",385,2414506,241450,"Umarizal",24,"RN","Nordeste",2401,"Oeste Potiguar",24007,"Umarizal",213.6,"Sim",10835,9219,9219,27.1,693.25,693.25,321.32,405.48,0,0,0,9219
+"421",386,2414605,241460,"Upanema",24,"RN","Nordeste",2401,"Oeste Potiguar",24003,"Médio Oeste",873.9,"Sim",14282,6923,7050,23.83,365.35,0,334.07,402.38,0,0,0,6923
+"422",387,2414704,241470,"Várzea",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",72.7,"Sim",5512,4549,4784,16.43,183.27,183.27,163.27,205.62,0,0,0,4549
+"423",388,2414753,241475,"Venha-Ver",24,"RN","Nordeste",2401,"Oeste Potiguar",24005,"Serra de São Miguel",71.6,"Sim",4121,1293,1293,4.99,88.18,88.18,59.26,50.66,0,0,0,1293
+"424",389,2414803,241480,"Vera Cruz",24,"RN","Nordeste",2403,"Agreste Potiguar",24015,"Agreste Potiguar",83.5,"Sim",12016,5263,12015,19.77,899.45,0,475.23,582.72,0,0,0,5263
+"425",390,2414902,241490,"Viçosa",24,"RN","Nordeste",2401,"Oeste Potiguar",24006,"Pau dos Ferros",37.9,"Sim",1714,1632,1632,4.88,93.39,93.39,65.81,82.47,0,0,0,1632
+"426",392,2500106,250010,"Água Branca",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",236.6,"Sim",10083,4333,4476,5.62,251.4,238.83,138.27,184.74,0,0,0,4333
+"427",393,2500205,250020,"Aguiar",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",344.7,"Sim",5573,2722,3358,5,184.77,175.53,120.66,155.17,0,0,0,2722
+"428",397,2500536,250053,"Alcantil",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",305.4,"Sim",5451,2148,5425,10,0,0,215,0,0,220,0,2137
+"429",398,2500577,250057,"Algodão de Jandaíra",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",220.2,"Sim",2475,1288,NA,1.82,0,0,0,0,0,0,0,NA
+"430",400,2500700,250070,"São João do Rio do Peixe",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",474.4,"Sim",17929,6782,NA,31.11,0,0,0,0,0,0,0,NA
+"431",401,2500734,250073,"Amparo",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",122,"Sim",2212,1125,1498,3,78.53,74.6,62.78,81.69,0,0,0,1125
+"432",402,2500775,250077,"Aparecida",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",295.7,"Sim",8263,3916,4806,6.78,323.18,307.02,173.46,216.22,0,0,0,3916
+"433",404,2500908,250090,"Arara",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",99.1,"Sim",13355,9419,10429,12.39,285.62,0,237.6,294.82,0,0,0,9419
+"434",405,2501005,250100,"Araruna",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",245.7,"Sim",20051,9907,11057,20.02,143.44,136.27,126.87,162.09,0,0,0,9907
+"435",407,2501153,250115,"Areia de Baraúnas",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",96.3,"Sim",1880,992,953,1.62,38.66,36.73,29.68,33.97,0,0,0,953
+"436",408,2501203,250120,"Areial",25,"PB","Nordeste",2503,"Agreste Paraibano",25014,"Esperança",33.1,"Sim",6900,4906,NA,9.47,0,0,0,0,0,0,0,NA
+"437",409,2501302,250130,"Aroeiras",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",374.7,"Sim",19204,9592,NA,11.32,0,0,0,0,0,0,0,NA
+"438",410,2501351,250135,"Assunção",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",126.4,"Sim",3830,3095,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439",412,2501500,250150,"Bananeiras",25,"PB","Nordeste",2503,"Agreste Paraibano",25015,"Brejo Paraibano",257.9,"Sim",21235,8424,5266,17.06,76.67,72.84,51.41,73.5,0,0,0,5266
+"440",413,2501534,250153,"Baraúna",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",50.6,"Sim",4758,3593,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"441",414,2501575,250157,"Barra de Santana",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",376.9,"Sim",8249,735,891,1.46,102.07,96.96,35.38,43.48,0,0,0,735
+"442",415,2501609,250160,"Barra de Santa Rosa",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",775.7,"Sim",15145,8511,9491,12.73,411.34,390.77,283.95,413.42,0,0,0,8511
+"443",416,2501708,250170,"Barra de São Miguel",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",595.2,"Sim",5905,2488,NA,4.71,0,0,0,0,0,0,0,NA
+"444",419,2502003,250200,"Belém do Brejo do Cruz",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",603,"Sim",7320,5390,5130,15.07,277.75,263.86,151.18,201.05,0,0,0,5130
+"445",420,2502052,250205,"Bernardino Batista",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",50.6,"Sim",3356,936,NA,2.02,0,0,0,0,0,0,0,NA
+"446",421,2502102,250210,"Boa Ventura",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",170.6,"Sim",5473,3352,4357,9.72,140.13,0,74.94,86.33,0,0,0,3352
+"447",422,2502151,250215,"Boa Vista",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",476.5,"Sim",6884,3546,4861,16.25,248.06,235.66,175.2,243.29,0,0,0,3546
+"448",423,2502201,250220,"Bom Jesus",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",47.6,"Sim",2532,1042,1811,10.92,111.11,105.55,62.62,83.76,0,0,0,1042
+"449",424,2502300,250230,"Bom Sucesso",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",184.1,"Sim",5007,2019,2158,6.54,78.61,64.94,71.03,101.03,0,0,0,2019
+"450",425,2502409,250240,"Bonito de Santa Fé",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",228.3,"Sim",11684,8002,9026,29.09,514.73,489,248.28,356.91,0,0,0,8002
+"451",426,2502508,250250,"Boqueirão",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",372,"Sim",17670,12562,11319,18.57,857.77,814.88,359.53,503.68,0,0,0,11319
+"452",427,2502607,250260,"Igaracy",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",192.3,"Sim",6191,4144,4829,5.31,454.73,431.99,131.35,191.62,0,0,0,4144
+"453",429,2502805,250280,"Brejo do Cruz",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",398.9,"Sim",13900,10484,10100,23.7,574.46,556.23,388.72,436.1,0,0,0,10100
+"454",430,2502904,250290,"Brejo dos Santos",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",93.8,"Sim",6413,4795,5097,18.09,205.45,195.18,154.37,203.95,0,0,0,4795
+"455",432,2503100,250310,"Cabaceiras",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",452.9,"Sim",5449,2399,2463,4.51,166.65,158.32,83.27,117.38,0,0,0,2399
+"456",434,2503308,250330,"Cachoeira dos Indios",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",193.1,"Sim",10114,3605,3981,8.63,176.62,167.78,111.5,153.13,0,0,0,3605
+"457",435,2503407,250340,"Cacimba de Areia",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",220.4,"Sim",3713,1747,1869,4.23,118.57,112.64,56.52,74.75,0,0,0,1747
+"458",436,2503506,250350,"Cacimba de Dentro",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",163.7,"Sim",17149,9377,10615,22.18,159.22,151.26,99.33,137.05,0,0,0,9377
+"459",437,2503555,250355,"Cacimbas",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",126.5,"Sim",7112,1713,NA,2.22,0,0,0,0,0,0,0,NA
+"460",438,2503605,250360,"Caiçara",25,"PB","Nordeste",2503,"Agreste Paraibano",25016,"Guarabira",127.9,"Sim",7293,5242,5860,9.63,204.89,194.65,99.77,142.16,0,0,0,5242
+"461",439,2503704,250370,"Cajazeiras",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",565.9,"Sim",61431,49927,61431,167.77,3394.71,3125.42,2055.01,2911.9,0,0,0,49927
+"462",440,2503753,250375,"Cajazeirinhas",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",287.9,"Sim",3165,1044,1513,4.41,83.23,79.07,53.14,66.68,0,0,0,1044
+"463",442,2503902,250390,"Camalaú",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",543.7,"Sim",5971,2998,4292,6.43,257.77,244.89,141.21,206.83,0,0,0,2998
+"464",443,2504009,250400,"Campina Grande",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",594.2,"Sim",405072,386140,405072,679.35,23442.3,22270.19,15434.99,21183.56,0,0,0,386140
+"465",445,2504074,250407,"Caraúbas",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",497.2,"Sim",4115,1601,1918,3.23,86.79,82.45,55.83,80.2,0,0,0,1601
+"466",446,2504108,250410,"Carrapateira",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",54.5,"Sim",2601,1874,NA,5.35,0,0,0,0,0,0,0,NA
+"467",447,2504157,250415,"Casserengue",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",201.4,"Sim",7394,3623,3210,5.12,96.3,0,76.97,111.14,0,0,0,3210
+"468",448,2504207,250420,"Catingueira",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",529.5,"Sim",4920,2949,3358,7.43,245.8,233.51,95.09,130.37,0,0,0,2949
+"469",449,2504306,250430,"Catolé do Rocha",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",552.1,"Sim",30179,22376,22542,32.88,1465.58,1452.36,837.96,989.96,0,0,0,22376
+"470",450,2504355,250435,"Caturité",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",118.1,"Sim",4779,1077,1891,9.71,131.79,125.2,71.98,88.66,0,0,0,1077
+"471",451,2504405,250440,"Conceição",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",579.4,"Sim",18860,11742,13106,36.9,815.46,804.32,434.98,566.94,0,0,0,11742
+"472",452,2504504,250450,"Condado",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",280.9,"Sim",6733,4665,6181,13.67,342.32,325.21,197.07,267.69,0,0,0,4665
+"473",454,2504702,250470,"Congo",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",333.5,"Sim",4780,3000,4314,5.35,300.11,285.11,140.66,199.84,0,0,0,3000
+"474",455,2504801,250480,"Coremas",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",379.5,"Sim",15409,11615,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475",456,2504850,250485,"Coxixola",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",169.9,"Sim",1892,835,1040,1.27,67.56,64.18,36.74,50.6,0,0,0,835
+"476",458,2505006,250500,"Cubati",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",137,"Sim",7193,4996,5682,7.99,242.88,230.74,172.87,246.04,0,0,0,4996
+"477",459,2505105,250510,"Cuité",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",741.8,"Sim",20325,13696,NA,23.13,0,0,0,0,0,0,0,NA
+"478",463,2505303,250530,"Curral Velho",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",223,"Sim",2523,1420,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479",464,2505352,250535,"Damião",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",185.7,"Sim",5246,2439,NA,2.92,0,0,0,0,0,0,0,NA
+"480",465,2505402,250540,"Desterro",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",179.4,"Sim",8253,5049,NA,11.93,0,0,0,0,0,0,0,NA
+"481",466,2505501,250550,"Vista Serrana",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",61.4,"Sim",3744,1691,2900,2.73,197.04,0,81.98,113.41,0,0,0,1691
+"482",467,2505600,250560,"Diamante",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",269.1,"Sim",6591,3804,4491,7.94,117.61,0,68.08,88.83,0,0,0,3804
+"483",468,2505709,250570,"Dona Inês",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",166.2,"Sim",10456,4628,NA,8.73,0,0,0,0,0,0,0,NA
+"484",470,2505907,250590,"Emas",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",240.9,"Sim",3485,2240,2346,7.32,118.89,112.95,56.98,81.41,0,0,0,2240
+"485",471,2506004,250600,"Esperança",25,"PB","Nordeste",2503,"Agreste Paraibano",25014,"Esperança",163.8,"Sim",32785,22807,20481,33,116.41,24.2,99.74,141.2,0,0,0,20481
+"486",472,2506103,250610,"Fagundes",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",189,"Sim",11378,5452,6067,7.23,348.59,331.16,199.16,244.3,0,0,0,5452
+"487",473,2506202,250620,"Frei Martinho",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",244.3,"Sim",2986,1840,2144,2.85,115.51,0,76.4,101.19,0,0,0,1840
+"488",474,2506251,250625,"Gado Bravo",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",192.4,"Sim",8450,916,NA,5.73,0,0,0,0,0,0,0,NA
+"489",477,2506509,250650,"Gurjão",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",343.2,"Sim",3376,2274,2282,5.81,88.8,84.36,75.31,112.5,0,0,0,2274
+"490",478,2506608,250660,"Ibiara",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",244.5,"Sim",5974,3651,4083,19.96,310.2,294.69,140.01,185.95,0,0,0,3651
+"491",479,2506707,250670,"Imaculada",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",317,"Sim",11749,5240,4887,6.62,158.24,150.33,134.77,177.89,0,0,0,4887
+"492",480,2506806,250680,"Ingá",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",288,"Sim",18042,11511,12808,20.01,618.69,587.76,466.05,553.43,0,0,0,11511
+"493",481,2506905,250690,"Itabaiana",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",218.8,"Sim",24565,19799,18119,38.15,1799.45,1560.83,797.78,885.43,0,0,0,18119
+"494",482,2507002,250700,"Itaporanga",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",468.1,"Sim",24499,18622,18267,20.47,1036.07,1015.8,545.07,767.97,0,0,0,18267
+"495",484,2507200,250720,"Itatuba",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",244.2,"Sim",10739,6269,6008,8.6,277.43,263.56,190.44,240.08,0,0,0,6008
+"496",486,2507408,250740,"Jericó",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",179.3,"Sim",7717,4841,4129,12.87,169.91,161.41,141.16,205.66,0,0,0,4129
+"497",489,2507705,250770,"Juazeirinho",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",467.5,"Sim",17902,9736,8442,12.84,507.93,482.53,373.04,365.94,0,0,0,8442
+"498",490,2507804,250780,"Junco do Seridó",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",170.4,"Sim",7054,4639,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"499",492,2508000,250800,"Juru",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",403.3,"Sim",9892,4388,5075,10.77,263.65,250.47,151.51,201.9,0,0,0,4388
+"500",493,2508109,250810,"Lagoa",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",177.9,"Sim",4687,2307,2380,9.1,83.46,79.29,69.09,98.78,0,0,0,2307
+"501",495,2508307,250830,"Lagoa Seca",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",107.6,"Sim",27247,11120,11461,14.3,635.68,603.9,358.58,463.67,0,0,0,11120
+"502",496,2508406,250840,"Lastro",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",102.7,"Sim",2765,1299,1614,12.36,52.18,49.57,47.45,62.62,0,0,0,1299
+"503",497,2508505,250850,"Livramento",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",260.2,"Sim",7355,3852,4238,15.92,162.25,154.13,132.62,185.87,0,0,0,3852
+"504",498,2508554,250855,"Logradouro",25,"PB","Nordeste",2503,"Agreste Paraibano",25016,"Guarabira",38,"Sim",4254,1859,2061,2.83,73.21,69.55,35.12,48.6,0,0,0,1859
+"505",500,2508703,250870,"Mãe d'Ã?gua",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",243.8,"Sim",4026,1572,3030,18.2,461.24,0,439.12,0,0,0,0,1569
+"506",501,2508802,250880,"Malta",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",156.2,"Sim",5672,4957,5481,19.01,349.31,331.85,160.35,229.45,0,0,0,4957
+"507",503,2509008,250900,"Manaíra",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",352.6,"Sim",11066,6199,7797,9.26,355.77,337.98,222.67,298.01,0,0,0,6199
+"508",506,2509156,250915,"Marizópolis",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",63.6,"Sim",6522,5660,5665,8.44,3579.63,3579.63,3472.69,3547.38,0,0,3302.75,5660
+"509",507,2509206,250920,"Massaranduba",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",206,"Sim",13654,4745,4230,6.87,263.17,250.01,130.44,176.76,0,0,0,4230
+"510",510,2509370,250937,"Mato Grosso",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",83.5,"Sim",2869,1275,798,6.31,38.76,23.76,27.95,41.4,0,0,0,798
+"511",511,2509396,250939,"Maturéia",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",83.7,"Sim",6441,4183,4805,8.67,136.2,129.39,88.04,91.28,0,0,0,4183
+"512",512,2509404,250940,"Mogeiro",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",193.9,"Sim",13317,5952,2871,13.46,415.77,394.99,104.4,151.92,0,0,0,2871
+"513",513,2509503,250950,"Montadas",25,"PB","Nordeste",2503,"Agreste Paraibano",25014,"Esperança",31.6,"Sim",5528,3496,NA,4.4,0,0,0,0,0,0,0,NA
+"514",514,2509602,250960,"Monte Horebe",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",116.2,"Sim",4759,2640,3421,12.6,115.88,110.08,96.32,140.72,0,0,0,2640
+"515",515,2509701,250970,"Monteiro",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",986.4,"Sim",32774,21523,24337,33.14,1106.93,1051.59,872.53,1131.56,0,0,0,21523
+"516",517,2509909,250990,"Natuba",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",205,"Sim",10450,3594,3447,5.96,136.5,129.68,102.59,146.05,0,0,0,3447
+"517",518,2510006,251000,"Nazarezinho",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",191.5,"Sim",7318,3201,NA,15.16,104.45,99.23,86.26,124.7,0,0,0,NA
+"518",519,2510105,251010,"Nova Floresta",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",47.4,"Sim",10650,7980,NA,11.29,0,0,0,0,0,0,0,NA
+"519",520,2510204,251020,"Nova Olinda",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",84.3,"Sim",5999,3189,3841,6.3,258.32,245.41,116.71,156.66,0,0,0,3189
+"520",521,2510303,251030,"Nova Palmeira",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",310.4,"Sim",4784,2800,NA,3.22,0,0,0,0,0,0,0,NA
+"521",522,2510402,251040,"Olho D'Água",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",596.1,"Sim",6646,3709,4483,16.14,316.5,300.67,154.93,189.79,0,0,0,3709
+"522",523,2510501,251050,"Olivedos",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",317.9,"Sim",3880,2035,2369,3.53,110.65,105.12,64.16,95.76,0,0,0,2035
+"523",524,2510600,251060,"Ouro Velho",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",129.4,"Sim",3023,2113,2063,6.48,107.21,101.85,61.5,92.2,0,0,0,2063
+"524",525,2510659,251065,"Parari",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",128.5,"Sim",1795,999,924,1.8,33.35,31.68,29.96,44.37,0,0,0,924
+"525",526,2510709,251070,"Passagem",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",111.9,"Sim",2383,1183,2115,2.92,76.66,52.02,71.68,91.6,0,0,0,1183
+"526",527,2510808,251080,"Patos",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",473.1,"Sim",106314,102728,106314,200.58,6660.19,6589.38,4058.52,5439.07,0,0,0,102728
+"527",528,2510907,251090,"Paulista",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",576.9,"Sim",12216,5928,4678,21.72,571.69,543.11,145.91,195.37,0,0,0,4678
+"528",529,2511004,251100,"Pedra Branca",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",112.9,"Sim",3796,2413,2550,18.5,700,500,500,300,0,0,0,2100
+"529",530,2511103,251110,"Pedra Lavrada",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",351.7,"Sim",7982,3284,3709,6.28,177.54,168.66,116.3,166.24,0,0,0,3284
+"530",532,2511301,251130,"Piancó",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",564.7,"Sim",15985,11657,12190,17.64,666,632.7,369.2,524.38,0,0,0,11657
+"531",533,2511400,251140,"Picuí",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",661.7,"Sim",18670,12418,13705,18.9,731.11,694.56,422.58,627.07,0,0,0,12418
+"532",539,2512002,251200,"Pocinhos",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",628.1,"Sim",18272,10318,NA,12.3,222.95,211.8,56.91,57.25,0,0,0,NA
+"533",540,2512036,251203,"Poço Dantas",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",97.2,"Sim",3778,984,796,1.86,36.49,34.67,23.04,31.73,0,0,0,796
+"534",541,2512077,251207,"Poço de José de Moura",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",101,"Sim",4245,1521,3953,4.07,99.73,49.14,73.87,96.16,0,0,0,1521
+"535",542,2512101,251210,"Pombal",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",888.8,"Sim",32712,26236,32051,40.05,2397.49,2385.49,1371.77,1544.68,0,0,0,26236
+"536",543,2512200,251220,"Prata",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",192,"Sim",4109,2606,2748,4.74,138.72,131.78,84.32,124.79,0,0,0,2606
+"537",544,2512309,251230,"Princesa Isabel",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",368,"Sim",22995,15697,17405,18.79,360.4,342.38,260.1,311.77,0,0,0,15697
+"538",545,2512408,251240,"Puxinanã",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",72.7,"Sim",13557,4424,4947,11.54,56.15,45.18,48.2,68.1,0,0,0,4424
+"539",546,2512507,251250,"Queimadas",25,"PB","Nordeste",2503,"Agreste Paraibano",25017,"Campina Grande",401.8,"Sim",43667,23654,30488,34.03,1198.69,1138.76,883.97,1288.92,0,0,0,23654
+"540",547,2512606,251260,"Quixabá",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",156.7,"Sim",1901,708,978,2.5,55.02,52.27,30.16,39.06,0,0,0,708
+"541",548,2512705,251270,"Remígio",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",178,"Sim",19149,14108,NA,18.69,0,0,0,0,0,0,0,NA
+"542",550,2512747,251274,"Riachão",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",90.2,"Sim",3531,2190,NA,6.26,0,0,0,0,0,0,0,NA
+"543",551,2512754,251275,"Riachão do Bacamarte",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",38.4,"Sim",4476,2795,2228,8.83,120.66,114.63,62.4,89.74,0,0,0,2228
+"544",553,2512788,251278,"Riacho de Santo Antônio",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",91.3,"Sim",1923,1324,NA,3.5,0,0,0,0,0,0,0,NA
+"545",554,2512804,251280,"Riacho dos Cavalos",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",264,"Sim",8563,4146,NA,9.41,0,0,0,0,0,0,0,NA
+"546",556,2513000,251300,"Salgadinho",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",184.2,"Sim",3871,1327,1305,10.92,79.21,19.2,69.68,29.27,0,0,0,1305
+"547",557,2513109,251310,"Salgado de São Félix",25,"PB","Nordeste",2503,"Agreste Paraibano",25018,"Itabaiana",201.9,"Sim",12144,5324,4283,10.13,378.37,359.45,164.65,210.94,0,0,0,4283
+"548",558,2513158,251315,"Santa Cecília",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",227.9,"Sim",6583,1847,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"549",559,2513208,251320,"Santa Cruz",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",210.2,"Sim",6579,3038,4176,9.83,145.39,115.1,118.23,158.43,0,0,0,3038
+"550",560,2513307,251330,"Santa Helena",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",210.3,"Sim",5917,2978,3252,11.55,179.11,170.16,98.74,145.45,0,0,0,2978
+"551",561,2513356,251335,"Santa Inês",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",324.4,"Sim",3594,1452,1450,6.5,95,0,80,80,0,0,0,1450
+"552",562,2513406,251340,"Santa Luzia",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",455.7,"Sim",15278,13991,14197,17.75,683.53,668.45,490.77,574.82,0,0,0,13991
+"553",563,2513505,251350,"Santana de Mangueira",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",402.2,"Sim",5223,2186,2902,5.09,179.22,170.26,90.65,127.25,0,0,0,2186
+"554",564,2513604,251360,"Santana dos Garrotes",25,"PB","Nordeste",2501,"Sertão Paraibano",25005,"Piancó",353.8,"Sim",7113,3657,4129,10.85,283.81,269.62,133.46,176.35,0,0,0,3657
+"555",565,2513653,251365,"Santarém",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",74,"Sim",2680,861,880,1.75,32.66,21.53,23.23,34.27,0,0,0,861
+"556",567,2513802,251380,"Santa Teresinha",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",358,"Sim",4592,2213,3188,5.7,182.19,173.08,94.97,130.42,0,0,0,2213
+"557",568,2513851,251385,"Santo André",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",225.2,"Sim",2541,833,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558",569,2513901,251390,"São Bento",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",248.2,"Sim",33464,27136,28382,32.34,1822.02,1758.56,931.23,1215.61,0,0,0,27136
+"559",570,2513927,251392,"São Bentinho",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",196,"Sim",4451,3060,3356,72.87,212.05,208.26,91.21,133.29,0,0,0,3060
+"560",571,2513943,251394,"São Domingos do Cariri",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",218.8,"Sim",2563,1095,1751,4.64,76.93,73.08,58.02,79.88,0,0,0,1095
+"561",572,2513968,251396,"São Domingos",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",169.1,"Sim",3061,1066,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"562",573,2513984,251398,"São Francisco",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",95.1,"Sim",3375,1367,1578,4.04,46.12,30.51,39.42,58.63,0,0,0,1367
+"563",574,2514008,251400,"São João do Cariri",25,"PB","Nordeste",2502,"Borborema",25011,"Cariri Oriental",653.6,"Sim",4323,2336,3624,8.41,162.78,154.64,111.02,165.4,0,0,0,2336
+"564",575,2514107,251410,"São João do Tigre",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",816.1,"Sim",4432,1542,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"565",576,2514206,251420,"São José da Lagoa Tapada",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",341.8,"Sim",7677,3365,3360,9.67,144.3,137.09,96.34,137.97,0,0,0,3360
+"566",577,2514305,251430,"São José de Caiana",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",176.3,"Sim",6231,2829,3161,10.82,130.87,0,102.61,133.24,0,0,0,2829
+"567",578,2514404,251440,"São José de Espinharas",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",725.7,"Sim",4684,1591,2074,5.77,147.69,140.31,67.36,86.12,0,0,0,1591
+"568",580,2514503,251450,"São José de Piranhas",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",677.3,"Sim",19956,11281,16001,16.16,917.22,871.36,487.24,660,0,0,0,11281
+"569",581,2514552,251455,"São José de Princesa",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",158,"Sim",3955,652,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"570",582,2514602,251460,"São José do Bonfim",25,"PB","Nordeste",2501,"Sertão Paraibano",25004,"Patos",134.7,"Sim",3492,1470,2057,40.74,93.38,88.71,64.25,88.85,0,0,0,1470
+"571",583,2514651,251465,"São José do Brejo do Cruz",25,"PB","Nordeste",2501,"Sertão Paraibano",25001,"Catolé do Rocha",253,"Sim",1780,1013,1318,5.7,33.3,12.64,24.3,26.61,0,0,0,1013
+"572",584,2514701,251470,"São José do Sabugi",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",206.9,"Sim",4124,2652,3375,7.38,129.6,123.12,102.26,137.13,0,0,0,2652
+"573",585,2514800,251480,"São José dos Cordeiros",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",417.7,"Sim",3729,1537,2487,3.76,117.9,112.01,82.19,115.49,0,0,0,1537
+"574",586,2514909,251490,"São Mamede",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",530.7,"Sim",7756,5935,7232,14.89,548.06,520.66,248.45,313.97,0,0,0,5935
+"575",588,2515104,251510,"São Sebastião de Lagoa de Roça",25,"PB","Nordeste",2503,"Agreste Paraibano",25014,"Esperança",49.9,"Sim",11677,4927,5425,7.77,238.24,226.33,152.83,217.79,0,0,0,4927
+"576",589,2515203,251520,"São Sebastião do Umbuzeiro",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",460.6,"Sim",3440,2230,2500,15,157,0,127,0,0,0,0,2100
+"577",591,2515401,251540,"Seridó",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",276.5,"Sim",10900,4898,4412,7.35,215.66,204.88,124.94,174.67,0,0,0,4412
+"578",592,2515500,251550,"Serra Branca",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",686.9,"Sim",13564,8801,10630,16.5,522.62,496.49,425.08,500.07,0,0,0,8801
+"579",594,2515708,251570,"Serra Grande",25,"PB","Nordeste",2501,"Sertão Paraibano",25006,"Itaporanga",83.5,"Sim",3078,1837,2539,4.8,109.21,103.75,78.51,107.97,0,0,0,1837
+"580",599,2516003,251600,"Solânea",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",232.1,"Sim",26734,19362,18844,35.12,436.76,319.18,348.23,513.42,0,0,0,18844
+"581",600,2516102,251610,"Soledade",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",560,"Sim",14714,10957,12425,21.11,527.46,501.08,466.46,536.66,0,0,0,10957
+"582",601,2516151,251615,"Sossêgo",25,"PB","Nordeste",2503,"Agreste Paraibano",25012,"Curimataú Ocidental",154.7,"Sim",3475,1735,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583",602,2516201,251620,"Sousa",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",738.5,"Sim",68822,54261,61453,343.35,0,0,4380,2588,0,6998,0,53637
+"584",603,2516300,251630,"Sumé",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",838.1,"Sim",16784,12788,14948,22.21,923.47,877.3,638.57,779.15,0,0,0,12788
+"585",604,2516409,251640,"Campo de Santana",25,"PB","Nordeste",2503,"Agreste Paraibano",25013,"Curimataú Oriental",246.7,"Sim",10822,4606,6037,9.95,41.6,39.52,31.42,42.28,0,0,0,4606
+"586",605,2516508,251650,"Taperoá",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",662.9,"Sim",15376,9202,NA,16.28,0,0,0,0,0,0,0,NA
+"587",606,2516607,251660,"Tavares",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",237.3,"Sim",14568,6834,10383,19.12,472.69,449.06,334.39,413.06,0,0,0,6834
+"588",607,2516706,251670,"Teixeira",25,"PB","Nordeste",2501,"Sertão Paraibano",25007,"Serra do Teixeira",160.9,"Sim",14974,10190,9520,11.65,258.76,245.82,219.98,265.37,0,0,0,9520
+"589",608,2516755,251675,"Tenório",25,"PB","Nordeste",2502,"Borborema",25009,"Seridó Oriental Paraibano",105.3,"Sim",3011,1791,1200,5.23,100,0,80,0,0,0,0,1200
+"590",609,2516805,251680,"Triunfo",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",219.9,"Sim",9447,4415,NA,15.6,0,0,0,0,0,0,0,NA
+"591",610,2516904,251690,"Uiraúna",25,"PB","Nordeste",2501,"Sertão Paraibano",25002,"Cajazeiras",294.5,"Sim",15228,10806,12794,18.7,707.82,672.43,448.98,589.83,0,0,0,10806
+"592",611,2517001,251700,"Umbuzeiro",25,"PB","Nordeste",2503,"Agreste Paraibano",25019,"Umbuzeiro",181.3,"Sim",9889,4239,1360,7.87,70.81,67.27,46.27,66.57,0,0,0,1360
+"593",612,2517100,251710,"Várzea",25,"PB","Nordeste",2502,"Borborema",25008,"Seridó Ocidental Paraibano",190.4,"Sim",2747,2013,2426,5.57,110.48,104.96,73.63,108.4,0,0,0,2013
+"594",613,2517209,251720,"Vieirópolis",25,"PB","Nordeste",2501,"Sertão Paraibano",25003,"Sousa",146.8,"Sim",5295,1045,1186,2.8,45.41,26.96,41.05,52.84,0,0,0,1045
+"595",614,2517407,251740,"Zabelê",25,"PB","Nordeste",2502,"Borborema",25010,"Cariri Ocidental",109.4,"Sim",2208,1566,1566,5,300,0,600,0,0,300,300,1566
+"596",403,2600104,260010,"Afogados da Ingazeira",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",377.7,"Sim",36709,28668,36709,98.66,2881.67,2881.67,1172.33,1779.67,0,0,0,28668
+"597",404,2600203,260020,"Afrânio",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",1490.6,"Sim",19031,6343,9755,23.35,423.28,423.28,273.22,407.7,0,0,0,6343
+"598",405,2600302,260030,"Agrestina",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",201.4,"Sim",24256,18136,23436,69.37,1127.91,1127.91,731.19,1031.02,0,0,0,18136
+"599",407,2600500,260050,"Águas Belas",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",886,"Sim",42566,25987,20270,65.03,648.35,648.35,329.67,487.07,0,0,0,20270
+"600",408,2600609,260060,"Alagoinha",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",217.8,"Sim",14341,8098,6273,17.67,1.54,0,1.47,3.01,0,0,0,6273
+"601",410,2600807,260080,"Altinho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",454.5,"Sim",22876,13075,18190,49.25,968.09,968.09,559.04,825.02,0,0,0,13075
+"602",412,2601003,260100,"Angelim",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",118,"Sim",10882,6493,7541,19.25,374.21,374.21,220.2,320.32,0,0,0,6493
+"603",414,2601102,260110,"Araripina",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1892.6,"Sim",82800,50244,53978,147.2,2200.95,2200.95,1408.21,2139.37,0,0,0,50244
+"604",415,2601201,260120,"Arcoverde",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",350.9,"Sim",72625,66159,67787,163.21,2312.83,0,1535.19,2788.38,0,0,0,66159
+"605",419,2601607,260160,"Belém de São Francisco",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",1830.8,"Sim",20675,12844,15175,34.26,1133.01,1133.01,588.56,721.27,0,0,0,12844
+"606",420,2601706,260170,"Belo Jardim",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",647.7,"Sim",75462,60669,75462,226.97,3403.41,3403.41,1743.39,3307.69,0,0,0,60669
+"607",421,2601805,260180,"Betânia",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",1244.1,"Sim",12539,3878,5691,23.35,262.81,0,167.06,245.71,0,0,0,3878
+"608",422,2601904,260190,"Bezerros",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",490.8,"Sim",60386,51197,48789,148.86,3722.37,3722.37,1479.63,2308.2,0,0,0,48789
+"609",423,2602001,260200,"Bodocó",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1616.5,"Sim",37317,13612,17068,39.95,773.4,773.4,535.44,731.6,0,0,0,13612
+"610",424,2602100,260210,"Bom Conselho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",792.2,"Sim",47760,31256,30960,80.13,1551.29,1551.29,1040.66,1402.71,0,0,0,30960
+"611",425,2602209,260220,"Bom Jardim",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",218.4,"Sim",38924,15636,24988,89.73,1010.89,1010.89,468.75,706.59,0,0,0,15636
+"612",427,2602407,260240,"Brejão",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",159.8,"Sim",8989,3622,4013,9.59,135.71,135.71,101.96,156.32,0,0,0,3622
+"613",428,2602506,260250,"Brejinho",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",106.3,"Sim",7464,3459,4740,12.37,10.33,10.33,8.44,18.97,0,0,0,3459
+"614",429,2602605,260260,"Brejo da Madre de Deus",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",762.4,"Sim",49092,38165,27327,105.18,576.06,575.98,567.91,895.75,0,0,0,27327
+"615",431,2602803,260280,"Buíque",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",1347.6,"Sim",56523,22992,17066,48.22,519.72,519.72,323.17,576.21,0,0,0,17066
+"616",433,2603009,260300,"Cabrobó",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",1657.9,"Sim",33247,21320,27637,121.99,2188.24,2188.24,926.46,1208.11,0,0,0,21320
+"617",434,2603108,260310,"Cachoeirinha",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",179.3,"Sim",19951,16120,17392,48.95,613.33,613.33,480.64,764.92,0,0,0,16120
+"618",435,2603207,260320,"Caetés",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",329.5,"Sim",28145,7964,6536,19.01,19.86,18,18.91,37.17,0,0,0,6536
+"619",436,2603306,260330,"Calçado",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",121.9,"Sim",11136,3814,3922,11.07,83.47,83.47,69.61,105.08,0,0,0,3814
+"620",437,2603405,260340,"Calumbi",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",179.3,"Sim",5745,2217,2649,9.22,191.04,191.04,84.06,120.53,0,0,0,2217
+"621",439,2603504,260350,"Camocim de São Félix",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",72.5,"Sim",18292,15322,13072,40.54,490.46,490.46,379.79,565.43,0,0,0,13072
+"622",441,2603702,260370,"Canhotinho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",423.1,"Sim",24837,14288,14181,42.09,696.85,696.85,412.81,603.51,0,0,0,14181
+"623",442,2603801,260380,"Capoeiras",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",336.3,"Sim",19997,6392,7092,17.66,25.46,25.46,22.79,52.21,0,0,0,6392
+"624",443,2603900,260390,"Carnaíba",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",427.8,"Sim",19318,7929,11972,34.38,532.11,532.11,376.24,543.12,0,0,0,7929
+"625",444,2603926,260392,"Carnaubeira da Penha",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",1004.7,"Sim",12603,2120,3200,12,138,0,138,0,138,0,0,1200
+"626",446,2604106,260410,"Caruaru",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",920.6,"Sim",347088,308156,339749,883.9,20789.2,20789.2,11340.92,15722.84,0,0,0,308156
+"627",447,2604155,260415,"Casinhas",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",115.9,"Sim",14219,1760,1670,6.17,171.92,171.92,40.7,71.79,0,0,0,1670
+"628",449,2604304,260430,"Cedro",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",171.6,"Sim",11515,6721,8525,19.88,431.54,0,237.4,337.42,0,0,0,6721
+"629",451,2604502,260450,"Chã Grande",26,"PE","Nordeste",2604,"Mata Pernambucana",26014,"Vitória de Santo Antão",84.8,"Sim",21274,14465,13598,31.43,629.24,629.24,371.36,553.17,0,0,0,13598
+"630",453,2604700,260470,"Correntes",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",328.7,"Sim",17968,10655,12129,29.3,685.15,685.15,353.58,476.48,0,0,0,10655
+"631",455,2604908,260490,"Cumaru",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",292.2,"Sim",13132,6144,7009,22.68,621.31,621.31,217.8,328.71,0,0,0,6144
+"632",456,2605004,260500,"Cupira",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",105.6,"Sim",23841,21188,23841,66.09,1331.17,1331.17,888.29,1211.47,0,0,0,21188
+"633",457,2605103,260510,"Custódia",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",1404.1,"Sim",36184,23210,21359,75.02,699.39,0,436.88,841.38,0,0,0,21359
+"634",458,2605152,260515,"Dormentes",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",1537.6,"Sim",18321,6502,7873,21.94,252.38,252.38,223.51,346.26,0,0,0,6502
+"635",460,2605301,260530,"Exu",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1337.5,"Sim",31928,16453,18481,48.53,696.39,696.39,440.92,705.69,0,0,0,16453
+"636",464,2605608,260560,"Flores",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",995.6,"Sim",22588,9541,12911,35.48,708.13,3.99,389.19,582.5,0,0,0,9541
+"637",465,2605707,260570,"Floresta",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",3644.2,"Sim",31809,21694,27172,60.69,1335.34,1335.34,870.79,1154.44,0,0,0,21694
+"638",466,2605806,260580,"Frei Miguelinho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",212.7,"Sim",15137,3589,6063,27.91,131.01,124.39,124.77,245.86,0,0,0,3589
+"639",468,2606002,260600,"Garanhuns",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",458.6,"Sim",136949,122078,136949,326.12,9989.27,9989.27,4857.58,6476.34,0,0,0,122078
+"640",471,2606309,260630,"Granito",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",521.9,"Sim",7308,3388,3756,8.04,176.58,176.58,117.7,150.58,0,0,0,3388
+"641",472,2606408,260640,"Gravatá",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",505.1,"Sim",81893,73246,81893,323.36,6999.81,6999.81,4056.05,5243.49,0,0,0,73246
+"642",473,2606507,260650,"Iati",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",635.1,"Sim",19010,7991,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"643",474,2606606,260660,"Ibimirim",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",1954.7,"Sim",28604,15807,15556,44.88,760.35,0,454.56,634.4,0,0,0,15556
+"644",475,2606705,260670,"Ibirajuba",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",189.6,"Sim",7725,3220,4029,16.25,119.04,119.04,107.75,178.97,0,0,0,3220
+"645",477,2606903,260690,"Iguaraci",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",838.1,"Sim",12137,6296,8144,21.19,268.59,268.59,193.56,334.67,0,0,0,6296
+"646",478,2607000,260700,"Inajá",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",1182.5,"Sim",21932,9147,13264,48,989.29,0,823.14,0,0,0,0,9147
+"647",479,2607109,260710,"Ingazeira",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",243.7,"Sim",4556,2489,2147,5.82,61.49,50.93,58.56,92.19,0,0,0,2147
+"648",481,2607307,260730,"Ipubi",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",861.4,"Sim",29721,18262,16799,37.14,691.26,691.26,441.33,620.36,0,0,0,16799
+"649",482,2607406,260740,"Itacuruba",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",430,"Sim",4754,4035,4754,16.6,291.47,291.47,172.53,227.31,0,0,0,4035
+"650",483,2607505,260750,"Itaíba",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",1083.7,"Sim",26412,9746,17700,44.5,956.18,0,492.45,734.53,0,0,0,9746
+"651",486,2607703,260770,"Itapetim",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",404.8,"Sim",13780,8365,9351,27.13,0.67,0,0.64,1.91,0,0,0,8365
+"652",491,2608008,260800,"Jataúba",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",672.2,"Sim",16858,9787,2592,13.88,0,0,0,0,0,0,0,2592
+"653",492,2608057,260805,"Jatobá",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",277.9,"Sim",14587,6354,11445,41.5,1072.23,1072.23,458.26,582.24,0,0,0,6354
+"654",493,2608107,260810,"João Alfredo",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",138.3,"Sim",32939,16093,19835,51.7,880.95,880.95,379.69,598.15,0,0,0,16093
+"655",495,2608255,260825,"Jucati",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",120.6,"Sim",11202,2987,3985,14.55,15.45,3.46,14.71,21.5,0,0,0,2987
+"656",496,2608305,260830,"Jupi",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",105,"Sim",14525,8856,2576,20.03,21.46,19.69,20.44,25.91,0,0,0,2576
+"657",497,2608404,260840,"Jurema",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",148.3,"Sim",15171,9132,13000,34.5,460.41,460.41,333.99,522.91,0,0,0,9132
+"658",500,2608602,260860,"Lagoa do Ouro",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",198.8,"Sim",12865,6393,6852,22.77,247.34,247.34,204.08,282.29,0,0,0,6393
+"659",501,2608701,260870,"Lagoa dos Gatos",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",222.9,"Sim",16161,8943,9815,26.97,557.97,534.44,314.08,448.87,0,0,0,8943
+"660",502,2608750,260875,"Lagoa Grande",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",1852.3,"Sim",24757,11330,14898,55.13,1316.32,1316.32,420.34,602.64,0,0,0,11330
+"661",503,2608800,260880,"Lajedo",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",189.1,"Sim",39240,28277,39146,119.82,2211.57,2211.57,1006.27,1642.94,0,0,0,28277
+"662",507,2609154,260915,"Manari",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",381.3,"Sim",20302,4287,7347,15.64,163.14,0,155.37,267.42,0,0,0,4287
+"663",509,2609303,260930,"Mirandiba",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",821.7,"Sim",15098,7535,12707,78.62,800.69,151.88,347.51,491.25,0,0,0,7535
+"664",513,2609709,260970,"Orobó",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",138.7,"Sim",23663,8515,7434,23.75,335.27,335.27,151.31,250.16,0,0,0,7434
+"665",514,2609808,260980,"Orocó",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",554.8,"Sim",14445,5060,5643,12.79,513.59,513.59,168.81,243.44,0,0,0,5060
+"666",515,2609907,260990,"Ouricuri",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",2422.9,"Sim",67676,34276,48928,132.08,2079.96,2079.96,1761.75,2361.35,0,0,0,34276
+"667",517,2610103,261010,"Palmeirina",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",158,"Sim",7969,5039,5303,16.43,400.93,400.93,176.62,241.04,0,0,0,5039
+"668",518,2610202,261020,"Panelas",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",370.9,"Sim",26464,14410,16338,40.97,614.45,614.45,391.21,649.55,0,0,0,14410
+"669",519,2610301,261030,"Paranatama",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",230.9,"Sim",11357,2314,1392,5.11,46.24,46.24,22.36,54.24,0,0,0,1392
+"670",520,2610400,261040,"Parnamirim",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",2595.9,"Sim",21193,8778,12236,29.68,594.31,594.31,392.09,505.41,0,0,0,8778
+"671",521,2610509,261050,"Passira",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",326.8,"Sim",28982,14117,17454,45.01,541.2,541.2,386.48,673.28,0,0,0,14117
+"672",524,2610806,261080,"Pedra",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",803.1,"Sim",22401,12833,10734,35.13,67.4,67.4,39.36,39.7,0,0,0,10734
+"673",525,2610905,261090,"Pesqueira",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",995.5,"Sim",66153,47436,40933,127.77,1869.45,1869.45,1133.6,1575.05,0,0,0,40933
+"674",526,2611002,261100,"Petrolândia",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",1056.6,"Sim",35342,25693,25476,54.94,2219.7,2219.7,1052.87,1286.17,0,0,0,25476
+"675",527,2611101,261110,"Petrolina",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",4558.4,"Sim",331951,247544,308321,672.31,20584.1,20584.1,10645.52,14002.5,0,0,0,247544
+"676",528,2611200,261120,"Poção",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",246.7,"Sim",11265,7002,6686,20.47,10.24,0,9.75,26.4,0,0,0,6686
+"677",532,2611533,261153,"Quixaba",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",210.7,"Sim",6823,2526,3605,13.39,104,104,87.16,137.98,0,0,0,2526
+"678",534,2611705,261170,"Riacho das Almas",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",314,"Sim",20177,9226,12754,36.71,579.19,579.19,466.41,607.4,0,0,0,9226
+"679",537,2612000,261200,"Sairé",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",191,"Sim",10437,5855,9731,22.56,397.04,397.04,341.05,469.51,0,0,0,5855
+"680",538,2612109,261210,"Salgadinho",26,"PE","Nordeste",2603,"Agreste Pernambucano",26010,"Médio Capibaribe",88.8,"Sim",10423,3427,3752,8.43,413.53,413.53,68.99,133.66,0,0,0,3427
+"681",539,2612208,261220,"Salgueiro",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",1686.8,"Sim",59769,48248,59769,242.06,3975.14,3975.14,2055.45,2807.92,0,10.66,0,48248
+"682",540,2612307,261230,"Saloá",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",252.1,"Sim",15742,7885,5552,17.63,88.78,88.78,77.31,156.99,0,0,0,5552
+"683",541,2612406,261240,"Sanharó",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",268.7,"Sim",25047,14260,20948,58.04,673.37,673.37,412.66,772.11,0,0,0,14260
+"684",542,2612455,261245,"Santa Cruz",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1255.9,"Sim",14857,4860,6597,19.75,434.69,434.69,191.75,281.11,0,0,0,4860
+"685",543,2612471,261247,"Santa Cruz da Baixa Verde",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",114.9,"Sim",12375,5549,191,10.13,7.62,0,5.53,7.51,0,0,0,191
+"686",544,2612505,261250,"Santa Cruz do Capibaribe",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",335.3,"Sim",101485,99181,78656,202.83,2020.13,2020.13,1299.61,2680.43,0,0,0,78656
+"687",545,2612554,261255,"Santa Filomena",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",1005,"Sim",14172,2359,5008,12.21,138.72,122.62,132.11,205.33,0,0,0,2359
+"688",546,2612604,261260,"Santa Maria da Boa Vista",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",3001.2,"Sim",41293,15577,17308,39.3,1387.92,1387.92,567.64,747.98,0,0,0,15577
+"689",547,2612703,261270,"Santa Maria do Cambucá",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",92.1,"Sim",13826,3477,6775,24.04,168.22,168.22,123.18,263.13,0,0,0,3477
+"690",548,2612802,261280,"Santa Terezinha",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",195.6,"Sim",11627,7274,8557,20.7,242.1,242.1,196.91,328.89,0,0,0,7274
+"691",550,2613008,261300,"São Bento do Una",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",719.2,"Sim",57659,30214,27118,85.15,1109.81,1109.81,550.46,1003.03,0,0,0,27118
+"692",551,2613107,261310,"São Caitano",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",382.5,"Sim",36763,28222,29594,76.05,1036.03,1036.03,744.15,1175.36,0,0,0,28222
+"693",552,2613206,261320,"São João",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",258.3,"Sim",22403,10150,13749,32.97,515.87,515.87,416.6,586.76,0,0,0,10150
+"694",553,2613305,261330,"São Joaquim do Monte",26,"PE","Nordeste",2603,"Agreste Pernambucano",26012,"Brejo Pernambucano",231.8,"Sim",21171,14593,16087,44.66,729.55,729.55,504.33,712.29,0,0,0,14593
+"695",555,2613503,261350,"São José do Belmonte",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",1474.1,"Sim",33677,16693,20351,64.29,1128.91,0,616.12,847.81,0,0,0,16693
+"696",556,2613602,261360,"São José do Egito",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",798.9,"Sim",33365,21971,24606,63.74,667.35,667.35,513.26,948.19,0,0,0,21971
+"697",559,2613909,261390,"Serra Talhada",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",2980,"Sim",84352,65235,84352,194.49,5691.98,5691.98,2853.82,3879.78,0,0,0,65235
+"698",560,2614006,261400,"Serrita",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",1514.4,"Sim",19017,6594,10802,52.53,277.11,242.24,263.91,373.22,0,0,0,6594
+"699",561,2614105,261410,"Sertânia",26,"PE","Nordeste",2601,"Sertão Pernambucano",26004,"Sertão do Moxotó",2421.5,"Sim",35367,19425,19693,60.09,570.7,570.7,451.16,806.3,0,0,0,19425
+"700",563,2614303,261430,"Moreilândia",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",404.6,"Sim",11242,6906,5336,13.05,280.33,280.33,134.29,195.23,0,0,0,5336
+"701",564,2614402,261440,"Solidão",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",138.4,"Sim",5949,1896,2095,4.1,56.75,56.75,39.35,73.93,0,0,0,1896
+"702",565,2614501,261450,"Surubim",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",252.9,"Sim",63166,47536,63166,160.81,2334.91,2334.91,1534.77,2589.25,0,0,0,47536
+"703",566,2614600,261460,"Tabira",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",388,"Sim",27958,20914,25816,64.07,1655.44,1655.44,679.94,1059.43,0,0,0,20914
+"704",567,2614709,261470,"Tacaimbó",26,"PE","Nordeste",2603,"Agreste Pernambucano",26008,"Vale do Ipojuca",227.6,"Sim",12891,7177,8999,24.77,316.01,316.01,242.39,349.23,0,0,0,7177
+"705",568,2614808,261480,"Tacaratu",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26006,"Itaparica",1264.5,"Sim",24626,10257,15281,59.88,925.79,925.79,463.29,632.95,0,0,0,10257
+"706",570,2615003,261500,"Taquaritinga do Norte",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",475.2,"Sim",27592,19900,8630,25.48,38.66,29.42,36.82,69.25,0,0,0,8630
+"707",571,2615102,261510,"Terezinha",26,"PE","Nordeste",2603,"Agreste Pernambucano",26011,"Garanhuns",151.4,"Sim",7057,2996,3602,9.08,146.99,146.99,79.89,137.98,0,0,0,2996
+"708",572,2615201,261520,"Terra Nova",26,"PE","Nordeste",2602,"São Francisco Pernambucano",26005,"Petrolina",321.4,"Sim",10185,5504,9700,21.1,389.17,389.17,264.88,368.73,0,0,0,5504
+"709",574,2615409,261540,"Toritama",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",25.7,"Sim",42123,40430,34414,115.39,823.21,823.21,630.06,1263.57,0,0,0,34414
+"710",576,2615607,261560,"Trindade",26,"PE","Nordeste",2601,"Sertão Pernambucano",26001,"Araripina",229.5,"Sim",29519,25391,29519,75.76,1095.31,1095.31,797.62,1164.43,0,0,0,25391
+"711",577,2615706,261570,"Triunfo",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",191.5,"Sim",15250,8073,7946,23.05,195.24,162.24,149.15,275.87,0,0,0,7946
+"712",578,2615805,261580,"Tupanatinga",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",884.4,"Sim",26454,9243,11835,29.84,384.05,0,292.1,455.69,0,0,0,9243
+"713",579,2615904,261590,"Tuparetama",26,"PE","Nordeste",2601,"Sertão Pernambucano",26003,"Pajeú",178.6,"Sim",8149,6531,8149,22.67,203.27,203.27,143.13,305.61,0,0,0,6531
+"714",580,2616001,261600,"Venturosa",26,"PE","Nordeste",2603,"Agreste Pernambucano",26007,"Vale do Ipanema",320.7,"Sim",17870,11514,8992,28.74,9.71,5.44,9.25,11.21,0,0,0,8992
+"715",581,2616100,261610,"Verdejante",26,"PE","Nordeste",2601,"Sertão Pernambucano",26002,"Salgueiro",476,"Sim",9450,2783,9376,25.29,600.66,600.66,251.66,345.61,0,0,0,2783
+"716",582,2616183,261618,"Vertente do Lério",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",73.6,"Sim",7746,1784,2991,15.72,54.3,54.3,46.25,110.89,0,0,0,1784
+"717",583,2616209,261620,"Vertentes",26,"PE","Nordeste",2603,"Agreste Pernambucano",26009,"Alto Capibaribe",196.3,"Sim",19976,14187,14625,46.45,564.04,564.04,306.95,601.64,0,0,0,14187
+"718",1,2700102,270010,"Água Branca",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",454.6,"Sim",20434,5379,13178,25,156.87,156.87,442.8,436.28,0,510.7,0,5230
+"719",3,2700300,270030,"Arapiraca",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",356.2,"Sim",231053,195937,221212,622.94,258.29,258.29,8223.24,8305.52,0,17772.65,0,194316
+"720",7,2700706,270070,"Batalha",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",320.9,"Sim",18496,13043,13757,75,0,0,410.03,409.63,0,1320.98,0,11581
+"721",9,2700904,270090,"Belo Monte",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",334.1,"Sim",6775,1129,1854,32.3,0,0,77.34,76.98,0,359.76,0,1095
+"722",12,2701209,270120,"Cacimbinhas",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",273,"Sim",10818,5732,1935,34.1,0,0,74.28,74.2,0,197.14,0,1905
+"723",17,2701605,270160,"Canapi",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",574.6,"Sim",17976,5771,5634,17,0,0,200.69,200.59,0,201.87,0,5526
+"724",19,2701803,270180,"Carneiros",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",113.1,"Sim",8969,5087,5674,28.8,0,0,203.9,202.25,0,530.9,0,4993
+"725",21,2702009,270200,"Coité do Nóia",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",88.5,"Sim",10992,3760,3417,10.25,0,0,106.92,113.6,0,285.16,0,3020
+"726",25,2702355,270235,"Craíbas",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",271.3,"Sim",24288,7861,15009,152.1,0,0,538.11,554.6,0,1446.6,0,7674
+"727",26,2702405,270240,"Delmiro Gouveia",27,"AL","Nordeste",2701,"Sertão Alagoano",27002,"Alagoana do Sertão do São Francisco",607.8,"Sim",51997,37681,50940,208,9811.65,9738.83,3143.78,2100.84,0,0,1695.83,37190
+"728",27,2702504,270250,"Dois Riachos",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",140.5,"Sim",11224,5246,3829,26.4,0,0,152.98,149.67,0,425.91,0,3829
+"729",28,2702553,270255,"Estrela de Alagoas",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",259.8,"Sim",18306,4275,6313,17.07,188.42,188.42,182.61,174.15,0,0,30.76,3834
+"730",32,2702900,270290,"Girau do Ponciano",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",500.6,"Sim",40519,12508,16387,56.93,0,0,631.69,635.18,0,993.6,0,12405
+"731",34,2703106,270310,"Igaci",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",334.5,"Sim",26041,6393,13758,150.52,0,0,417.02,422.81,0,691.36,0,6076
+"732",36,2703304,270330,"Inhapi",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",376.9,"Sim",18621,6970,8346,16,0,0,271.52,271.42,0,367.33,0,6686
+"733",37,2703403,270340,"Jacaré dos Homens",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",142.3,"Sim",5429,3041,3622,40.6,0,0,212.77,254.61,0,1236.68,0,2945
+"734",40,2703700,270370,"Jaramataia",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",103.7,"Sim",5695,2985,3356,52.5,0,0,81.65,81.82,0,255.47,0,2646
+"735",45,2704104,270410,"Lagoa da Canoa",27,"AL","Nordeste",2702,"Agreste Alagoano",27006,"Arapiraca",88.5,"Sim",18343,9212,13187,30.08,0,0,424.21,431.58,0,539.51,0,8576
+"736",48,2704401,270440,"Major Isidoro",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",453.9,"Sim",20047,9872,9790,101.4,0,0,310.89,310.85,0,797.11,0,7934
+"737",50,2704609,270460,"Maravilha",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",302.1,"Sim",9770,4880,5690,32.6,0,0,199.1,204.94,0,539.13,0,4824
+"738",54,2705002,270500,"Mata Grande",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",908,"Sim",25590,5879,9833,33,0,0,323.94,322.48,0,362.32,0,5528
+"739",57,2705309,270530,"Minador do Negrão",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",167.6,"Sim",5425,2316,1804,5.56,0,0,37.29,37.89,0,40.76,0,1694
+"740",58,2705408,270540,"Monteirópolis",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",86.1,"Sim",7241,2626,4111,28.2,0,0,176.02,178.72,0,502.7,0,2414
+"741",61,2705705,270570,"Olho d'Ã?gua das Flores",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",183.4,"Sim",21641,14866,18226,89,0,0,793.11,802.94,0,2368.76,0,13827
+"742",62,2705804,270580,"Olho d'Ã?gua do Casado",27,"AL","Nordeste",2701,"Sertão Alagoano",27002,"Alagoana do Sertão do São Francisco",322.9,"Sim",9298,4410,5656,12,797.07,797.07,620.21,184.72,0,0,487.02,4277
+"743",64,2706000,270600,"Olivença",27,"AL","Nordeste",2701,"Sertão Alagoano",27004,"Batalha",173,"Sim",11688,3319,5429,24.5,0,0,213.04,212.74,0,512.69,0,3067
+"744",65,2706109,270610,"Ouro Branco",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",204.8,"Sim",11537,7274,5058,28,0,0,105.18,104.51,0,299.58,0,4865
+"745",66,2706208,270620,"Palestina",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",48.9,"Sim",5004,3169,3922,25.5,0,0,147.75,148.19,0,456.28,0,3061
+"746",67,2706307,270630,"Palmeira dos Ã?ndios",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Indios",452.7,"Sim",73878,54184,64202,284.14,0,0,2708.16,2740.93,0,5030.47,0,52306
+"747",68,2706406,270640,"Pão de Açúcar",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",683,"Sim",24878,11252,24878,87.5,18799.6,1552.48,18729.24,2009.01,0,601,16773.83,10930
+"748",69,2706422,270642,"Pariconha",27,"AL","Nordeste",2701,"Sertão Alagoano",27001,"Serrana do Sertão Alagoano",258.5,"Sim",10601,2888,7580,20,0,0,281.53,280.88,0,303.62,0,2731
+"749",77,2707107,270710,"Piranhas",27,"AL","Nordeste",2701,"Sertão Alagoano",27002,"Alagoana do Sertão do São Francisco",408.1,"Sim",24950,14279,22243,44,3480.7,3453.56,701.05,685.55,0,437.02,0,14180
+"750",78,2707206,270720,"Poço das Trincheiras",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",291.9,"Sim",14493,2134,3295,26.2,0,0,133.45,137.79,0,459.99,0,2091
+"751",82,2707602,270760,"Quebrangulo",27,"AL","Nordeste",2702,"Agreste Alagoano",27005,"Palmeira dos Ã?ndios",319.8,"Sim",11592,6537,6555,20.85,7613.35,7613.35,5228.93,350.45,0,0,5040.49,6336
+"752",86,2708006,270800,"Santana do Ipanema",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",437.9,"Sim",47820,28932,34652,203.3,0,0,1518.13,1526.31,0,4332,0,27155
+"753",90,2708402,270840,"São José da Tapera",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",495.1,"Sim",32271,12481,15568,137,0,0,566.11,568.52,0,1817.27,0,11095
+"754",96,2708956,270895,"Senador Rui Palmeira",27,"AL","Nordeste",2701,"Sertão Alagoano",27003,"Santana do Ipanema",342.7,"Sim",13909,4205,4190,15.5,0,0,126.82,126.27,0,361.48,0,4124
+"755",100,2709202,270920,"Traipu",27,"AL","Nordeste",2702,"Agreste Alagoano",27007,"Traipu",698,"Sim",27798,8682,10026,19.88,10224.42,10224.42,9901.62,318.29,0,0,9695.06,8621
+"756",103,2800100,280010,"Amparo de São Francisco",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",35.1,"Sim",2374,1920,2088,4.39,241.78,241.78,76.74,93.56,0,0,0,1708
+"757",104,2800209,280020,"Aquidabã",28,"SE","Nordeste",2802,"Agreste Sergipano",28003,"Nossa Senhora das Dores",359.3,"Sim",21312,12174,18959,84.1,1931.58,1931.58,642.81,844.66,0,0,0,10907
+"758",112,2801108,280110,"Canhoba",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",170.3,"Sim",4057,1537,4005,47.54,607.07,607.07,153.17,187.51,0,0,0,1520
+"759",113,2801207,280120,"Canindé de São Francisco",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",902.2,"Sim",28279,16110,19011,92.98,3035.34,3035.34,690.09,809.94,0,0,0,11781
+"760",115,2801405,280140,"Carira",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",636.4,"Sim",21484,11991,19439,107.61,1379.7,1379.7,606.53,818.86,0,0,0,11672
+"761",117,2801603,280160,"Cedro de São João",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",83.7,"Sim",5890,5265,5675,17.72,879.79,843.41,235.5,296.36,0,0,0,5174
+"762",119,2801900,280190,"Cumbe",28,"SE","Nordeste",2802,"Agreste Sergipano",28003,"Nossa Senhora das Dores",128.6,"Sim",3985,2373,3861,24.13,551.88,551.88,233.27,180.31,0,0,0,2293
+"763",122,2802205,280220,"Feira Nova",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",184.9,"Sim",5573,3755,5385,37.96,673.82,673.82,209.12,265.33,0,0,0,3636
+"764",123,2802304,280230,"Frei Paulo",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",400.4,"Sim",15047,8907,14689,60.4,965.79,965.79,446.41,607.24,0,0,0,8739
+"765",124,2802403,280240,"Gararu",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",655,"Sim",11724,2911,10421,85.99,967.79,917.84,362.16,443.7,0,0,0,2332
+"766",126,2802601,280260,"Gracho Cardoso",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",242.1,"Sim",5848,2800,5767,42.95,551.88,551.88,250.12,307.96,0,0,0,2756
+"767",131,2803104,280310,"Itabi",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",184.4,"Sim",5017,2777,4923,54.83,832.35,832.35,243.03,308.4,0,0,0,2747
+"768",137,2803708,280370,"Macambira",28,"SE","Nordeste",2802,"Agreste Sergipano",28004,"Agreste de Itabaiana",136.9,"Sim",6824,3265,5760,39.71,348,348,183.75,248.7,0,0,0,3176
+"769",142,2804201,280420,"Monte Alegre de Sergipe",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",407.4,"Sim",14853,8767,12572,138.6,1793.61,1793.61,472.98,581.64,0,0,0,8554
+"770",145,2804458,280445,"Nossa Senhora Aparecida",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",340.4,"Sim",8830,3586,8724,52.95,689.85,689.85,385.88,491.92,0,0,0,3534
+"771",146,2804508,280450,"Nossa Senhora da Glória",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",756.5,"Sim",35726,23765,35129,117.46,3725.19,3725.19,1455.41,1838.82,0,0,0,23453
+"772",147,2804607,280460,"Nossa Senhora das Dores",28,"SE","Nordeste",2802,"Agreste Sergipano",28003,"Nossa Senhora das Dores",483.3,"Sim",26240,17109,24208,86.56,1673.16,1635.77,674.39,1000.82,0,0,0,16368
+"773",148,2804706,280470,"Nossa Senhora de Lourdes",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",81.1,"Sim",6494,3426,6246,18.75,965.79,965.79,237.82,298.6,0,0,0,3300
+"774",151,2805000,280500,"Pedra Mole",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",82,"Sim",3199,1288,3139,24.59,206.95,206.95,109.55,145.37,0,0,0,1269
+"775",153,2805208,280520,"Pinhão",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",155.9,"Sim",6440,3578,5424,7.56,394.2,394.2,162.12,209.12,0,0,0,3397
+"776",155,2805406,280540,"Poço Redondo",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",1232.1,"Sim",33757,9333,18346,103.41,2759.4,2759.4,630.39,749.22,0,0,0,8328
+"777",156,2805505,280550,"Poço Verde",28,"SE","Nordeste",2802,"Agreste Sergipano",28005,"Tobias Barreto",440.1,"Sim",23416,13115,20069,113.24,1201.52,0,626.89,848.37,0,0,0,12942
+"778",157,2805604,280560,"Porto da Folha",28,"SE","Nordeste",2801,"Sertão Sergipano",28001,"Sergipana do Sertão do São Francisco",877.3,"Sim",28492,10449,27942,87.52,3311.28,3204.88,888.75,1119.53,0,0,0,10308
+"779",158,2805703,280570,"Propriá",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",92.5,"Sim",29655,25422,28135,66.76,3845.98,3845.98,1079.97,1286.9,0,0,0,25123
+"780",161,2806008,280600,"Ribeirópolis",28,"SE","Nordeste",2801,"Sertão Sergipano",28002,"Carira",258.5,"Sim",18362,12754,16400,30.29,1155,0,531.96,703.42,0,0,0,12231
+"781",171,2807006,280700,"São Miguel do Aleixo",28,"SE","Nordeste",2802,"Agreste Sergipano",28003,"Nossa Senhora das Dores",144.1,"Sim",3902,1843,2971,6.76,275.94,275.94,93.55,124.6,0,0,0,1750
+"782",172,2807105,280710,"Simão Dias",28,"SE","Nordeste",2802,"Agreste Sergipano",28005,"Tobias Barreto",564.7,"Sim",40526,21389,28171,106.94,2645.46,2645.46,882.64,1211.12,0,0,0,20912
+"783",174,2807303,280730,"Telha",28,"SE","Nordeste",2803,"Leste Sergipano",28007,"Propriá",49,"Sim",3170,1208,3113,8.8,528.65,528.65,120.08,150.66,0,0,0,1190
+"784",175,2807402,280740,"Tobias Barreto",28,"SE","Nordeste",2802,"Agreste Sergipano",28005,"Tobias Barreto",1021.3,"Sim",51375,34465,40134,105.33,2628,2597.37,1426.02,1860.19,0,0,0,32229
+"785",587,2900108,290010,"Abaíra",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",530.5,"Sim",9226,4145,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"786",588,2900207,290020,"Abaré",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",1485,"Sim",19574,10357,12855,68.33,634.06,634.06,439.08,483.03,0,0,0,10357
+"787",590,2900355,290035,"Adustina",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",632.1,"Sim",17153,6087,10107,112.96,0,0,351.93,434.4,0,507.15,0,6087
+"788",591,2900405,290040,"Água Fria",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",661.9,"Sim",17043,6259,8123,25.91,360.8,0,238.28,345.78,0,0,0,6259
+"789",592,2900504,290050,"Érico Cardoso",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",701.4,"Sim",11437,2123,4633,38,235,119,141,133,0,0,0,1022
+"790",597,2901007,290100,"Amargosa",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",463.2,"Sim",37807,27395,32742,149.21,1262.72,1262.72,1068.56,1556.6,0,0,0,27395
+"791",599,2901155,290115,"América Dourada",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",839.3,"Sim",16923,11485,13822,67.75,645.83,645.83,402.75,564.4,0,0,0,11485
+"792",600,2901205,290120,"Anagé",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",1947.4,"Sim",20096,3878,6350,35.21,313.23,313.23,225.94,310.78,0,0,0,3878
+"793",601,2901304,290130,"Andaraí",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1861.7,"Sim",13723,7641,8580,39.1,366.71,366.71,248.09,359.24,0,0,0,7641
+"794",602,2901353,290135,"Andorinha",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",1247.6,"Sim",14791,6370,9908,134.84,0,0,286.6,475.44,0,388.75,0,6370
+"795",604,2901502,290150,"Anguera",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",177,"Sim",11299,4772,8236,16.14,372.42,372.42,195.54,289.83,0,0,0,4772
+"796",605,2901601,290160,"Antas",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",319.6,"Sim",19183,7146,10872,30.94,438.83,0,309.39,438.08,0,0,0,7146
+"797",606,2901700,290170,"Antônio Cardoso",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",294.5,"Sim",12225,3412,4979,27.98,174.48,174.48,153.92,216.68,0,0,0,3412
+"798",607,2901809,290180,"Antônio Gonçalves",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",313.9,"Sim",12187,6398,9127,74.07,341.67,341.67,278.47,390.41,0,0,0,6398
+"799",610,2902005,290200,"Aracatu",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1489.8,"Sim",14089,4037,5902,43.27,244.89,244.89,189.96,263.63,0,0,0,4037
+"800",612,2902104,290210,"Araci",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",1556.1,"Sim",56370,21432,26781,53.21,952.17,0,764.85,1094.15,0,0,0,21432
+"801",618,2902609,290260,"Baixa Grande",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",946.6,"Sim",21197,8811,12765,47.84,646.74,646.74,388.57,579.05,0,0,0,8811
+"802",619,2902658,290265,"Banzaê",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",227.2,"Sim",13711,4691,5684,15.58,238.88,0,152.84,227.19,0,2.77,0,4691
+"803",620,2902708,290270,"Barra",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",11412.8,"Sim",54188,24659,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"804",621,2902807,290280,"Barra da Estiva",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1346.6,"Sim",22394,10997,18982,97.93,803.85,303.85,688.19,40.78,0,0,0,9700
+"805",622,2902906,290290,"Barra do Choça",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",646.6,"Sim",34853,22449,29022,88.91,1100.84,1100.84,1115.78,1237.91,0,35.08,158.62,22449
+"806",623,2903003,290300,"Barra do Mendes",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",1540.6,"Sim",14526,6497,11336,52.59,501.35,501.35,342.27,460.73,0,0,0,6497
+"807",626,2903235,290323,"Barro Alto",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",416.7,"Sim",15377,7582,6393,22.74,216.72,216.72,194.44,265.43,0,0,0,6393
+"808",627,2903276,290327,"Barrocas",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",201,"Sim",15770,6329,11441,28.64,0,0,335.61,469.59,0,608.56,7.86,5880
+"809",630,2903508,290350,"Belo Campo",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",629.1,"Sim",18383,10360,6777,52.52,0,0,154.64,251.31,0,190.41,0,6777
+"810",631,2903607,290360,"Biritinga",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",550,"Sim",15799,3745,7002,23.4,733.64,0,581.51,305.97,0,4.42,359.16,3745
+"811",632,2903706,290370,"Boa Nova",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",868.8,"Sim",14577,5490,9110,109.67,403.56,403.56,292.66,407.11,0,0,0,5490
+"812",633,2903805,290380,"Boa Vista do Tupim",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",2811.1,"Sim",18658,6837,13333,56.81,408.69,408.69,358.26,524.39,0,0,0,6837
+"813",634,2903904,290390,"Bom Jesus da Lapa",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",4200.3,"Sim",69526,47204,69526,169,4080,4080,2183,2724,0,0,0,47204
+"814",635,2903953,290395,"Bom Jesus da Serra",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",421.5,"Sim",10554,2889,4340,16.69,185.53,185.53,135.07,183.51,0,0,12.16,2889
+"815",636,2904001,290400,"Boninal",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",934,"Sim",14585,4906,5619,12.18,211.66,0,181.73,221.2,0,0,0,4906
+"816",637,2904050,290405,"Bonito",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",726.6,"Sim",16873,7089,6921,18.53,221.78,221.78,180.19,273.47,0,0,0,6921
+"817",638,2904100,290410,"Boquira",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",1482.7,"Sim",22429,7495,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"818",639,2904209,290420,"Botuporã",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",645.5,"Sim",11021,4027,5916,45.63,284.22,284.22,265.53,343.46,0,0,0,4027
+"819",640,2904308,290430,"Brejões",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",480.8,"Sim",15214,5259,13803,86.84,577.58,577.58,354.16,558.77,0,0,0,5259
+"820",641,2904407,290440,"Brejolândia",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29002,"Cotegipe",2744.5,"Sim",10698,1916,2983,26.36,130.95,130.95,103.95,137.59,0,0,0,1916
+"821",642,2904506,290450,"Brotas de Macaúbas",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",2240,"Sim",11070,3221,4033,15.85,143.5,114.67,131.7,188.5,0,0,0,3221
+"822",643,2904605,290460,"Brumado",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",2226.8,"Sim",69255,48382,61083,311.32,3330.88,3330.88,2539,3035.05,0,0,187.38,48382
+"823",645,2904753,290475,"Buritirama",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",3942.2,"Sim",21549,8691,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"824",646,2904803,290480,"Caatiba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",491.3,"Sim",10166,4805,7142,7.68,230.31,230.31,168.95,225.94,0,0,0,4805
+"825",647,2904852,290485,"Cabaceiras do Paraguaçu",29,"BA","Nordeste",2905,"Metropolitana de Salvador",29020,"Santo Antônio de Jesus",226,"Sim",18978,5087,9126,49.29,297.89,297.89,255.94,348.29,0,0,0,5087
+"826",649,2905008,290500,"Caculé",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",668.4,"Sim",23545,14092,19306,71.23,927.15,927.15,684.27,900.93,0,0,0,14092
+"827",650,2905107,290510,"Caém",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",548.1,"Sim",10143,3576,4596,9.88,58.82,58.82,37.47,69.12,0,0,0,2948
+"828",651,2905156,290515,"Caetanos",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",774.7,"Sim",15982,3856,3940,11.07,133.42,133.42,97.69,117.13,0,0,0,3856
+"829",652,2905206,290520,"Caetité",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",2442.9,"Sim",52531,31450,38201,154.26,1501.34,1426.4,1220.86,1694.84,0,0,0,31450
+"830",653,2905305,290530,"Cafarnaum",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",675.4,"Sim",18695,11475,12016,56.23,536.03,536.03,320.18,479.97,0,0,0,11475
+"831",655,2905503,290550,"Caldeirão Grande",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",455.2,"Sim",13641,4978,8217,83.7,432.11,432.11,355.85,424.17,0,0,60.76,4978
+"832",659,2905909,290590,"Campo Alegre de Lourdes",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",2781.4,"Sim",29938,8661,8650,28,420,0,250,0,0,0,0,8650
+"833",660,2906006,290600,"Campo Formoso",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",7258.6,"Sim",72271,26974,31833,51.25,1237.21,1237.21,859.91,1244.21,0,0,0,26974
+"834",662,2906204,290620,"Canarana",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",576.4,"Sim",26382,12557,18827,94.44,900.12,900.12,563.91,803.2,0,0,0,12557
+"835",664,2906402,290640,"Candeal",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",445.1,"Sim",9011,3521,4651,16.47,232.47,232.47,112.95,198.15,0,0,0.03,3521
+"836",666,2906600,290660,"Candiba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",418,"Sim",14667,8577,10771,77.57,530.75,530.75,380.93,488.51,0,0,0,8577
+"837",667,2906709,290670,"Cândido Sales",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",1617.5,"Sim",26855,18552,16524,45.34,738.26,738.26,532.14,735.16,0,0,0,16524
+"838",668,2906808,290680,"Cansanção",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",1344.8,"Sim",35235,11800,26650,241.16,1626.22,0,1004.77,1078.62,0,0,296.67,11800
+"839",669,2906824,290682,"Canudos",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",3219.3,"Sim",17177,9497,11000,42.23,535.83,82.3,349.47,471.77,0,0,0,9497
+"840",670,2906857,290685,"Capela do Alto Alegre",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",649.5,"Sim",12118,5882,9161,53.03,449.96,449.96,449.1,627.34,0,0,0,5882
+"841",671,2906873,290687,"Capim Grosso",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",336.2,"Sim",29346,24029,29346,388.76,1331.76,1331.76,1168.91,1756.15,0,0,0,24029
+"842",672,2906899,290689,"Caraíbas",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",805.6,"Sim",10016,2462,3431,19.26,151.96,151.96,127.95,172.69,0,0,0,2462
+"843",675,2907103,290710,"Carinhanha",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",2736.9,"Sim",29955,13283,22975,70,1955,1915,1915,1131,0,0,0,13283
+"844",676,2907202,290720,"Casa Nova",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",9647,"Sim",72172,41724,55000,106.7,4283.54,3994.71,3691.12,1678.45,0,0,0,34000
+"845",677,2907301,290730,"Castro Alves",29,"BA","Nordeste",2905,"Metropolitana de Salvador",29020,"Santo Antônio de Jesus",711.7,"Sim",27286,16845,22849,181.27,1063.96,1063.96,683.16,1011.61,0,7.85,0,16845
+"846",680,2907558,290755,"Caturama",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",664.6,"Sim",9762,2621,5737,42.81,266.68,266.68,176.61,217.77,0,0,0,2621
+"847",681,2907608,290760,"Central",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",602.4,"Sim",18140,8697,14614,77.91,742.63,742.63,498.43,660.3,0,0,0,8697
+"848",682,2907707,290770,"Chorrochó",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",3005.3,"Sim",11522,2824,7452,41.36,342.51,342.51,224.08,312.13,0,0,0,2824
+"849",683,2907806,290780,"Cícero Dantas",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",673,"Sim",34478,18921,24355,61.78,3201.37,0,2872,1042.48,0,0,2191,18921
+"850",684,2907905,290790,"Cipó",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",128.3,"Sim",17602,12610,13169,57.59,609.7,0,467.4,615.24,0,0,0,12610
+"851",686,2908101,290810,"Cocos",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",10148.1,"Sim",19396,9159,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"852",689,2908408,290840,"Conceição do Coité",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",1016,"Sim",68146,39848,53481,156.88,57.01,57.01,1626.06,2332.09,0,3154.61,42.45,39848
+"853",692,2908705,290870,"Condeúba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1285.9,"Sim",18269,8067,9152,41.28,412.91,412.91,303.3,430.36,0,0,0,8067
+"854",693,2908804,290880,"Contendas do Sincorá",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1044.7,"Sim",4326,2131,3011,14.72,147.54,147.54,95.37,136.91,0,0,0,2131
+"855",695,2909000,290900,"Cordeiros",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",535.5,"Sim",8834,2759,4956,21.17,211.76,211.76,146.87,212.04,0,0,0,2759
+"856",696,2909109,290910,"Coribe",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",2523.2,"Sim",14976,6428,14210,60,1478,478,810,810,0,0,0,6099
+"857",697,2909208,290920,"Coronel João Sá",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",883.4,"Sim",17098,7056,10989,52.76,452.71,0,307.35,480.57,0,0,0,7056
+"858",700,2909505,290950,"Cravolândia",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",162.2,"Sim",5560,3507,3279,15.28,134.52,134.52,92.56,148.72,0,0,0,3279
+"859",701,2909604,290960,"Crisópolis",29,"BA","Nordeste",2904,"Nordeste Baiano",29017,"Alagoinhas",607.7,"Sim",21617,9287,9306,32.92,354.22,0,285.93,431.49,0,0,0,9287
+"860",704,2909901,290990,"Curaçá",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",6079,"Sim",35208,15015,30291,272.56,2864.23,2564.23,805.43,986.84,0,0,0,14557
+"861",707,2910107,291010,"Dom Basílio",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",676.9,"Sim",12499,2467,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"862",709,2910305,291030,"Elísio Medrado",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",193.5,"Sim",8434,3447,3751,18.11,145.52,145.52,124.08,189.32,0,0,0,3447
+"863",710,2910404,291040,"Encruzilhada",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1982.5,"Sim",20331,4389,6196,16.4,242.7,242.7,184.21,255.05,0,0,0,4389
+"864",713,2910701,291070,"Euclides da Cunha",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",2235.3,"Sim",60666,29548,44731,371.61,1760.48,0,1507.16,1953.09,0,772.17,38.99,29548
+"865",715,2910750,291075,"Fátima",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",359.4,"Sim",18481,7241,16647,39.21,785.03,0,996,739.6,0,797,507.15,7241
+"866",716,2910776,291077,"Feira da Mata",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",1668.5,"Sim",5914,3101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"867",717,2910800,291080,"Feira de Santana",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",1338,"Sim",617528,566489,581908,2161.73,35389.53,35389.53,17596.87,24484.15,0,0,16.59,565540
+"868",718,2910859,291085,"Filadélfia",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",570.1,"Sim",17583,9476,12141,121.67,628.18,628.18,474.21,553.17,0,0,88.33,9476
+"869",723,2911253,291125,"Gavião",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",369.9,"Sim",4712,2622,3380,8.49,118.44,118.44,102.56,163.64,0,0,0,2622
+"870",724,2911303,291130,"Gentio do Ouro",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",3700.1,"Sim",11423,5753,3778,12.09,167.05,75.87,131.02,158.94,0,0,0,3778
+"871",725,2911402,291140,"Glória",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",1255.6,"Sim",16072,3014,11679,93.81,514.81,514.81,492.88,524.79,0,102.02,102.02,3014
+"872",728,2911659,291165,"Guajeru",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",936.1,"Sim",8805,1756,3289,63.89,137.27,137.27,92.06,138.16,0,0,0,1756
+"873",729,2911709,291170,"Guanambi",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",1296.7,"Sim",85797,68092,85797,663.19,4401.56,4401.56,3434.61,4377.49,0,0,0,68092
+"874",731,2911857,291185,"Heliópolis",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",312.5,"Sim",13762,5663,8173,18.87,0,0,233.29,352.77,0,411.83,0,5663
+"875",732,2911907,291190,"Iaçu",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",2451.5,"Sim",26178,20514,26056,90.34,1101.92,1101.92,799.62,1160.71,0,0,0,20514
+"876",733,2912004,291200,"Ibiassucê",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",426.7,"Sim",10502,4912,7669,51.39,327.99,327.99,259.08,343.96,0,0,0,4912
+"877",735,2912202,291220,"Ibicoara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",849.9,"Sim",19548,12398,4572,23.32,171.31,171.31,165.99,209.03,0,0,0,4572
+"878",737,2912400,291240,"Ibipeba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",1383.7,"Sim",18674,11033,13725,115.46,683.46,683.46,508.2,631.6,0,0,0,9188
+"879",738,2912509,291250,"Ibipitanga",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",954.4,"Sim",15296,5564,8256,70.71,308.76,308.76,221.32,341.63,0,0,0,5564
+"880",739,2912608,291260,"Ibiquera",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",945.3,"Sim",5158,2609,3358,24.27,137.02,137.02,84.84,142.45,0,0,0,2609
+"881",743,2913002,291300,"Ibitiara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",1847.6,"Sim",16699,3701,3638,15.95,107.4,0,102.75,128.39,0,0,0,3638
+"882",744,2913101,291310,"Ibititá",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",624.1,"Sim",18727,8753,18455,97.76,931.9,931.9,587.63,804.05,0,0,0,8753
+"883",745,2913200,291320,"Ibotirama",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",1722.3,"Sim",27655,21212,24471,108.32,1113.66,1113.66,790.94,1115.3,0,0,0,21212
+"884",746,2913309,291330,"Ichu",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",127.7,"Sim",6311,4041,5001,16.03,216.84,216.84,120.76,191.9,0,0,0,4041
+"885",747,2913408,291340,"Igaporã",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",832.5,"Sim",16225,8392,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"886",749,2913507,291350,"Iguaí",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",827.8,"Sim",27787,15761,15614,26.87,655.06,655.06,512.97,709.51,0,0,0,15614
+"887",751,2913705,291370,"Inhambupe",29,"BA","Nordeste",2904,"Nordeste Baiano",29017,"Alagoinhas",1222.6,"Sim",40915,17620,23007,95.08,856.76,0,766.19,998.56,0,174.82,0,17620
+"888",752,2913804,291380,"Ipecaetá",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",369.9,"Sim",15521,2670,8775,18.77,433.59,433.59,248.44,342.91,0,0,0,2670
+"889",754,2914000,291400,"Ipirá",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",3048.5,"Sim",62095,30354,45194,135.1,2012.9,2000.11,1463.82,2094.22,0,0,0,30354
+"890",755,2914109,291410,"Ipupiara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",1061.2,"Sim",10113,6512,7688,26.1,305.8,0,290.13,320.84,0,59.56,59.56,6512
+"891",756,2914208,291420,"Irajuba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",413.5,"Sim",7472,3493,4283,29.48,0,0,160.95,183.39,0,171.99,0,3493
+"892",757,2914307,291430,"Iramaia",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",1947.3,"Sim",10487,4727,7724,59.37,369.52,369.52,276.87,324.67,0,0,0,4727
+"893",758,2914406,291440,"Iraquara",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",1029.4,"Sim",25006,7476,8172,34.17,348.72,0,242.59,349.57,0,0,0,7476
+"894",760,2914604,291460,"Irecê",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",319,"Sim",73380,67656,73380,406.65,3876.43,3876.43,2965.38,3855.88,0,0,0,67656
+"895",762,2914703,291470,"Itaberaba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",2343.5,"Sim",66310,52166,66310,234.53,3135.17,3135.17,2346.76,3195.49,0,0,0,52166
+"896",765,2915007,291500,"Itaeté",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1208.7,"Sim",16446,6842,7050,19.2,260.41,260.41,245.53,315.4,0,0,0,6842
+"897",766,2915106,291510,"Itagi",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",259.2,"Sim",13359,10451,11077,23.71,463.18,463.18,350.95,505.5,0,0,0,10451
+"898",769,2915353,291535,"Itaguaçu da Bahia",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",4451.2,"Sim",14667,2885,4447,20.47,195.05,195.05,136.94,184.39,0,0,0,2885
+"899",774,2915809,291580,"Itambé",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1441.6,"Sim",23327,19901,19381,56.07,841.72,841.72,678.46,855.31,0,9.89,0,19381
+"900",780,2916401,291640,"Itapetinga",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1627.5,"Sim",76184,73956,76184,179.4,5695.08,5695.08,3972.65,3972.65,0,0,0,73956
+"901",781,2916500,291650,"Itapicuru",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",1585.6,"Sim",35987,7446,18577,81,730.65,0,564.98,786.04,0,0,0,7446
+"902",783,2916708,291670,"Itaquara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",323,"Sim",8519,5113,5229,14.9,212.63,212.63,150.8,219.92,0,0,19.1,5113
+"903",784,2916807,291680,"Itarantim",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1805.1,"Sim",20091,16583,16014,39.62,729.89,729.89,574.28,762.37,0,0,0,16014
+"904",785,2916856,291685,"Itatim",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",583.4,"Sim",14763,10280,14657,115.9,681.88,681.88,523.03,703.53,0,0,0,10280
+"905",786,2916906,291690,"Itiruçu",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",313.7,"Sim",13307,9987,9899,37.11,184.46,149,378.01,421.23,0,228.8,0,8455
+"906",787,2917003,291700,"Itiúba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",1722.7,"Sim",38492,10338,16097,89.85,560.22,560.22,388.98,665.62,0,0,0,10338
+"907",788,2917102,291710,"Itororó",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",313.6,"Sim",21178,19249,18460,64,3105,3105,3105,3105,0,0,0,18460
+"908",789,2917201,291720,"Ituaçu",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1216.3,"Sim",19406,7032,8253,26,414.62,414.62,257.37,361.54,0,0,0,7032
+"909",791,2917334,291733,"Iuiú",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",1485.8,"Sim",11331,5493,6477,22.22,224.66,224.66,202.47,265.1,0,0,0,5493
+"910",793,2917409,291740,"Jacaraci",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",1235.6,"Sim",15409,5557,4227,13.34,157.08,0,120.3,181.46,0,0,0,4227
+"911",794,2917508,291750,"Jacobina",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",2360,"Sim",84811,59791,68244,307.08,4138.29,4138.29,2489.89,3391.2,0,0,181.39,59791
+"912",795,2917607,291760,"Jaguaquara",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",928.2,"Sim",55449,42230,46893,123.23,1757.96,1757.96,1482.33,1929.91,0,0,157.89,42230
+"913",796,2917706,291770,"Jaguarari",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",2456.5,"Sim",33186,18168,21244,137.76,2004.14,2004.14,1988.44,974.66,0,380.64,1307.82,18168
+"914",799,2918001,291800,"Jequié",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",3227.3,"Sim",161528,148268,161528,486.79,8200.98,8200.98,5563.17,7714.53,0,0,0,148268
+"915",800,2918100,291810,"Jeremoabo",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",4656.1,"Sim",41100,19020,22608,72.03,1280.65,1003.47,1018.8,1037.75,0,1.45,263.27,19020
+"916",803,2918357,291835,"João Dourado",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",914.9,"Sim",25141,15129,22003,107.61,1025.82,1025.82,710.5,958.59,0,0,0,15129
+"917",804,2918407,291840,"Juazeiro",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",6500.7,"Sim",218324,177309,211971,422,21432,21432,20993,8928,0,0,0,177309
+"918",806,2918506,291850,"Jussara",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",948.6,"Sim",15841,10579,15630,75.64,720.96,720.96,499.37,666.83,0,0,0,10579
+"919",808,2918605,291860,"Jussiape",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",585.2,"Sim",7229,2762,3758,20.94,201.18,201.18,155.15,200.39,0,0,0,2762
+"920",809,2918704,291870,"Lafaiete Coutinho",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",405.3,"Sim",4020,2168,2512,33.57,91.26,91.26,82.67,120.53,0,0,0,2168
+"921",810,2918753,291875,"Lagoa Real",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",877.4,"Sim",15801,3184,4416,35.61,148.91,148.91,127.38,175.3,0,0,0,3184
+"922",813,2919009,291900,"Lajedinho",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",776.1,"Sim",3974,1257,2595,5.28,158.85,158.85,70.37,111.14,0,0,0,1257
+"923",814,2919058,291905,"Lajedo do Tabocal",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",431.9,"Sim",8836,5478,4499,20,363.3,363.3,344.89,199.26,0,0,228.8,4499
+"924",815,2919108,291910,"Lamarão",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",174.3,"Sim",9442,2059,6109,9.41,90.49,0,168.66,247.83,0,259.41,0,2059
+"925",816,2919157,291915,"Lapão",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",602.4,"Sim",27521,10785,26684,135.96,1296,1296,897.36,1178.4,0,0,0,10785
+"926",818,2919306,291930,"Lençóis",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1277,"Sim",11445,8872,8683,19.77,400.54,400.54,330.43,445.71,0,0,0,8683
+"927",819,2919405,291940,"Licínio de Almeida",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",843.4,"Sim",12966,6586,5705,24.22,144.13,144.13,130.13,183.66,0,0,0,5705
+"928",820,2919504,291950,"Livramento de Nossa Senhora",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",2135.6,"Sim",46035,22137,28768,130.14,1674.97,1674.97,990.67,1324.14,0,0,0,22137
+"929",822,2919603,291960,"Macajuba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",650.3,"Sim",11837,7243,9759,34.91,472.15,472.15,260.2,360.82,0,0,0,7243
+"930",823,2919702,291970,"Macarani",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1287.5,"Sim",18786,14990,14847,83.79,988.19,988.19,988.19,787.5,0,0,0,14847
+"931",824,2919801,291980,"Macaúbas",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",2994.1,"Sim",50262,16463,45968,633.21,1894.3,1324.01,1148.7,1175.3,0,0,0,16449
+"932",825,2919900,291990,"Macururé",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",2294.3,"Sim",8365,2963,4000,16,190,0,130,0,0,0,0,2000
+"933",827,2919959,291995,"Maetinga",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",681.7,"Sim",5174,2071,4364,41.52,215.8,215.8,145.62,204.14,0,0,0,2071
+"934",828,2920007,292000,"Maiquinique",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",492,"Sim",10082,7940,7387,24.44,402.52,402.52,269.09,371.56,0,0,0,7387
+"935",829,2920106,292010,"Mairi",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",952.7,"Sim",20097,11558,12158,46.34,359.12,359.12,433.96,519.83,0,74.84,158.21,11558
+"936",830,2920205,292020,"Malhada",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",2008.4,"Sim",17455,7149,9673,50.55,429.98,429.98,320.79,411.14,0,0,0,7006
+"937",831,2920304,292030,"Malhada de Pedras",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",529,"Sim",8896,3397,3794,13.64,0,0,138.8,176.42,0,187.38,0,3397
+"938",832,2920403,292040,"Manoel Vitorino",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",2254.4,"Sim",14488,7411,6880,24.65,235.88,235.88,200.66,293.98,0,0,0,6880
+"939",834,2920502,292050,"Maracás",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",2253.2,"Sim",23751,17087,15050,67.57,564.42,546.51,462.29,739.36,0,0,0,13455
+"940",837,2920809,292080,"Marcionílio Souza",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",1277.2,"Sim",10951,5540,7619,42.96,264.02,264.02,244.12,326.31,0,0,0,5540
+"941",840,2921054,292105,"Matina",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",775.7,"Sim",12314,3837,4930,17,191.5,191.5,140.28,182.92,0,0,0,3837
+"942",842,2921203,292120,"Miguel Calmon",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",1568.2,"Sim",27536,16710,20084,66.26,929.98,929.98,929.98,957.32,0,0,306.37,16710
+"943",843,2921302,292130,"Milagres",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",284.4,"Sim",11659,8812,10169,89.76,545.92,545.92,342.69,520.75,0,0,0,8812
+"944",844,2921401,292140,"Mirangaba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",1697.7,"Sim",18039,8731,3279,7.61,111.74,0,101.06,139.71,0,0,0,3279
+"945",845,2921450,292145,"Mirante",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",1061,"Sim",9902,1705,2739,15.98,100.86,100.86,77.57,120.95,0,0,0,1705
+"946",846,2921500,292150,"Monte Santo",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",3186.9,"Sim",54733,9250,18979,174.27,1175.01,0,713.24,769.71,0,0,214.35,9250
+"947",847,2921609,292160,"Morpará",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",1696.9,"Sim",8967,5997,6239,30.66,278.58,278.58,198.77,281.94,0,0,0,5997
+"948",848,2921708,292170,"Morro do Chapéu",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",5742.9,"Sim",36717,21162,23383,78.07,832.02,0,711.39,995.65,0,0,0,21162
+"949",849,2921807,292180,"Mortugaba",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",612.2,"Sim",12477,5887,7169,78.09,251.61,251.61,211.79,315.35,0,0,0,5887
+"950",850,2921906,292190,"Mucugê",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",2455,"Sim",10244,4061,10244,200,750.5,450.5,580.2,0,0,0,0,4061
+"951",852,2922052,292205,"Mulungu do Morro",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",566,"Sim",12200,5895,7095,79.51,256.53,256.53,223.54,282.52,0,0,0,5895
+"952",853,2922102,292210,"Mundo Novo",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",1493.4,"Sim",27165,15104,17951,144.64,684.78,684.78,714.92,681.7,0,440.37,313.88,15083
+"953",855,2922250,292225,"Muquém de São Francisco",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",3638.1,"Sim",11495,1436,2648,29.28,121.78,121.78,83.65,109.32,0,0,0,1436
+"954",860,2922656,292265,"Nordestina",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",461.2,"Sim",13321,4222,9378,83.82,565.07,0,336.14,374.63,0,0,103.08,4222
+"955",861,2922706,292270,"Nova Canaã",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",853.7,"Sim",17082,7003,7451,22.59,369.61,369.61,244.12,350.29,0,0,0,7003
+"956",862,2922730,292273,"Nova Fátima",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",349.9,"Sim",8125,5423,8125,12.04,311.35,311.35,295.65,426.01,0,0,0,5423
+"957",864,2922805,292280,"Nova Itarana",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",470.4,"Sim",8312,3035,4449,35.15,206.75,206.75,111.21,182.5,0,0,0,3035
+"958",865,2922854,292285,"Nova Redenção",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",431.3,"Sim",9470,6173,6497,43.95,248.22,248.22,175.98,261.24,0,0,0,6173
+"959",866,2922904,292290,"Nova Soure",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",950.4,"Sim",25854,12565,13981,60.4,564.63,0,436.57,630.69,0,0,0,12565
+"960",868,2923035,292303,"Novo Horizonte",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",609.2,"Sim",12238,4019,221,0,0,0,0,0,0,0,0,221
+"961",869,2923050,292305,"Novo Triunfo",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",251.4,"Sim",15993,7973,7487,11.43,204.87,0,149.09,252.47,0,0,0,7487
+"962",870,2923100,292310,"Olindina",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",542.2,"Sim",26817,13733,14838,43.19,555.08,0,500.43,667.52,0,0,0,13733
+"963",871,2923209,292320,"Oliveira dos Brejinhos",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",3512.7,"Sim",22774,6868,6858,52.4,357,357,357,357,0,0,0,6858
+"964",873,2923357,292335,"Ourolândia",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",1487.7,"Sim",17775,6862,7760,19.84,303.52,303.52,241.3,341.14,0,0,0,6862
+"965",874,2923407,292340,"Palmas de Monte Alto",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",2524.9,"Sim",22416,10609,10935,44.83,509.35,509.35,383.6,497.65,0,0,0,10609
+"966",875,2923506,292350,"Palmeiras",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",657.7,"Sim",9130,5688,5213,8.02,248.54,0,157.34,228.68,0,0,0,5213
+"967",876,2923605,292360,"Paramirim",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",1170.1,"Sim",22077,10543,22077,171.01,1065.22,1065.22,794.05,1038.54,0,0,0,10543
+"968",877,2923704,292370,"Paratinga",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",2614.8,"Sim",32636,12063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"969",878,2923803,292380,"Paripiranga",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",435.7,"Sim",29878,10254,20061,45.86,0,0,556.65,841.76,0,982.67,0,10254
+"970",880,2924009,292400,"Paulo Afonso",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",1579.7,"Sim",119214,102726,104423,270.69,7371.58,7371.58,4717.13,5191.59,0,115.93,703.44,101289
+"971",881,2924058,292405,"Pé de Serra",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",616.2,"Sim",14471,5445,8829,40.74,293.14,280.35,293.14,412.84,0,0,0,5445
+"972",883,2924207,292420,"Pedro Alexandre",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",896.2,"Sim",18135,2973,5697,71.81,0,0,152.61,220.85,0,263.27,1.45,2973
+"973",884,2924306,292430,"Piatã",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1713.5,"Sim",18473,7820,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"974",885,2924405,292440,"Pilão Arcado",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",11732.2,"Sim",35428,11889,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"975",886,2924504,292450,"Pindaí",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",614.1,"Sim",16805,4644,4410,33.66,230.29,230.29,162.78,209.42,0,0,0,4410
+"976",887,2924603,292460,"Pindobaçu",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",496.3,"Sim",21062,11763,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"977",888,2924652,292465,"Pintadas",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",545.5,"Sim",10742,6066,6832,31.46,201.63,201.63,201.5,241.32,0,0,0,6066
+"978",890,2924702,292470,"Piripá",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",439.7,"Sim",12238,5931,6262,19.77,241.31,241.31,174.12,272.37,0,0,0,5931
+"979",891,2924801,292480,"Piritiba",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",975.6,"Sim",25027,16941,18142,135.87,749.22,749.22,851.4,801.83,0,620.16,344.14,16480
+"980",892,2924900,292490,"Planaltino",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",927,"Sim",9473,3909,4244,12.05,127.4,127.4,105.58,172.61,0,0,0,3909
+"981",893,2925006,292500,"Planalto",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",961.7,"Sim",26632,16175,18837,106.67,803.05,803.05,520.91,776.53,0,0,0,16175
+"982",894,2925105,292510,"Poções",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",826.5,"Sim",48729,37782,41921,167.94,1866.83,1866.83,1496.42,1932.35,0,0,122.34,37782
+"983",896,2925253,292525,"Ponto Novo",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",497.3,"Sim",16168,8632,16044,163.33,843.28,843.28,445.57,506.76,0,0,118.57,8632
+"984",898,2925402,292540,"Potiraguá",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",985.5,"Sim",8969,6038,7723,30.52,477.62,477.62,350.58,389.6,0,0,0,5425
+"985",900,2925600,292560,"Presidente Dutra",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",163.6,"Sim",14712,9690,14712,82.29,784.53,784.53,517.29,704.4,0,0,0,9690
+"986",901,2925709,292570,"Presidente Jânio Quadros",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1185.1,"Sim",13178,4052,5819,44.37,210.18,210.18,174.91,249.41,0,0,0,4052
+"987",903,2925808,292580,"Queimadas",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",2024.2,"Sim",26083,13244,15568,64.1,720.28,720.28,543.31,812.51,0,0,0,13244
+"988",904,2925907,292590,"Quijingue",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",1342.9,"Sim",28655,6711,18894,167.46,938.19,0,644.43,772.54,0,0,119.07,6711
+"989",905,2925931,292593,"Quixabeira",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",387.7,"Sim",10033,3847,8461,52.46,312.29,312.29,199.34,381.66,0,0,0,3847
+"990",906,2925956,292595,"Rafael Jambeiro",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",1218.9,"Sim",24349,7292,11277,93.51,588.69,588.69,352.84,512.15,0,0,0,7292
+"991",907,2926004,292600,"Remanso",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",4684,"Sim",42275,25469,18752,88,3315.22,3315.22,2793,2615.12,0,0,0,18752
+"992",908,2926103,292610,"Retirolândia",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",181.5,"Sim",13319,7427,10117,28.22,0,0,289.17,441.74,0,587.09,7.59,7427
+"993",910,2926301,292630,"Riachão do Jacuípe",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",1190.2,"Sim",35403,21196,29278,124.95,1332.78,1332.78,1076.47,1464.47,0,0,6.84,21196
+"994",911,2926400,292640,"Riacho de Santana",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",2582.2,"Sim",36039,15395,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"995",912,2926509,292650,"Ribeira do Amparo",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",642.6,"Sim",15269,2055,1741,5.29,94.7,0,57.12,78.48,0,0,0,1741
+"996",913,2926608,292660,"Ribeira do Pombal",29,"BA","Nordeste",2904,"Nordeste Baiano",29015,"Ribeira do Pombal",788.6,"Sim",51418,32198,38973,138.76,1797.48,0,1289.61,1817.9,0,12.6,0,32198
+"997",914,2926657,292665,"Ribeirão do Largo",29,"BA","Nordeste",2906,"Centro Sul Baiano",29029,"Itapetinga",1271.3,"Sim",8260,4462,407,1.18,17.74,17.74,14.3,18.03,0,0,0,0
+"998",915,2926707,292670,"Rio de Contas",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",1063.7,"Sim",13616,6604,7062,36.56,371.8,371.8,232.98,319.72,0,0,0,6604
+"999",916,2926806,292680,"Rio do Antônio",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",814.3,"Sim",15628,6322,11876,45.57,509.29,509.29,387.24,501.63,0,0,0,6322
+"1000",917,2926905,292690,"Rio do Pires",29,"BA","Nordeste",2906,"Centro Sul Baiano",29025,"Livramento do Brumado",819.8,"Sim",12084,5340,6385,23.26,281.12,281.12,204.1,282.03,0,0,0,5340
+"1001",919,2927101,292710,"Rodelas",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29005,"Paulo Afonso",2723.5,"Sim",8887,7475,7912,24,265,0,190.75,0,0,0,0,6655
+"1002",920,2927200,292720,"Ruy Barbosa",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",2171.4,"Sim",31867,23557,24937,86.21,1135.44,1108.24,783.67,1117.39,0,0,0,23557
+"1003",923,2927507,292750,"Santa Bárbara",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",345.6,"Sim",20754,9437,13243,56.87,922.06,922.06,338.99,522.89,0,0,0.42,9437
+"1004",924,2927606,292760,"Santa Brígida",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",882.9,"Sim",15100,5626,9690,71.78,0,0,284.24,423.35,0,587.52,0,5626
+"1005",927,2927903,292790,"Santa Inês",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",315.7,"Sim",11177,10261,9225,45.56,401.43,401.43,295.9,455.7,0,0,0,9225
+"1006",928,2928000,292800,"Santaluz",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",1559.7,"Sim",36915,22686,29744,95.4,1030.65,1030.65,717.42,1119.5,0,0,0,22686
+"1007",931,2928208,292820,"Santana",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",1820.1,"Sim",27260,14850,19658,171.94,854.01,854.01,669.23,907.7,0,0,0,14850
+"1008",932,2928307,292830,"Santanópolis",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",230.8,"Sim",9442,1812,4791,19.51,318.12,318.12,139.13,193.76,0,0,0.15,1812
+"1009",934,2928505,292850,"Santa Teresinha",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",707.2,"Sim",10586,2561,7706,67.02,394.28,394.28,274.4,378.82,0,0,0,2561
+"1010",937,2928802,292880,"Santo Estêvão",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",363,"Sim",53193,30763,41856,97.31,2247.59,2247.59,1263.41,1733.64,0,0,0,30763
+"1011",939,2928950,292895,"São Domingos",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",326.9,"Sim",9877,6333,8977,43.68,323.97,323.97,323.97,477.61,0,0,0,6333
+"1012",941,2929057,292905,"São Félix do Coribe",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",949.4,"Sim",15647,12696,12696,41.5,907.39,907.39,668.53,795.91,40,0,8.64,10663
+"1013",944,2929255,292925,"São Gabriel",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",1199.5,"Sim",19542,11129,18441,88.22,840.88,840.88,621.87,805.57,0,0,0,11129
+"1014",947,2929370,292937,"São José do Jacuípe",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",406,"Sim",11061,7596,8771,27.55,292.14,292.14,272.52,399.16,0,0,0,7596
+"1015",951,2929701,292970,"Sátiro Dias",29,"BA","Nordeste",2904,"Nordeste Baiano",29017,"Alagoinhas",1010,"Sim",20320,4642,8199,20.04,304.1,0,264.16,346.81,0,0,0,4642
+"1016",953,2929800,292980,"Saúde",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",504.3,"Sim",12739,7148,8523,25.62,237.19,237.19,206.74,328.06,0,0,0,7148
+"1017",954,2929909,292990,"Seabra",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",2517.3,"Sim",45202,21928,25221,72.49,733.96,151.77,733.96,1080.83,0,0,0,21928
+"1018",955,2930006,293000,"Sebastião Laranjeiras",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",1948.5,"Sim",11528,4540,10740,45,920,920,920,0,0,0,0,4540
+"1019",956,2930105,293010,"Senhor do Bonfim",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",827.5,"Sim",81330,62912,79416,203.3,3779.41,3696.76,3125.66,3768.36,0,402.25,484.05,62912
+"1020",957,2930154,293015,"Serra do Ramalho",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",2593.4,"Sim",33011,6546,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1021",958,2930204,293020,"Sento Sé",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",12698.8,"Sim",41464,24015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1022",959,2930303,293030,"Serra Dourada",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29003,"Santa Maria da Vitória",1346.6,"Sim",18389,6094,11274,98.97,491.59,491.59,332.47,470.92,0,0,0,6094
+"1023",960,2930402,293040,"Serra Preta",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",536.5,"Sim",15351,6898,9005,22,508.23,508.23,249.93,346.28,0,0,0,6898
+"1024",961,2930501,293050,"Serrinha",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",658.9,"Sim",83275,51192,76904,227.1,7873.65,0,6633.91,3444.39,0,692.75,4132.03,51192
+"1025",962,2930600,293060,"Serrolândia",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",295.8,"Sim",13373,7886,13373,93.72,622.59,622.59,511.15,745.49,0,82.32,71.9,7886
+"1026",964,2930758,293075,"Sítio do Mato",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29007,"Bom Jesus da Lapa",1751,"Sim",13320,7590,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1027",965,2930766,293076,"Sítio do Quinto",29,"BA","Nordeste",2904,"Nordeste Baiano",29013,"Jeremoabo",702.1,"Sim",11767,4833,8079,25.82,301.23,0,239.67,375.77,0,0,0,4833
+"1028",966,2930774,293077,"Sobradinho",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29004,"Juazeiro",1238.9,"Sim",23583,21441,23583,55.8,1125.58,1125.58,1125.58,1248.83,0,0,23.51,21412
+"1029",967,2930808,293080,"Souto Soares",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",993.3,"Sim",17332,6583,7749,38.53,241.16,241.16,166.15,270.37,0,0,0,6583
+"1030",968,2930907,293090,"Tabocas do Brejo Velho",29,"BA","Nordeste",2901,"Extremo Oeste Baiano",29002,"Cotegipe",1375.8,"Sim",13025,4480,11763,127.24,584.64,234.64,541,604.2,0,0,0,4480
+"1031",969,2931004,293100,"Tanhaçu",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1234.5,"Sim",21282,8816,11642,44.21,683.57,683.57,415.74,509.84,0,0,0,8816
+"1032",970,2931053,293105,"Tanque Novo",29,"BA","Nordeste",2906,"Centro Sul Baiano",29022,"Boquira",722.9,"Sim",17702,8031,11281,88.06,548.52,548.52,321.43,475.84,0,0,0,8031
+"1033",971,2931103,293110,"Tanquinho",29,"BA","Nordeste",2903,"Centro Norte Baiano",29012,"Feira de Santana",219.9,"Sim",8553,6100,7220,26.57,433.44,433.44,212.45,314.25,0,0,0.2,6100
+"1034",973,2931301,293130,"Tapiramutá",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",663.9,"Sim",17398,13467,13365,23.24,335.53,335.53,292.19,469.08,0,0,0,13365
+"1035",976,2931509,293150,"Teofilândia",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",335.5,"Sim",23011,7168,19836,69.23,1703.91,0,1292.1,721.68,0,9.36,760.26,7168
+"1036",979,2931806,293180,"Tremedal",29,"BA","Nordeste",2906,"Centro Sul Baiano",29027,"Brumado",1679.6,"Sim",18187,4207,4894,28.38,246.74,246.74,190.26,240.03,0,0,0,4207
+"1037",980,2931905,293190,"Tucano",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",2799.1,"Sim",55777,23365,28873,81.93,1248.09,2.26,923.94,1233.5,0,0,0,23365
+"1038",981,2932002,293200,"Uauá",29,"BA","Nordeste",2904,"Nordeste Baiano",29014,"Euclides da Cunha",3035.2,"Sim",25087,11112,15999,209.27,1123.19,1123.19,1170.67,1412.13,0,784.47,681.76,11112
+"1039",982,2932101,293210,"Ubaíra",29,"BA","Nordeste",2906,"Centro Sul Baiano",29024,"Jequié",726.3,"Sim",20782,9283,9971,23.59,448.75,448.75,279.55,443.12,0,0,0,9283
+"1040",985,2932408,293240,"Uibaí",29,"BA","Nordeste",2903,"Centro Norte Baiano",29009,"Irecê",551,"Sim",14483,8834,14483,81.09,772.97,772.97,516.73,704.8,0,0,0,8834
+"1041",986,2932457,293245,"Umburanas",29,"BA","Nordeste",2903,"Centro Norte Baiano",29008,"Senhor do Bonfim",1670.5,"Sim",19055,8418,9656,47.63,267.23,267.23,220.47,319.68,0,0,0,8418
+"1042",988,2932606,293260,"Urandi",29,"BA","Nordeste",2906,"Centro Sul Baiano",29026,"Guanambi",969.4,"Sim",17301,6240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1043",990,2932804,293280,"Utinga",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",638.2,"Sim",19593,13811,14085,30.18,472.37,472.37,428.03,626.93,0,0,0,13811
+"1044",992,2933000,293300,"Valente",29,"BA","Nordeste",2904,"Nordeste Baiano",29016,"Serrinha",384.3,"Sim",27906,15324,23287,94.78,794.44,794.44,652.93,1041.6,0,0,0,15324
+"1045",993,2933059,293305,"Várzea da Roça",29,"BA","Nordeste",2903,"Centro Norte Baiano",29011,"Itaberaba",513.9,"Sim",14729,6924,12471,82.74,471.81,471.81,403.53,580.68,0,0,13.59,6924
+"1046",994,2933109,293310,"Várzea do Poço",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",204.9,"Sim",9416,6294,7435,63.44,295.38,295.38,310.1,332.69,0,301.93,130.13,6167
+"1047",995,2933158,293315,"Várzea Nova",29,"BA","Nordeste",2903,"Centro Norte Baiano",29010,"Jacobina",1192.9,"Sim",13470,8813,11878,47.54,412,0,324.8,508.45,0,0,0,8813
+"1048",999,2933307,293330,"Vitória da Conquista",29,"BA","Nordeste",2906,"Centro Sul Baiano",29028,"Vitória da Conquista",3405.6,"Sim",343230,307296,343230,1176.48,16241.13,16241.13,11600.41,15460.42,0,202.07,268.93,307296
+"1049",1000,2933406,293340,"Wagner",29,"BA","Nordeste",2906,"Centro Sul Baiano",29023,"Seabra",421,"Sim",9731,7022,7266,18.82,253.07,253.07,213.35,312.65,0,0,0,7022
+"1050",1003,2933604,293360,"Xique-Xique",29,"BA","Nordeste",2902,"Vale São-Franciscano da Bahia",29006,"Barra",5502.3,"Sim",48316,34528,45562,262.3,5434.44,5434.44,5434.44,5434.44,0,0,0,32016
+"1051",702,3108255,310825,"Bonito de Minas",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",3904.9,"Sim",10669,2436,2436,14.51,141.38,0,116.92,134.05,0,0,0,2436
+"1052",624,3101003,310100,"Águas Vermelhas",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1258.8,"Sim",13447,9451,9451,59.4,474.4,474.4,370.7,429.23,0,0,0,9451
+"1053",632,3101706,310170,"Almenara",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",2294.4,"Sim",41296,33814,33099,136.17,2023.49,2011.47,1557.75,1734,0,1.48,0,30852
+"1054",643,3102704,310270,"Cachoeira de Pajeú",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",695.7,"Sim",9410,4686,4235,9.87,151.97,142.79,112.9,120.27,0,0,0,4235
+"1055",651,3103405,310340,"Araçuaí",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",2236.3,"Sim",37270,24253,25662,115.41,1529.03,1506.79,1234.13,1355.95,0,0,0,22651
+"1056",671,3105202,310520,"Bandeira",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",483.8,"Sim",5019,2392,3081,14,198.57,197.42,109.39,114.48,0,0,0,2382
+"1057",683,3106507,310650,"Berilo",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",587.1,"Sim",12431,3929,12143,29.28,290.03,247.68,183.86,200.85,0,0,0,2628
+"1058",685,3106655,310665,"Berizal",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",488.8,"Sim",4661,2650,2650,18.03,179.22,145.18,134.84,154.33,0,0,0,2650
+"1059",753,3112703,311270,"Capitão Enéas",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",971.6,"Sim",15074,12224,9104,37.23,474.04,0,346.5,390.26,0,0,0,9104
+"1060",756,3113008,311300,"Caraí",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",1242.2,"Sim",23571,7586,11322,32.82,373.56,363.11,287.39,306.45,0,0,0,6525
+"1061",784,3115474,311547,"Catuti",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",287.8,"Sim",5174,3020,2120,13.46,120.12,120.12,86.61,101.91,0,0,0,2120
+"1062",791,3116100,311610,"Chapada do Norte",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",831,"Sim",15657,5869,8094,45.28,271.13,263.25,90.32,43.53,0,0,0,4111
+"1063",801,3117009,311700,"Comercinho",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",655,"Sim",7835,3349,5705,20.45,186.54,177.91,137.95,149.02,0,0,0,3340
+"1064",810,3117836,311783,"Cônego Marinho",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1642,"Sim",7564,2040,2040,13.08,69.25,0,59.11,68.7,0,0,0,2040
+"1065",828,3119500,311950,"Coronel Murta",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",815.4,"Sim",9400,6901,6324,26.64,360.07,327.84,292.1,320.35,0,0,0,5260
+"1066",838,3120300,312030,"Cristália",31,"MG","Sudeste",3102,"Norte de Minas",31008,"Grão Mogol",840.7,"Sim",6010,3186,2670,21.01,159.74,159.74,118.36,144.18,0,0,0,2670
+"1067",845,3120870,312087,"Curral de Dentro",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",568.3,"Sim",7491,6325,5297,34.87,212.29,212.29,177.54,212.24,0,0,0,5297
+"1068",862,3122355,312235,"Divisa Alegre",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",117.8,"Sim",6478,6268,5575,25.67,276.16,276.16,240.59,282.77,0,0,0,5575
+"1069",864,3122454,312245,"Divisópolis",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",572.9,"Sim",10209,7284,7284,18.63,259,259,231.52,280.31,0,0,0,7284
+"1070",886,3124302,312430,"Espinosa",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",1869,"Sim",32151,18624,18624,99.52,1408.06,1408.06,1030.98,1135.97,0,0,0,18624
+"1071",899,3125606,312560,"Felisburgo",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",596.2,"Sim",7338,5429,5420,29.2,276.52,273.06,197.51,209.58,0,0,0,5420
+"1072",909,3126505,312650,"Francisco Badaró",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",461.3,"Sim",10550,3285,6901,34.24,410.28,202.84,158.79,186.51,0,0,0,3201
+"1073",911,3126703,312670,"Francisco Sá",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",2747.3,"Sim",26217,15677,15820,54,644.75,320.34,643.47,776.82,0,0,0,15667
+"1074",918,3127073,312707,"Fruta de Leite",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",762.8,"Sim",5809,1991,4347,20.37,101.23,0,100.77,112,0,0,0,1990
+"1075",922,3127339,312733,"Gameleiras",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",1733.2,"Sim",5255,1445,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1076",930,3127800,312780,"Grão Mogol",31,"MG","Sudeste",3102,"Norte de Minas",31008,"Grão Mogol",3885.3,"Sim",15805,5671,6485,25.65,321.65,252.92,242.53,275.92,0,0,0,4504
+"1077",950,3129657,312965,"Ibiracatu",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",353.4,"Sim",6206,3149,3149,21.87,158.35,0,131.6,163.48,0,0,0,3149
+"1078",963,3130655,313065,"Indaiabira",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1004.1,"Sim",7526,2815,2657,17.31,120.9,59.52,98.19,116.77,0,0,0,2657
+"1079",979,3132107,313210,"Itacarambi",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1225.3,"Sim",18383,14315,12868,51.4,681.5,681.5,552.28,610.05,0,0,0,12868
+"1080",991,3133303,313330,"Itaobim",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",679,"Sim",21564,16202,17883,100.63,948.44,942.74,820.75,899.62,0,6.24,0,15430
+"1081",999,3134004,313400,"Itinga",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",1649.6,"Sim",15059,6851,10246,45.17,478.98,469.58,335.42,352.39,0,0.3,6.24,6850
+"1082",1006,3134707,313470,"Jacinto",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",1393.6,"Sim",12537,9502,8136,40.87,419.39,412.3,340.5,395.29,0,0,0,6676
+"1083",1010,3135050,313505,"Jaíba",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",2626.3,"Sim",37054,19455,18288,84.38,996.41,996.41,874.92,970.71,0,0,0,18288
+"1084",1012,3135100,313510,"Janaúba",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",2181.3,"Sim",70886,64272,61985,394.96,3357.57,3357.57,2889.14,3175.57,0,0,0,61985
+"1085",1013,3135209,313520,"Januária",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",6661.7,"Sim",68247,43079,33868,176.84,2333.95,2333.95,1783.43,1988.99,0,0,0,33868
+"1086",1015,3135357,313535,"Japonvar",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",374.9,"Sim",8643,3177,2430,28.56,152.55,0,126.91,152.59,0,0,0,2430
+"1087",1017,3135456,313545,"Jenipapo de Minas",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",284.5,"Sim",7580,3071,6132,48.23,154.28,25.6,154.28,16.65,0,0,0,3009
+"1088",1021,3135803,313580,"Jequitinhonha",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",3514.2,"Sim",25365,17933,18745,64.69,1103.12,1085.88,775,865.38,0,0,0,15161
+"1089",1023,3136009,313600,"Joaíma",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",1664.2,"Sim",15562,10700,10646,47.25,504.18,500.72,427.17,478.15,0,0,0,8924
+"1090",1028,3136504,313650,"Jordânia",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",546.7,"Sim",10826,7572,6705,17.45,391.86,391.86,289.01,326.75,0,0,0,6705
+"1091",1029,3136520,313652,"José Gonçalves de Minas",31,"MG","Sudeste",3103,"Jequitinhonha",31011,"Capelinha",381.3,"Sim",4643,1160,2040,10.03,50.44,0,47.6,50.75,0,0,0,1150
+"1092",1031,3136579,313657,"Josenópolis",31,"MG","Sudeste",3102,"Norte de Minas",31008,"Grão Mogol",541.4,"Sim",4830,2585,3661,18.39,121.42,81.87,81.87,89.64,0,0,0,2512
+"1093",1037,3136959,313695,"Juvenília",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1064.7,"Sim",5861,4510,3141,27.31,180.34,180.34,148.53,165.2,0,0,0,3141
+"1094",1058,3138658,313865,"Lontra",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",259.2,"Sim",8938,5993,4622,25.14,242.15,168.16,195.92,228.86,0,0,0,4622
+"1095",1067,3139250,313925,"Mamonas",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",291.4,"Sim",6591,2932,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1096",1068,3139300,313930,"Manga",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1950.2,"Sim",19622,13715,12034,65.26,710.54,710.54,610.6,663,0,0,0,12034
+"1097",1083,3140555,314055,"Mata Verde",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",227.5,"Sim",8425,6835,6835,20.77,331.59,331.59,274.15,324.05,0,0,0,6835
+"1098",1087,3140852,314085,"Matias Cardoso",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1949.7,"Sim",10822,5570,5103,33.68,331.31,224.64,257.38,285.69,0,0,0,5103
+"1099",1089,3141009,314100,"Mato Verde",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",472.2,"Sim",12895,9616,9616,61.08,568.64,568.64,395.83,457.12,0,0,0,9616
+"1100",1093,3141405,314140,"Medina",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",1435.9,"Sim",21459,15403,15065,54.13,585.45,584.77,549.81,290.84,0,0,0,13847
+"1101",1102,3142254,314225,"Miravânia",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",602.1,"Sim",4832,1146,1146,8.68,65.2,0,59.79,66.89,0,0,0,1146
+"1102",1107,3142700,314270,"Montalvânia",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1503.8,"Sim",15779,10185,8578,50.09,595.17,595.17,427.1,468.23,0,0,0,8578
+"1103",1109,3142908,314290,"Monte Azul",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",994.2,"Sim",21990,12416,12416,65.63,856.25,856.25,596.37,680.13,0,0,0,12416
+"1104",1112,3143153,314315,"Monte Formoso",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",385.6,"Sim",4897,1788,3496,62.1,115.47,108.61,69.25,76.5,0,0,0,1780
+"1105",1116,3143450,314345,"Montezuma",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1130.4,"Sim",8041,3317,3061,15.31,154.91,154.91,117.23,140.86,0,0,0,3061
+"1106",1131,3144656,314465,"Ninheira",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1108.2,"Sim",10301,2753,2753,10.52,264.92,264.92,132.48,157.97,0,0,0,2753
+"1107",1137,3145059,314505,"Nova Porteirinha",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",120.9,"Sim",7636,4200,4200,91.27,314.26,314.26,254.69,282.33,0,0,0,4200
+"1108",1140,3145307,314530,"Novo Cruzeiro",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",1703,"Sim",31803,10891,12482,35.55,570.79,560.42,426.66,490.3,0,0,0,8831
+"1109",1142,3145372,314537,"Novorizonte",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",271.9,"Sim",5255,1818,5013,31.35,177.5,0,136.23,147.63,0,0,0,1810
+"1110",1155,3146255,314625,"Padre Carvalho",31,"MG","Sudeste",3102,"Norte de Minas",31008,"Grão Mogol",446.3,"Sim",6250,3709,4907,26.54,185.14,145.58,145.58,153.57,0,0,0,3690
+"1111",1156,3146305,314630,"Padre Paraíso",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",544.4,"Sim",19971,12206,10793,40.19,723.62,723.62,441.15,503.96,0,0,0,10793
+"1112",1159,3146552,314655,"Pai Pedro",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",839.8,"Sim",6162,1816,1564,13.3,100.31,0,86.06,97.24,0,0,0,1564
+"1113",1174,3147956,314795,"Patis",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",444.2,"Sim",5914,2439,2146,14.3,132.22,0,93.88,114.47,0,0,0,2146
+"1114",1182,3148707,314870,"Pedra Azul",31,"MG","Sudeste",3103,"Jequitinhonha",31013,"Pedra Azul",1595.1,"Sim",24683,21750,18867,74.29,1125.29,1125.29,699.94,793.97,0,0,0,18867
+"1115",1188,3149150,314915,"Pedras de Maria da Cruz",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",1525.5,"Sim",11193,6867,5850,28.49,278.01,278.01,219.99,250.15,0,0,0,5850
+"1116",1224,3152170,315217,"Ponto dos Volantes",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",1212.4,"Sim",12016,4269,7254,22.28,264.92,217.14,190.28,203.12,0,0,0,4260
+"1117",1225,3152204,315220,"Porteirinha",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",1749.7,"Sim",38720,19900,19900,271.45,1610.89,1578.29,1284.3,1431.54,0,0,0,19900
+"1118",1250,3154507,315450,"Riacho dos Machados",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",1315.5,"Sim",9658,4642,3719,24.06,194.34,11.99,159.04,180.91,0,0,0,3719
+"1119",1261,3155603,315560,"Rio Pardo de Minas",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",3117.4,"Sim",30732,12348,10725,41.21,556.15,556.15,431.05,495.64,0,0,0,10725
+"1120",1271,3156502,315650,"Rubelita",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1110.3,"Sim",7093,2296,6398,36.92,221.57,162.37,162.37,174.5,0,0,0,2217
+"1121",1272,3156601,315660,"Rubim",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",965.2,"Sim",10330,8022,6738,29.23,286.81,286.81,272.47,341.34,0,0,0,6738
+"1122",1276,3157005,315700,"Salinas",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1887.6,"Sim",41301,32380,38487,276.77,2286.32,2137.27,1588.99,1780.59,0,0,0,29422
+"1123",1277,3157104,315710,"Salto da Divisa",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",937.9,"Sim",7107,5957,5539,22.05,325.99,325.99,273.8,300.32,0,0,0,5539
+"1124",1283,3157377,315737,"Santa Cruz de Salinas",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",589.6,"Sim",4383,1147,2674,10.95,77.8,68.26,50.11,55.84,0,0,0,1147
+"1125",1292,3158102,315810,"Santa Maria do Salto",31,"MG","Sudeste",3103,"Jequitinhonha",31014,"Almenara",440.6,"Sim",5393,3819,3819,18.25,204.58,198.35,139.09,149.09,0,0,0,3815
+"1126",1318,3160454,316045,"Santo Antônio do Retiro",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",796.3,"Sim",7290,1667,1565,12.25,77.84,0,67.04,79.05,0,0,0,1565
+"1127",1342,3162401,316240,"São João da Ponte",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",1851.1,"Sim",25906,8843,6344,38.15,407.92,0,294.44,335.52,0,0,0,6344
+"1128",1343,3162450,316245,"São João das Missões",31,"MG","Sudeste",3102,"Norte de Minas",31003,"Januária",678.3,"Sim",12652,2642,2337,11.87,179.27,0,138.73,153.8,0,0,0,2337
+"1129",1349,3162708,316270,"São João do Paraíso",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1925.6,"Sim",23526,10789,10789,69.29,566.43,566.43,464.4,539.45,0,0,0,10789
+"1130",1401,3166956,316695,"Serranópolis de Minas",31,"MG","Sudeste",3102,"Norte de Minas",31004,"Janaúba",552,"Sim",4712,1840,1840,29.35,98.44,98.44,87.17,103.83,0,0,0,1840
+"1131",1412,3168002,316800,"Taiobeiras",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",1194.5,"Sim",33315,27004,24527,100,1156.21,1099.61,947.98,1111.98,0,0,0,22756
+"1132",1447,3170651,317065,"Vargem Grande do Rio Pardo",31,"MG","Sudeste",3102,"Norte de Minas",31005,"Salinas",491.5,"Sim",4989,2552,2552,19.15,119.12,119.12,98.16,116.18,0,0,0,2552
+"1133",1451,3170909,317090,"Varzelândia",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",815,"Sim",19702,9177,9057,60.12,491.12,0,445.91,510.5,0,0,0,9057
+"1134",1453,3171030,317103,"Verdelândia",31,"MG","Sudeste",3102,"Norte de Minas",31007,"Montes Claros",1570.6,"Sim",9056,5167,4967,29.6,266.57,246.66,207,229.31,0,0,0,4967
+"1135",1461,3171600,317160,"Virgem da Lapa",31,"MG","Sudeste",3103,"Jequitinhonha",31012,"Araçuaí",868.9,"Sim",14030,7046,8889,41.69,496.97,496.97,392,442.52,0,0,0,6624
