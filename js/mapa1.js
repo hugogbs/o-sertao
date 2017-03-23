@@ -48,7 +48,7 @@
             var text = svg.append("text").attr('class', 'label');
 
             color
-                .domain([0, 10000, 20000, 30000, 40000, 50000])
+                .domain([0, 10000, 20000, 30000, 50000, 1000000])
                 .range([d3.rgb(204, 0, 0, .2), d3.rgb(204, 0, 0, .4), d3.rgb(204, 0, 0, .6), d3.rgb(204, 0, 0, .8), d3.rgb(204, 0, 0, 1.0)]);
 
 
@@ -73,16 +73,16 @@
                  cidade = dados_sab[i]
                  svg.select("#area-"+cidade.GEOCODIGO )
                   .attr("fill", function() {
-                if (isNaN(cidade.POPULACAO_URBANA)) {
+                if (isNaN(cidade.POPULACAO_TOTAL)) {
                    return "#3333CC";
                 } else {
-                   return color(+cidade.POPULACAO_URBANA);
+                   return color(+cidade.POPULACAO_TOTAL);
                  }
                 })
               }
 
               var legend = g.selectAll(".legend")
-                .data(["Entre 40001 e 50000", "Entre 30001 e 40000", "Entre 20001 e 30000", "Entre 10001 e 20000", "Entre 0 e 10000"  ])
+                .data(["Acima de 50001", "Entre de 30001 e 50000", "Entre 20001 e 30000", "Entre 10001 e 20000", "Entre 0 e 10000"  ])
                 .enter().append("g")
                 .attr("class", "legend")
                 .attr("transform", function(d, i) { return "translate(-" + 220 + ", " + (i+5) * 20 + ")"; })
